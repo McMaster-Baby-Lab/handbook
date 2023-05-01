@@ -1,12 +1,12 @@
 ---
 layout: default
-title: New lab member checklist
-parent: Basics
+title: NIRS
+parent: Research Devices
 nav_order: 2
-permalink: /newMembers
+permalink: /nirs
 ---
 
-# A to-do list for new lab members
+# Near infrared spectroscopy
 {: .no_toc }
 
 ## Table of contents

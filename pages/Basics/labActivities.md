@@ -6,7 +6,7 @@ nav_order: 1
 permalink: /meetings
 ---
 
-# Lab Activities
+# Lab activities
 {: .no_toc }
 
 ## Table of contents
@@ -16,3 +16,15 @@ permalink: /meetings
 {:toc}
 
 ---
+
+## Lab meetings
+
+## Project meetings
+
+## Lab shifts
+
+## Training
+
+## Outreaching activities
+
+## Lab social
