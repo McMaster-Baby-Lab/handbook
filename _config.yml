@@ -42,3 +42,6 @@ back_to_top_text: "Back to top"
 # Supports a CSV of tracking ID strings (eg. "UA-1234567-89,G-1AB234CDE5")
 ga_tracking: G-72THWJ89QH
 ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
+
+# customized scheme
+color_scheme: babyLab
