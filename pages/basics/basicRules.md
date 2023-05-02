@@ -18,3 +18,6 @@ permalink: /rules
 ---
 
 ## The use of lab spaces
+### Dress code
+### Food storage
+### Cleaning the space
