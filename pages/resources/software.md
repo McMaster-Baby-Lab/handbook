@@ -17,9 +17,10 @@ permalink: /researchsoftware
 
 ---
 
-## Stimuli presentation software
+## Stimuli presentation / control software
 ### PsychoPy
-For PsychoPy templates to work with EyeLink eye tracker, here are some resources: [PsychoPy templates from us] & [PsychoPy templates from SR-Research]
+For PsychoPy templates to work with EyeLink eye tracker, here are some resources: [PsychoPy templates from us](https://github.com/McMaster-Baby-Lab/PsychoPy_EyeLink_Templates){:target="_blank"} & [PsychoPy templates from SR-Research](https://www.sr-research.com/support/thread-7525.html){:target="_blank"}
+
 ### Psychotoolbox with MATLAB
 
 ## Data analyses software
@@ -34,7 +35,3 @@ For PsychoPy templates to work with EyeLink eye tracker, here are some resources
 ### ENDNOTE
 
 ## DRDB (Research management software)
-
-
-[PsychoPy templates from SR-Research]: https://www.sr-research.com/support/thread-7525.html
-[PsychoPy templates from us]: https://github.com/McMaster-Baby-Lab/PsychoPy_EyeLink_Templates
