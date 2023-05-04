@@ -21,3 +21,4 @@ permalink: /rules
 ### Dress code
 ### Food storage
 ### Cleaning the space
+### Lab materials and equipment
