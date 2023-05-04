@@ -6,7 +6,7 @@ has_children: true
 permalink: /resources
 ---
 
-# Resources & Training Materials
+# Resources 
 
 Here, we list resources for our research.
 {: .fs-6 .fw-300 }
