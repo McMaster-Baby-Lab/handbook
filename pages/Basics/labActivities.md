@@ -16,8 +16,14 @@ permalink: /meetings
 {:toc}
 
 ---
+## Lab communication
+
+## Lab Space
+### Accessing the space
+### Leaving the space
 
 ## Lab meetings
+### Journal Club
 
 ## Project meetings
 
@@ -27,5 +33,5 @@ permalink: /meetings
 
 ## Outreaching activities
 
-## Lab social
+## Lab socials
 add new contents.
