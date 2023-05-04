@@ -35,6 +35,10 @@ permalink: /researchBasics
 
 ## Online studies
 ### with adults (SONA system)
+#### Introduction 
+#### Verbal consent
+#### Zoom
+#### Post-Testing
 ### with infants & children
 #### AVAYA
 #### Lab email
