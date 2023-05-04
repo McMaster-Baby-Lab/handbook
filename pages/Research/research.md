@@ -6,7 +6,7 @@ has_children: true
 permalink: /research
 ---
 
-# Research
+# Research Procedures
 
-Here, we list documents, instructions, and resources for our research.
+Here, we outline the basics of running studies, ethics approval, and data management.
 {: .fs-6 .fw-300 }
