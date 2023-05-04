@@ -18,3 +18,6 @@ permalink: /undergrads
 ---
 
 ## Expectations
+### Research Assistants
+### Independent Study Students (2QQ3, 3QQ3, 4QQ3)
+### Research Volunteers
