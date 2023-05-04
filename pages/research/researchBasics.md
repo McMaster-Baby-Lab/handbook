@@ -19,8 +19,26 @@ permalink: /researchBasics
 
 ## In-person studies
 ### with adults
+#### Directions to lab
+#### Consent forms
+#### Study
+#### Debrief
 ### with infants & children
+#### Directions to the lab
+#### Parking
+#### Waiting area
+#### Consent forms
+#### Study
+#### Debrief
+#### Compensation
+
 
 ## Online studies
 ### with adults (SONA system)
 ### with infants & children
+#### AVAYA
+#### Lab email
+#### Introduction 
+#### Verbal consent
+#### Zoom
+#### Post-Testing
