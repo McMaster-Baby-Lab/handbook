@@ -8,5 +8,5 @@ permalink: /labMembers
 
 # Information for lab members
 
-Here, we list documents, instructions, and resources for general lab activties.
+Here, we outline expectations for lab members based on role. 
 {: .fs-6 .fw-300 }
