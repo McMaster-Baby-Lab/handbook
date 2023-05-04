@@ -6,7 +6,7 @@ nav_order: 1
 permalink: /newMembers
 ---
 
-# A to-do list for new lab members
+# Important information for new lab members
 {: .no_toc }
 
 ## Table of contents
