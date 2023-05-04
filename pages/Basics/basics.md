@@ -8,5 +8,5 @@ permalink: /basics
 
 # Basics
 
-Here, we list documents, instructions, and resources for general lab activties.
+Here, we list documents, instructions, and resources for general lab activities.
 {: .fs-6 .fw-300 }
