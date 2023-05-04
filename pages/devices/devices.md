@@ -8,5 +8,5 @@ permalink: /devices
 
 # Research devices used in the lab
 
-Here, we list documents, instructions, and resources for general lab activties.
+Here, we outline the various devices and technology used for research in the lab.
 {: .fs-6 .fw-300 }
