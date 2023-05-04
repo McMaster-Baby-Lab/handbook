@@ -16,3 +16,7 @@ permalink: /newMembers
 {:toc}
 
 ---
+
+## Code of Conduct 
+
+## Checklist for new members
