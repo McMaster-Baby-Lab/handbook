@@ -41,5 +41,6 @@ If you have any concerns about your safety or the safety of others in the lab, p
 - [ ] Fill out the access card application [here](https://forms.office.com/pages/responsepage.aspx?id=B2M3RCm0rUKMJSjNSW9HcudkN_4lJH5IiXFmxJeXy5JUN0xJNzZCM0lWSzMxQk9SUDVYRDM2MU9aSi4u)
 - [ ] Fill out [this form](https://forms.office.com/r/DyyjwnPBXj) to have your bio added to our website. For the uploaded photos, make sure to crop them in 500 * 500 pixel.
 - [ ] Ensure you are able to gain access to DRDB (you will receive an email invite)
+- [ ] Familiarize yourself with the expectations based on your role in the lab. 
 - [ ] Familiarize yourself will all protocols and procedures in this handbook as well as training materials for recruitment and DRDB. 
 
