@@ -52,6 +52,8 @@ Do not share the code to our lock box with anyone outside of the lab.
 
 ### Leaving the space
 
+Please ensure both doors are closed if you are the last person leaving the lab. Closing the doors is extremely important for security reasons. 
+
 ## Lab meetings
 
 Lab meetings will be held in person on DATETIME
@@ -59,6 +61,26 @@ Lab meetings will be held in person on DATETIME
 You are expected to attend lab meetings but in the case that a conflict arises, please refer to the posted agenda found on Microsoft Teams to catch up on missed information.
 
 ### Journal Club
+
+Journal club is an opportunity for the lab to discuss recent papers published in the field during lab meetings. During journal club, students will present and critically analyze a research paper. 
+
+Each independent study/thesis student will present 1 paper chosen by the student and approved by the supervisor. The journal will be assigned to the student and the student will select a paper from their assigned journal. The student will then briefly present the paper at the lab meeting. PowerPoint slides are not permitted, students only need to describe the paper verbally in a 3 minute maximum presentation. After the presentation, lab members will have an opportunity to ask the student questions about the paper and engage in discussion. 
+
+Article requirements:
+-	Empirical research article or review papers. Commentary articles, report, or correspondence articles are NOT qualified.
+-	Articles published in the past 3 years.
+-	Articles never presented at our lab meeting before (check Journal club channel on Teams for past presented papers).
+- Articles that lab members did NOT participate in.
+
+Here are some tips for your reading and presentation:
+- Make sure you understand the research question the paper is attempting to answer.
+-	What is the general method of the study and how did the researchers use the method to address the research question?
+- What the meaning of the study in terms of its theoretical and practical contributions.
+-	Who are the authors, are there trainees (students, post-docs, and staffs) in the authors, or all authors are professors from different university?
+-	What is the specialty of the authors’ lab(s)?
+-	What are the things you like or dislike about the article?
+-	THERE IS NO RIGHT OR WRONG PRESENTATION. BE YOURSELF.
+
 
 ## Project meetings
 You will work alongside a group of other students on a project - please ensure that you are following up with them regularly to complete all tasks.
