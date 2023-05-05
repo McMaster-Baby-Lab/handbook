@@ -66,13 +66,13 @@ Journal club is an opportunity for the lab to discuss recent papers published in
 
 Each independent study/thesis student will present 1 paper chosen by the student and approved by the supervisor. The journal will be assigned to the student and the student will select a paper from their assigned journal. The student will then briefly present the paper at the lab meeting. PowerPoint slides are not permitted, students only need to describe the paper verbally in a 3 minute maximum presentation. After the presentation, lab members will have an opportunity to ask the student questions about the paper and engage in discussion. 
 
-Article requirements:
+**Article requirements:**
 -	Empirical research article or review papers. Commentary articles, report, or correspondence articles are NOT qualified.
 -	Articles published in the past 3 years.
 -	Articles never presented at our lab meeting before (check Journal club channel on Teams for past presented papers).
 - Articles that lab members did NOT participate in.
 
-Here are some tips for your reading and presentation:
+**Here are some tips for your reading and presentation:**
 - Make sure you understand the research question the paper is attempting to answer.
 -	What is the general method of the study and how did the researchers use the method to address the research question?
 - What the meaning of the study in terms of its theoretical and practical contributions.
