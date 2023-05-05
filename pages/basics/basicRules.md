@@ -35,6 +35,9 @@ Cleaning supplies can be found in the kitchen area.
 
 ### Lab materials and equipment
 
+Please make sure that you are handling all lab equipment very carefully.
+We are lucky to have access to these expensive devices that allow us to conduct our research. Please make sure that you complete all appropriate training before using the equipment so that you are well educated about how to use it. If you are unclear about how to use certain equipment, please ask others in the lab for help! If some of the equipment doesn’t seem to be working properly, please inform Dr. Xiao. 
+
 There are printers, phones, and computers in the lab, please ensure you are only using them for lab related purposes - they are not meant for personal use! 
 
 Please do not remove any items from the lab for personal use (e.g. pencils, pens, and other stationary. Please ensure that all equipment within the lab is left in the appropriate places. 
