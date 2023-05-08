@@ -63,9 +63,10 @@ permalink: /researchEthics
 	- PLEASE upload the recruitment email and reminder email as separate PDFs and rename each more specifically.
 
 **Document Upload**
+- Convert LoI and Recruitment scripts to pdf and highlight the parts that are specific to your study (different from the template)
 - Make sure all the information (e.g., title, duration) is consistent across all documents and the individual form.
-	- Every document should have the name of the study on the first page, and in the footer of every page.
-	- Document files should be named according to version number, date approved, and the study name. The file name should also include a short form of the study name (e.g. abbreviation) so that each document is more easily identified. The format should be [Document Type]_[Abbreviation of Study Title]_Date_VersionNumber.pdf
+- Every document should have the name of the study on the first page, and in the footer of every page.
+- Document files should be named according to version number, date approved, and the study name. The file name should also include a short form of the study name (e.g. abbreviation) so that each document is more easily identified. The format should be [Document Type]_[Abbreviation of Study Title]_Date_VersionNumber.pdf
 			- An example file name for an approved Letter of Information: LoI_IPFFM_21Sep2021_v2.pdf
 			- An example file name for a pending Recruitment Document: Recruitment_CLDPF_29Aug2021_v1.pdf
 
