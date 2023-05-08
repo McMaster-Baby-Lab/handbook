@@ -12,3 +12,6 @@ We are a scientific research team interested in human cognitive development from
 # Purpose of the Lab Manual
 
 In this handbook, you can find information on basic lab regulations and resources for training. Please review each section to familiarize yourself with the processes and procedures used in the McMaster Baby Lab. 
+
+![download](https://user-images.githubusercontent.com/132396918/236876464-f7064acc-acb8-4835-bdd5-8f1b7d6c4d49.png)
+
