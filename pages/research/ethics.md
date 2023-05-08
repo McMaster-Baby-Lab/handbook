@@ -31,9 +31,9 @@ permalink: /researchEthics
 - 1.6 Students should be selecting option 1 in section 1.6 after they receive feedback about their MREB application submission. This way they will be able to upload a summary of the changes they have made to their application before re-submitting for approval.
 - 2.8 Add your name if you are in the original program of research ethic application, otherwise, you can choose Yes in 2.9 and add your own information.
 - 3.1 Please answer the following questions to complete this section. It is important to provide a detailed procedure in this part (e.g., trials, duration). You should change the part that unique to your own project. Leave the Recruitment plan and Confidentiality/Data storage/ Consent in other session.
-		1. Number and description of participants for this chapter project (e.g. children & parents)
-          		* Fill in based on study specific information
-		2. Specific recruitment plan (children & parents)
+	1. Number and description of participants for this chapter project (e.g. children & parents)
+          	+ Fill in based on study specific information
+	Specific recruitment plan (children & parents)
           		* Template: Participants will generally be recruited using the PNB developmental participant database (separate ethics protocol #3693, PI: Xiao, approved). This database stores contact information of families who previously expressed an interest in having their children participate in our studies. Authorized research staff and students will contact caregivers with children in the age range and with the relevant criteria for a study. At that time, we will first call or email the family (depending on their listed preference) to let them know that they are eligible to participate in the experiment and invite them to schedule an appointment. Qualified children whose parents respond positively to this contact will be scheduled for a study appointment.
 		3. Methodology: Describe how you are collecting data (e.g. questionnaire), where (e.g. Zoom, telephone), how long the interview/experiment will take, audio/video recordings, transcription (children & parents)
          		* Fill in based on study specific information
