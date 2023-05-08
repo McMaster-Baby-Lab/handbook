@@ -65,6 +65,8 @@ Ensure the doors inside the lab space are closed. Make sure the 2 doors leading 
 
 Lab meetings will be held in person on DATETIME
 
+Please inform Dr. Xiao if the lab meeting time does not work for you. 
+
 You are expected to attend lab meetings but in the case that a conflict arises, please refer to the posted agenda found on Microsoft Teams to catch up on missed information.
 
 ### Journal Club
