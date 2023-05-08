@@ -64,7 +64,7 @@ Debrief with the family after the experiment is complete. The debriefing period 
 If the family requests the results, let them know that we can provide the average results of the group, but are unable to provide specific data collected with their child.
 
 #### Compensation
-Provide the family with their chosen gift card after the study is complete and guide them back out of the building. Again, be sure to thank them for their time and contribution.
+Provide the family with their gift of choice after the study is complete and guide them back out of the building. Again, be sure to thank them for their time and contribution.
 
 #### Timing
 Try to keep all meetings with the family within an hour. This is especially important to ensure that we can keep all appointments running smoothly and on time to respect others who may need to use the testing spaces as well.
