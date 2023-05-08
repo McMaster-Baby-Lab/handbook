@@ -6,9 +6,9 @@ nav_order: 1
 
 # Mission Statement 
 We are a scientific research team interested in human cognitive development from infancy to early childhood. Our team members include faculty, graduate and undergraduate students, as well as research staff.
-<p align="right">
-  <img src="https://user-images.githubusercontent.com/132396918/236883695-aae59891-217b-4a18-95cb-3b4e1c132605.png" width="400" alt="logo">
-</p>
+<div style="float:right;margin:0 0 10px 10px" markdown="1">
+    <img src="https://user-images.githubusercontent.com/132396918/236883695-aae59891-217b-4a18-95cb-3b4e1c132605.png" width="400" alt="logo">
+</div>
 Our research aims at understanding how we learn remarkable cognitive and social skills as we grow up. To explore these questions, we use infant and child-friendly research methods, such as eye tracking, neuroimaging, and behavioural testing. We hope that by working together, we can identify the processes that shape human cognitive development and offer empirical proof to help resolve social problems and address impairments brought on by abnormal development. 
 
 
