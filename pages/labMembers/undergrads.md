@@ -29,12 +29,12 @@ permalink: /undergrads
     - Software development: develop modules for the research management system
 
 ### Additional Position Specific Expectations
-#### Research Assistants
+#### **Research Assistants**
 - Work on assigned tasks 
 - Assist with training new members 
 - Log hours 
 
-#### Independent Study Students (2QQ3, 3QQ3, 4QQ3)
+#### **Independent Study Students (2QQ3, 3QQ3, 4QQ3)**
 - Participate in recruitment
 - Present an article in Journal Club (Refer to Journal Club under Lab Activities) 
 - Write a final reflection paper at the end of the course
@@ -42,10 +42,10 @@ permalink: /undergrads
     - Make one suggestion to improve the PI’s supervision in research
     - The points reflect the quality of writing
 
-#### Thesis Students
+#### **Thesis Students**
 - Present an article in Journal Club (Refer to Journal Club under Lab Activities)
 
 
-#### Research Volunteers
+#### **Research Volunteers**
 - Participate in recruitment
 
