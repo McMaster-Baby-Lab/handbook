@@ -100,14 +100,14 @@ If you are suddenly unable to run a study that you are responsible for, reach ou
 4) If parent does not enter the room in 5 min, call to check if they have problems accessing the link using AVAYA
 
 5) Plan to set up the testing at least 10-15 minutes before the testing begins. This will provide enough time to:
-* Ensure the program is running 
-* Verify your internet connection and battery
-* Locate the study weblink
-* Prepare your tracking sheet (participant ID, condition, etc) 
-* Disable all computer notifications (e.g., emails)
-* Answer calls/emails from parents to reschedule
-* Log into password-protected Zoom room
-* Check that your settings allow multiple people to share their screen in Zoom
+   * Ensure the program is running 
+   * Verify your internet connection and battery
+   * Locate the study weblink
+   * Prepare your tracking sheet (participant ID, condition, etc) 
+   * Disable all computer notifications (e.g., emails)
+   * Answer calls/emails from parents to reschedule
+   * Log into password-protected Zoom room
+   * Check that your settings allow multiple people to share their screen in Zoom
  
 6) Open zoom and admit parents to the call
 
