@@ -12,7 +12,7 @@ We are a scientific research team interested in human cognitive development from
 
 
 
-
+<img src="https://user-images.githubusercontent.com/132396918/236883695-aae59891-217b-4a18-95cb-3b4e1c132605.png" alt="download" align="right" width="200"/>
 
 
 
