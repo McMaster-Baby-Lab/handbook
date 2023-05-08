@@ -27,10 +27,10 @@ permalink: /researchEthics
 ### Instructions 
 
  **Filling the individual study form**
-	- 1.3 Add your study name. You can also add an abbreviation of the name which can be used in the documents upload (see 2.b. for further explanation)
-	- 1.6 Students should be selecting option 1 in section 1.6 after they receive feedback about their MREB application submission. This way they will be able to upload a summary of the changes they have made to their application before re-submitting for approval.
-	- 2.8 Add your name if you are in the original program of research ethic application, otherwise, you can choose Yes in 2.9 and add your own information.
-	- 3.1 Please answer the following questions to complete this section. It is important to provide a detailed procedure in this part (e.g., trials, duration). You should change the part that unique to your own project. Leave the Recruitment plan and Confidentiality/Data storage/ Consent in other session.
+- 1.3 Add your study name. You can also add an abbreviation of the name which can be used in the documents upload (see 2.b. for further explanation)
+- 1.6 Students should be selecting option 1 in section 1.6 after they receive feedback about their MREB application submission. This way they will be able to upload a summary of the changes they have made to their application before re-submitting for approval.
+- 2.8 Add your name if you are in the original program of research ethic application, otherwise, you can choose Yes in 2.9 and add your own information.
+- 3.1 Please answer the following questions to complete this section. It is important to provide a detailed procedure in this part (e.g., trials, duration). You should change the part that unique to your own project. Leave the Recruitment plan and Confidentiality/Data storage/ Consent in other session.
 		1. Number and description of participants for this chapter project (e.g. children & parents)
           		* Fill in based on study specific information
 		2. Specific recruitment plan (children & parents)
