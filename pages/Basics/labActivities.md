@@ -46,13 +46,20 @@ This also means that you should not be using your access card to allow other stu
 
 If you lose your access card, please contact Dr. Xiao and register for a new one as soon as possible. We will work to deactivate your existing card so that it may no longer be used to enter our lab space and a new one will be created for you.
 
-To enter the lab space, you must put in the following code into the lock box to obtain the key: **1280**
-As soon as you open the door, immediately put the key back into the lock box.
+To enter the lab space, you must put in the following code into the lock box to obtain the key: **1280**. As soon as you open the door, immediately put the key back into the lock box.
+
 Do not share the code to our lock box with anyone outside of the lab.
 
 ### Leaving the space
 
-Please ensure both doors are closed if you are the last person leaving the lab. Closing the doors is extremely important for security reasons. 
+At the end of your shift, please ensure that all emails and phone messages have been attended to. This step is necessary to ensure that the individuals coming in for the next shift are able to get started with their assigned tasks right away.
+
+Please make sure that at the end of the day (last shift) all of the monitors are turned off.The lights don’t need to be turned off as they are motion detected.
+
+Please check to make sure that all toys have been cleaned. Lysol wipes may be found in the kitchen area.
+
+Ensure the doors inside the lab space are closed. Make sure the 2 doors leading to our lab are closed and that the key is securely placed in the lock box.
+
 
 ## Lab meetings
 
