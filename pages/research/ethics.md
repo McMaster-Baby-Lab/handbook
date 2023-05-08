@@ -71,6 +71,6 @@ permalink: /researchEthics
 			- An example file name for a pending Recruitment Document: Recruitment_CLDPF_29Aug2021_v1.pdf
 
 ## Ethics revision
-* Check My revised program of research form in response to ethics review comments from the MREB Chair (option 1) at 1.6 and upload your responses to the comments as a pdf file.
+* Check *My revised program of research form* in response to ethics review comments from the MREB Chair (option 1) at 1.6 and upload your responses to the comments as a pdf file.
 *  Remove old documents at 3.7, 3.8.1, and 3.10.1, if applicable.
 * In any newly uploaded documents, you need to highlight the changes you made to make the review process easier for the ethics board.
