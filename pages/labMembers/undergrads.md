@@ -21,8 +21,8 @@ permalink: /undergrads
 - Attend weekly lab meetings
 - Attend project specific meetings
 - Attend scheduled lab shifts
-- Participate in special tasks that you can choose based on your interests or assignment (*Mini Tasks* on Teams):
-    - Literature review: collecting and summarizing research over a topic
+- Participate in special tasks that you can choose based on your interests or assignment (*Mini Tasks* on Teams). Tasks may include:
+    - Literature reviews: collecting and summarizing research on a topic
     - Study preparation: creating experimental stimuli, programming
     - Data collection: run studies as an experimenter
     - Data analysis: pre-processing and statistical analyses
