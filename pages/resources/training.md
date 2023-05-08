@@ -22,21 +22,21 @@ We use the phone of our lab to contact families. With Avaya IX (Softphone), you 
 
 Download AVAYA: [AVAYA DOWNLOAD](https://telecom.mcmaster.ca/products-services/avaya-ix-softphone)
 
- Login:
-		○ Extension: 23130
-		○ Password: 3231303
+Login:
+ Extension: 23130
+ Password: 3231303
 		
-	For local numbers (905, 289, & 365)
-		○ Dial 9, before enter phone numbers.
+For local numbers (905, 289, & 365)
+* Dial 9, before enter phone numbers.
 		○ If you want to call 905 000 0000, you should dial 9 905 000 0000
 		
-	For numbers from other areas (e.g., 647):
-		○ Dial 9 + 1 + area code + number, after tri-tone, enter 2015730
-		○ If you want to call 647 000 0000, you should dial 9 1 647 000 0000.
-   * After the tri-tone, dial 2015730 
+For numbers from other areas (e.g., 647):
+* Dial 9 + 1 + area code + number, after tri-tone, enter 2015730
+* If you want to call 647 000 0000, you should dial 9 1 647 000 0000. 
+* After the tri-tone, dial 2015730 
 	
-	• Voice message password: 20200728
-	• New voicemail password: 987123
+* Voice message password: 20200728
+* New voicemail password: 987123
 
 ### Lab Email & Calendar
 
