@@ -26,7 +26,7 @@ permalink: /researchEthics
 
 ### Instructions 
 
- **Filling the individual study form**
+ **Filling out the individual study form**
 - **1.3** Add your study name. You can also add an abbreviation of the name which can be used in the documents upload (see 2.b. for further explanation)
 - **1.6** Students should be selecting option 1 in section 1.6 after they receive feedback about their MREB application submission. This way they will be able to upload a summary of the changes they have made to their application before re-submitting for approval.
 - **2.8** Add your name if you are in the original program of research ethic application, otherwise, you can choose Yes in 2.9 and add your own information.
@@ -56,7 +56,7 @@ permalink: /researchEthics
 
 - **3.7** Confidentiality/Data storage/Consent will be uploaded as a Letter of Information (Template). When you change the template, make sure to highlight the parts that are unique to your project.
 - **3.8** Upload Recruitment Plan (Template). Make sure to highlight the parts that are unique to your project. Recruitment documents and scripts should not be combined. For instance, the phone script and email script should be in separate documents. All documents need to be submitted in PDF format.
-	- Please check if you need to make changes.
+	- Please check if you need to make changes based on your study.
 	- The full study title should also be reflected in the document (e.g., in the 1st paragraph). 
 	- Include information about specific requirements needed to participate in the study (e.g., a computer with a camera)
 	- You can also reiterate your targeted age groups in the email and phone script.
@@ -67,8 +67,8 @@ permalink: /researchEthics
 - Make sure all the information (e.g., title, duration) is consistent across all documents and the individual form.
 - Every document should have the name of the study on the first page, and in the footer of every page.
 - Document files should be named according to version number, date approved, and the study name. The file name should also include a short form of the study name (e.g. abbreviation) so that each document is more easily identified. The format should be [Document Type]_[Abbreviation of Study Title]_Date_VersionNumber.pdf
-			- An example file name for an approved Letter of Information: LoI_IPFFM_21Sep2021_v2.pdf
-			- An example file name for a pending Recruitment Document: Recruitment_CLDPF_29Aug2021_v1.pdf
+		* An example file name for an approved Letter of Information: LoI_IPFFM_21Sep2021_v2.pdf
+		* An example file name for a pending Recruitment Document: Recruitment_CLDPF_29Aug2021_v1.pdf
 
 ## Ethics revision
 * Check *My revised program of research form* in response to ethics review comments from the MREB Chair (option 1) at 1.6 and upload your responses to the comments as a pdf file.
