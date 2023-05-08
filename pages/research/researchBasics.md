@@ -148,7 +148,7 @@ Ask the parent how they would like us to use the recorded video from the session
 
 Ask which level best describes how they’d like us to use their child’s video. 
 
-Ask the family the questions in the questionnaire and check which gift card they would like to receive for their participation. 
+Ask the family the questions in the questionnaire. Check which gift card they would like to receive for their participation and verify their email address. 
 
 Thank the family for their participation. 
 
