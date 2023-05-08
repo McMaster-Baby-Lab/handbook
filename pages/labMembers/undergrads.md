@@ -44,7 +44,8 @@ permalink: /undergrads
 
 #### Thesis Students
 - Present an article in Journal Club (Refer to Journal Club under Lab Activities)
-- 
+
+
 #### Research Volunteers
 - Participate in recruitment
 
