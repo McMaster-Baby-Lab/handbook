@@ -26,7 +26,7 @@ permalink: /researchBasics
 
 ### with infants & children
 
-## Communication with Families
+#### Communication with Families
 Families may be emailed via DRDB and the lab email. Please make sure to check the lab email frequently and respond to any emails in a timely manner. 
 To call families, please use the phone in our lab space.
 
