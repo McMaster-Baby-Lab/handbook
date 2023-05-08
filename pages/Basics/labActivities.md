@@ -54,7 +54,7 @@ Do not share the code to our lock box with anyone outside of the lab.
 
 At the end of your shift, please ensure that all emails and phone messages have been attended to. This step is necessary to ensure that the individuals coming in for the next shift are able to get started with their assigned tasks right away.
 
-Please make sure that at the end of the day (last shift) all of the monitors are turned off.The lights don’t need to be turned off as they are motion detected.
+Please make sure that at the end of the day (last shift) all of the monitors are turned off. The lights don’t need to be turned off as they are motion detected.
 
 Please check to make sure that all toys have been cleaned. Lysol wipes may be found in the kitchen area.
 
