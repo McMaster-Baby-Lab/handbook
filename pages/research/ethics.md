@@ -52,7 +52,7 @@ permalink: /researchEthics
 		- For example, for an online study, you need to delete or revise references to signatures, sign-up sheets any other statements that do not apply to this               individual study. (e.g., in the Confidential and Data storage section, it is not necessary to include ‘Participants or their legal guardians names,                 signatures, and email addresses will be collected for informed consent purposes’. ‘We will also collect participants' or their legal guardians' names               and signatures on a signup sheet to indicate that they received the participation incentives (compensation)’ )
 
 	- Please also include a section to indicate certain requirements for the study. 
-		- For example, for online study, you need to mention a computer with a camera to allow for video recording is required.
+		- For example, for an online study, you need to mention that a computer with a camera to allow for video recording is required.
 
 - **3.7** Confidentiality/Data storage/Consent will be uploaded as a Letter of Information (Template). When you change the template, make sure to highlight the parts that are unique to your project.
 - **3.8** Upload Recruitment Plan (Template). Make sure to highlight the parts that are unique to your project. Recruitment documents and scripts should not be combined. For instance, the phone script and email script should be in separate documents. All documents need to be submitted in PDF format.
@@ -66,8 +66,8 @@ permalink: /researchEthics
 - Make sure all the information (e.g., title, duration) is consistent across all documents and the individual form.
 	- Every document should have the name of the study on the first page, and in the footer of every page.
 	- Document files should be named according to version number, date approved, and the study name. The file name should also include a short form of the study name (e.g. abbreviation) so that each document is more easily identified. The format should be [Document Type]_[Abbreviation of Study Title]_Date_VersionNumber.pdf
-		- An example file name for an approved Letter of Information: LoI_IPFFM_21Sep2021_v2.pdf
-		- An example file name for a pending Recruitment Document: Recruitment_CLDPF_29Aug2021_v1.pdf
+			- An example file name for an approved Letter of Information: LoI_IPFFM_21Sep2021_v2.pdf
+			- An example file name for a pending Recruitment Document: Recruitment_CLDPF_29Aug2021_v1.pdf
 
 ## Ethics revision
 * Check My revised program of research form in response to ethics review comments from the MREB Chair (option 1) at 1.6 and upload your responses to the comments as a pdf file.
