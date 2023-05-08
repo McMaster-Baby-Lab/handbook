@@ -35,8 +35,8 @@ For numbers from other areas (e.g., 647):
 * If you want to call 647 000 0000, you should dial 9 1 647 000 0000. 
 * After the tri-tone, dial 2015730 
 	
-* Voice message password: 20200728
-* New voicemail password: 987123
+Voice message password: 20200728
+New voicemail password: 987123
 
 ### Lab Email & Calendar
 
