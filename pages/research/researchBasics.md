@@ -34,7 +34,7 @@ Debrief with the participant after the experiment is complete. The debriefing pe
 
 If the participant requests the results, let them know that we can provide the average results of the group, but are unable to provide their specific data collected.
 
-#### Compensation
+#### **Compensation**
 After the study is over debrief with the participant regarding compensation monetarily or in the form of sona credits. 
 
 ### with infants & children
