@@ -73,7 +73,7 @@ You are expected to attend lab meetings but in the case that a conflict arises, 
 
 Journal club is an opportunity for the lab to discuss recent papers published in the field during lab meetings. During journal club, students will present and critically analyze a research paper. 
 
-Each independent study/thesis student will present 1 paper chosen by the student and approved by the supervisor. The journal will be assigned to the student and the student will select a paper from their assigned journal. The student will then briefly present the paper at the lab meeting. PowerPoint slides are not permitted, students only need to describe the paper verbally in a 3 minute maximum presentation. After the presentation, lab members will have an opportunity to ask the student questions about the paper and engage in discussion. 
+Each independent study/thesis student will present 1 paper during a lab meeting. The journal will be assigned to the student and the student will then select a paper from the journal they are assigned to. The student will then briefly present the paper at the lab meeting. PowerPoint slides are not permitted, students only need to describe the paper verbally in a 3 minute maximum presentation. After the presentation, lab members will have an opportunity to ask the student questions about the paper and engage in discussion. 
 
 **Article requirements:**
 -	Empirical research article or review papers. Commentary articles, report, or correspondence articles are NOT qualified.
@@ -95,9 +95,7 @@ Each independent study/thesis student will present 1 paper chosen by the student
 You will work alongside a group of other students on a project - please ensure that you are following up with them regularly to complete all tasks.
 In the case that you are unable to complete a specific task or require more time, please communicate clearly with the rest of your team members. 
 
-
 ## Lab shifts
-
 It is expected that you are on time for your shifts - please feel free to come 15-20 minutes early if you need time to set up before meeting a family.
 
 Familiarize yourself with your schedule and what dates/times you are expected to be in the lab.
