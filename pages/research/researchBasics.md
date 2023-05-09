@@ -19,10 +19,23 @@ permalink: /researchBasics
 
 ## In-person studies
 ### with adults
-#### Directions to lab
-#### Consent forms
-#### Study
-#### Debrief
+#### **When the participant arrives**
+Provide clear directions to the location of the building and direct them to go to the third floor of the building. Ask the participant to call the lab phone or wait outside of the lab space for them to arrive. 
+
+Ask the participant to fill out any required consent forms. 
+
+#### **Study**
+Go through the study script. Make sure to familiarize yourself with this script in advance! 
+
+Even if something goes wrong with the technology, continue to run through the study as we do not want to disappoint the family. 
+
+#### **Debrief**
+Debrief with the participant after the experiment is complete. The debriefing period will be project dependent, but we may mention more about who we are, what we do, our general progress, as well as how their contribution will be used.
+
+If the participant requests the results, let them know that we can provide the average results of the group, but are unable to provide their specific data collected.
+
+#### Compensation
+After the study is over debrief with the participant regarding compensation monetarily or in the form of sona credits. 
 
 ### with infants & children
 
@@ -83,14 +96,6 @@ If the family requires a space to feed the baby in private, offer a closed space
 If you are suddenly unable to run a study that you are responsible for, reach out to other members familiar with the study to see if they are available to cover. 
 
 ## Online studies
-### with adults (SONA system)
-#### Introduction 
-#### Verbal consent
-#### Zoom
-#### Post-Testing
-
-### with infants & children
-#### **Prior to the study**
 1) Have AVAYA running (AVAYA IX (softphone)) to call parents/answer calls
 
 2) Have Lab Calendar and email open to respond if parents message 
@@ -109,9 +114,50 @@ If you are suddenly unable to run a study that you are responsible for, reach ou
    * Log into password-protected Zoom room
    * Check that your settings allow multiple people to share their screen in Zoom
  
-6) Open zoom and admit parents to the call
+6) Open zoom and admit participants to the call
 
-7) After admitting parents, welcome and greet them! 
+7) After admitting participants, welcome and greet them! 
+
+### with adults (SONA system)
+#### Introduction to the study
+Greeting: 
+Hi XXX, how are you?. My name is XX, and I am the researcher who will be conducting your study today. First, I am going to share my screen with you (after sharing, check with participant to see if they can see the screen that you share with them).
+
+Explanation of the study to the parent: 
+XXX, let me tell you about the study you will be participating in today.
+This study takes about X minutes. We just want to know how you react!
+
+We are gonna video record the session so that we can collect the data later. So by default, this video is private. That means, This video is only saved in our secure servers—we won’t show it to anyone else unless we have your explicit consent. Ask permission to begin recording and inform them that they will have to select "continue" to allow the recording.  
+
+Verbal Consent: 
+Earlier you should have received an email from us with the information about the consenting process. Before we continue, do you have any questions for us?
+[If yes, answer their questions. Once they are comfortable moving forward, proceed. If they decide they are not comfortable proceeding at this point, thank them for their time and interest in participating.]
+
+The consent script for the parent to read will be displayed on the screen. Ask the parent to read the script beginning with the phrase "Today is..."
+
+#### Check Device and Settings
+Ask what device they are using for the study and ask them how large the screen is. If they are unsure, ask them to estimate. Ask if they are using more than one screen. 
+
+Next, verify that their device is charging during the study. 
+
+#### Post-Testing
+
+Ask the participant how they would like us to use the recorded video from the session and outline the different levels of use: 
+
+* Level 1:  The video stays in our secure servers, and only members of our research team can see it.
+* Level 2 allows us to show this video for academic/educational use. We might show this video as an example at scientific conferences or classes, but we won’t distribute copies of this video to anyone.
+* Level 3 allows us to share this video for public use. We might put copies of this video on our website for public outreach or share it alongside scientific publications. 
+
+Ask which level best describes how they’d like us to use their video. 
+
+Ask the participant the questions in the questionnaire.  
+
+After the study is over debrief with the participant regarding compensation monetarily or in the form of sona credits. 
+
+Thank the participant for their participation. 
+
+
+### with infants & children
 
 #### **Introduction to the study**
 Greeting: 
