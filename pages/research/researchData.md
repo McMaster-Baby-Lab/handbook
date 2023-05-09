@@ -61,6 +61,6 @@ Data file naming convention: Participant_Session_fileType
 		- Coding
 		- Questionnaire
 - For example, 3_1_zoom.avi means this is the recording for participant #3's first session
-- No participants' name or other identifiable information should be used for file names. Identifiable information can be store only in Participant tracking sheets.
+- No participants' name or other identifiable information should be used for file names. Identifiable information can only be stored in Participant tracking sheets.
 
 
