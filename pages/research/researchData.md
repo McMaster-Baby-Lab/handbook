@@ -35,7 +35,7 @@ Benefits to Backing up the Data in Sharepoint
 - Restore any deleted data
 - Permission control
 - Save local hard drive space (files will be downloaded on-demand)
-	- After uploading the files, if you want to free your hard drive space, you can right click the files and click "Free Up Space"
+	- After uploading the files, if you want to free up hard drive space, you can right click the files and click "Free Up Space"
 	- You can always download the files whenever you need
 - This is especially useful for large files, such as video recordings
 
@@ -43,7 +43,7 @@ Benefits to Backing up the Data in Sharepoint
 For online child and adult studies, you need to back up the following data:
 - Participant response data, downloaded from Pavlovia.org
 - Questionnaire data, downloaded from MS Forms
--  Participant tracking sheet
+- Participant tracking sheet
 For infant studies, you need to back up the following data:
 - Program output data, downloaded from Pavlovia.org (used for locating onsets of each trial)
 - Zoom recording data, downloaded from Zoom
