@@ -119,7 +119,7 @@ If you are suddenly unable to run a study that you are responsible for, reach ou
 7) After admitting participants, welcome and greet them! 
 
 ### with adults (SONA system)
-#### Introduction to the study
+#### **Introduction to the study**
 Greeting: 
 Hi XXX, how are you?. My name is XX, and I am the researcher who will be conducting your study today. First, I am going to share my screen with you (after sharing, check with participant to see if they can see the screen that you share with them).
 
@@ -135,12 +135,12 @@ Earlier you should have received an email from us with the information about the
 
 The consent script for the parent to read will be displayed on the screen. Ask the parent to read the script beginning with the phrase "Today is..."
 
-#### Check Device and Settings
+#### **Check Device and Settings**
 Ask what device they are using for the study and ask them how large the screen is. If they are unsure, ask them to estimate. Ask if they are using more than one screen. 
 
 Next, verify that their device is charging during the study. 
 
-#### Post-Testing
+#### **Post-Testing**
 
 Ask the participant how they would like us to use the recorded video from the session and outline the different levels of use: 
 
