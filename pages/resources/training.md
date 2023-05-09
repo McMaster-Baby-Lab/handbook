@@ -93,34 +93,47 @@ Don’t use science jargon!
 
 - If they answer:
 	- Have a pleasant and clear greeting - Tell them who you are, where you’re calling from and why, ask how they are etc.
-	- Make sure to mention testing is online through zoom – can mention it is convenient and from their home, don’t need to come in, flexible times for those in school or with busy lives
-	- Make it clear how long the study is and what the study entails – what will the participant be doing
-	- Let them know how they benefit from their participation
-	- If you caught them at a bad time ask when it might be better to call you back or if they would prefer an alt method of contact i.e. email and if their email isn’t in DRDB then write it down and update the system (or update simultaneously from DRDB)
-	- If uninterested ask if they would like to be kept in the database and potentially contacted for future studies or if they’d like to be removed from the database and avoid future contact (if so remove them) and thank them for their time
-	- If interested but would like some time to consider send them an email regarding interest and ask them to contact you back when they have decided either through email or the lab phone number provide our email and phone number through the phone/in the email babylab@mcmaster.ca or (905)525-9140 ext. 23130 (ask them if they would rather be contacted again and when would be the best time to do that)
+	- Make sure to mention testing is online through zoom – can mention it is convenient and from their home, don’t need to come in, flexible times for those in school or with busy lives.
+	- Make it clear how long the study is and what the study entails – what will the participant be doing.
+	- Let them know how they benefit from their participation.
+	- If you caught them at a bad time ask when it might be better to call you back or if they would prefer an alt method of contact i.e. email and if their email isn’t in DRDB then write it down and update the system (or update simultaneously from DRDB).
+	- If uninterested ask if they would like to be kept in the database and potentially contacted for future studies or if they’d like to be removed from the database and avoid future contact (if so remove them) and thank them for their time.
+	- If interested but would like some time to consider send them an email regarding interest and ask them to contact you back when they have decided either through email or the lab phone number provide our email and phone number through the phone/in the email babylab@mcmaster.ca or (905)525-9140 ext. 23130 (ask them if they would rather be contacted again and when would be the best time to do that).
 	- *** always confirm email address when scheduling an appointment or if sending interest email***
 
 
 Email recruitment/conformation
-- Sometimes its noted that families prefer to be contacted through email so do that first
-- Also if the family doesn’t pick up the phone call send an “interested” email from DRDB so you can give them the information and they can always contact back to participate if they would like to
-- When family/parents have agreed to participate make sure the email contains the right zoom links
-- Have links somewhere you can easily copy and paste experimenters’ zoom links so they can be added to the appointment email sent during the call and/or for the appointment confirmation email
-- Make sure to check the email frequently and consistently – like voicemail families may not pick up calls because they are busy and we want to make sure those who want to participate, do
+- Sometimes its noted that families prefer to be contacted through email so do that first.
+- Also if the family doesn’t pick up the phone call send an “interested” email from DRDB so you can give them the information and they can always contact back to participate if they would like to.
+- When family/parents have agreed to participate make sure the email contains the right zoom links.
+- Have links somewhere you can easily copy and paste experimenters’ zoom links so they can be added to the appointment email sent during the call and/or for the appointment confirmation email.
+- Make sure to check the email frequently and consistently – like voicemail families may not pick up calls because they are busy and we want to make sure those who want to participate have the opportunity to. 
 
 Scheduling families
 - Use Study Schedule page to recruit participants for a given study.
 - Use Family Information page to recruit participants, only if you want to recruit a particular participant.
 
 What to check before scheduling:
-- Researcher availability - we can’t have a study scheduled for a researcher who isn’t free or is already scheduled to run a different study at that time
-- Where: Check researcher’s calendar (in students’ calendar list) to see her/his availability
+- Researcher availability - we can’t have a study scheduled for a researcher who isn’t free or is already scheduled to run a different study at that time.
+- Where: Check researcher’s calendar (in students’ calendar list) to see her/his availability. 
 
 Follow-up with families
 - Not every family agrees to participate in the study the first time we contact them. 
 - Parents often need time to decide. It is our responsibility to re-contact these families 2 days after the initial contact.
 - Use Follow-ups button on Family Information Page to show the families that we need to contact. The Note for next contact box includes the reason why we need to re-contact this family.
+
+### Video Tutorial on Recruitment and DRDB
+ 
+Please review the following video using the link to understand the process of recruitment and how to use DRDB: [Recruitment and DRDB Tutorial](https://mcmasteru365.sharepoint.com/sites/labtest/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Flabtest%2FShared%20Documents%2FTraining%2FRecordings%2FRecruitment%20%26%20DRDB%20Training%2D20220525%5F180343%2DMeeting%20Recording%2Emp4&parent=%2Fsites%2Flabtest%2FShared%20Documents%2FTraining%2FRecordings)
+
+### Recruitment Specialist Tips
+Review this document for tips, experimenter materials, and FAQs about recruitment: [Recruitment Specialist Tips](https://mcmasteru365.sharepoint.com/sites/labtest/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Flabtest%2FShared%20Documents%2FRecruitment%2DSpecialist%2DTips%2Epdf&parent=%2Fsites%2Flabtest%2FShared%20Documents)
+
+### Experimenter Tips 
+Review this document for experimenter tips, materials, and FAQs: [Experimenter Tips](https://mcmasteru365.sharepoint.com/sites/labtest/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Flabtest%2FShared%20Documents%2FExperimenter%2DTips%2Epdf&parent=%2Fsites%2Flabtest%2FShared%20Documents)
+
+
+
 
 
 
