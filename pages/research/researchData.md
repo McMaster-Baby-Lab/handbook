@@ -30,13 +30,13 @@ permalink: /researchData
 	4. Within this folder, you will see each of YOUR project listed as a folder
       - Move all research related data, programs, scripts, and documents to this research folder on your computer
 
-Feature/benefits
-	• Automatic backup all research data
-	• Restore any deleted data
-	• Permission control
-	• Save local hard drive space (files will be downloaded on-demand)
-		○ After uploading the files, if you want to free your hard drive space, you can right click the files and click "Free Up Space"
-		○ You can always download the files whenever you need
+Benefits to Backing up the Data in Sharepoint
+- Automatic backup all research data
+- Restore any deleted data
+- Permission control
+- Save local hard drive space (files will be downloaded on-demand)
+	- After uploading the files, if you want to free your hard drive space, you can right click the files and click "Free Up Space"
+	- You can always download the files whenever you need
 - This is especially useful for large files, such as video recordings
 
 ## Types of research data
