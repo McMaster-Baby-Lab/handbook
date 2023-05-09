@@ -88,10 +88,10 @@ Don’t use science jargon!
 - Open everything you will need quick access to (DRDB, teams, AVAYA, lab calendars, lab email, recruitment script)
 	- Might also be helpful to have paper and pen in case you need to write a question down or for any other reason
 
-- Make the call to the family
+- **Make the call to the family**
 	- Always make phone calls primary method of contacting families for recruitment – they answer the quickest, they can ask questions they might have that might increase the likelihood they participate, speaking to someone about having their child participate in a study is much more reassuring than an email from people they don’t know. 
 
-- If they answer:
+- **If they answer:**
 	- Have a pleasant and clear greeting - Tell them who you are, where you’re calling from and why, ask how they are etc.
 	- Make sure to mention testing is online through zoom – can mention it is convenient and from their home, don’t need to come in, flexible times for those in school or with busy lives.
 	- Make it clear how long the study is and what the study entails – what will the participant be doing.
@@ -101,23 +101,22 @@ Don’t use science jargon!
 	- If interested but would like some time to consider send them an email regarding interest and ask them to contact you back when they have decided either through email or the lab phone number provide our email and phone number through the phone/in the email babylab@mcmaster.ca or (905)525-9140 ext. 23130 (ask them if they would rather be contacted again and when would be the best time to do that).
 	- *** always confirm email address when scheduling an appointment or if sending interest email***
 
-
-Email recruitment/conformation
+**Email recruitment/conformation**
 - Sometimes its noted that families prefer to be contacted through email so do that first.
 - Also if the family doesn’t pick up the phone call send an “interested” email from DRDB so you can give them the information and they can always contact back to participate if they would like to.
 - When family/parents have agreed to participate make sure the email contains the right zoom links.
 - Have links somewhere you can easily copy and paste experimenters’ zoom links so they can be added to the appointment email sent during the call and/or for the appointment confirmation email.
 - Make sure to check the email frequently and consistently – like voicemail families may not pick up calls because they are busy and we want to make sure those who want to participate have the opportunity to. 
 
-Scheduling families
+**Scheduling families**
 - Use Study Schedule page to recruit participants for a given study.
 - Use Family Information page to recruit participants, only if you want to recruit a particular participant.
 
-What to check before scheduling:
+**What to check before scheduling:**
 - Researcher availability - we can’t have a study scheduled for a researcher who isn’t free or is already scheduled to run a different study at that time.
 - Where: Check researcher’s calendar (in students’ calendar list) to see her/his availability. 
 
-Follow-up with families
+**Follow-up with families**
 - Not every family agrees to participate in the study the first time we contact them. 
 - Parents often need time to decide. It is our responsibility to re-contact these families 2 days after the initial contact.
 - Use Follow-ups button on Family Information Page to show the families that we need to contact. The Note for next contact box includes the reason why we need to re-contact this family.
