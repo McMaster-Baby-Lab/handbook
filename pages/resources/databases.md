@@ -136,6 +136,56 @@ Watch the second half of this video for a tutorial on DRDB: [DRDB Tutorial](http
 
 ![12](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/92fe46fe-3930-4f77-991d-8093b6331949)
 
+**Schedule multiple studies for the same child or for their siblings**
+1. Enter the scheduling screen 
+2. If the names are highlighted in blue the child or their siblings are eligible for other studies 
+3. Click their names and check the eligible studies from the drop down menu
+4. Delete an appointment using the garbage can
+
+![13](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/6d8c37d3-59dd-4d50-8eeb-dbff99c5c0c9)
+
+**If a family is interested but doesn’t commit to a time…**
+1. Navigate to the *Schedule Studies* page
+2. Select the *Schedule a Study for this Child* drop down menu 
+3. Select *interested*
+4. Click on the mail icon, and then click *confirm a tentative appointment*. 
+- This button will generate an email template to determine the family’s interest. 
+5. Proofread the generated email and select send email 
+6. Select next to proceed to the next contact tab. You can now select when you wish to contact the family again (default 2 days).
+7. Select *complete* to finish this process. 
+- The participant’s participation status will now show as TBD meaning to be determined.  
+
+![14](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/ad86a9e8-539c-481e-b2db-67adb33fe34a)
+
+**If a family does not answer the call…**
+1. Navigate to the *Schedule Studies* page
+2. Select the *Schedule a Study for this Child* drop down menu 
+3. Select *leave a message* 
+4. Click on the mail icon to *confirm a tentative appointment*
+5. Review and send the follow-up email
+6. Set the reminder for the next contact date.
+
+![15](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/6a6f6223-7b84-42e4-932f-9910a0f0613d)
+
+**If a family is not interested in participating…**
+1. Navigate to the Schedule Studies page
+2. Select the Schedule a Study for this Child drop down menu 
+3. Select rejected and then select the shrugging person icon.
+4. Set a reminder for the next contact to determine whether the participant is interested in participating in future studies.
+5.  Click complete to finish the process
+
+![16](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/897151d4-5177-4f44-8d4a-32c56f66390b)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
