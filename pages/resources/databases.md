@@ -176,21 +176,126 @@ Watch the second half of this video for a tutorial on DRDB: [DRDB Tutorial](http
 
 ![16](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/897151d4-5177-4f44-8d4a-32c56f66390b)
 
+**Add an appointment for an interested/TBD participant**
+1. Navigate to the *Study Appointments* page
+2. Search for family/study appointments based on family ID, email, caregiver’s name, phone number, status, or the name of the study or filter by date to see which studies are taking place on the selected dates. 
+3. To schedule an appointment for a TBD participant, click on the calendar icon beside their name.
+4. Set a date and time for the study, send an email, and set a next contact date. 
+ 
+![17](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/9a206ce7-04f1-4340-a3b4-dc9112a68d21)
 
+**Reschedule a study appointment**
+1. Navigate to the *Study Appointments* page
+2. Search for family/study appointments 
+3. Click on the clock icon beside the participant to set a date and time for the appointment 
+4. Send the confirmation email
+5. Set a reminder time to contact again.  
 
+![18](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/edd9eca3-a41f-486e-9b51-8fdbec947270)
 
+**If a participant does not come to their appointment**
+1. Navigate to the *Study Appointments* page
+2. Search for family/study appointments 
+3. Click the sad face icon next to the participant to indicate a no-show
+4. Set a reminder for the next contact date to see if the family is still interested in participating.  
 
+![19](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/701750cf-a83f-49fa-92ca-4dac233b40f9)
 
+**If a participant who initially said they were interested no longer wishes to participate…**
+1. Navigate to the *Study Appointments* page
+2. Search for family/study appointments 
+3. Select the circle icon to indicate that the family has rejected participation/ cancel appointment
+4. Set a reminder to contact again.
 
+![20](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/cad80db4-4aff-4a44-8803-8c2b8ba58815)
 
+**How to mark participation as complete**
+1. Navigate to the *Study Appointments* page
+2. Search for family/study appointments 
+3. Check the box beside the participants name to indicate that their participation in the study is complete
 
+![21](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/ad7d6b39-cd2d-4f1e-91ed-25c84b5536ae)
 
+**How to send a thank you email**!
+1. Navigate to the *Study Appointments* page
+2. Search for family/study appointments 
+3. Click the heart beside the participant to send a thank you email
 
+![22](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/b60c352e-50a1-47f7-941f-646ba162f1a5)
 
+### Study Management
+**View study information**
+1. Navigate to the *Study Management* page
+2. Click on the abbreviation for the study on the left side to see a summary of the study and phone scripts for contacting participants. 
+3. Below, the main researchers for the study will be listed with contact information. 
 
+![23](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/ac51bf02-9095-4122-ae2b-68c69b2e3bac)
 
+**How to view the email templates for a study**
+1. Navigate to the *Study Management* page
+2. Click on the abbreviation for the study on the left side 
+3. Click preview email templates
 
+![24](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/7c97b845-3ba1-4ad6-942e-1ad6b5b45ed2)
 
+**Edit Study Information** 
+1. Navigate to the *Study Management* page
+2. Click on the abbreviation for the study on the left side
+3. Click *edit study info*
+- When you click on this button, there is a link to a document including instructions on how to set up the email templates. 
+4. Make the desired changes and select save
+
+![25](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/7eff087c-4fb1-4731-8379-070839617836)
+
+**Add a study**
+1. Navigate to the *Study Management* page
+2. Click + under the names of the studies
+3. Need to add name, type, experimenter, and criteria at minimum
+4. Click the instructions button to see how to set up email templates
+5. Hit save
+
+![26](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/eba1ed60-fb43-4535-8c78-fc8e0948ec1a)
+
+**Delete a study**
+1. Navigate to the *Study Management* page
+2. Click on the abbreviation for the study on the left side 
+3. Select *delete* on the right side
+4. Hit *confirm*
+
+![27](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/73fd685c-361e-40ed-9419-cc55fdf54bab)
+
+## Research Personnel
+**View Lab Members/See assigned studies**
+1. Navigate to the *Personnel Management* page
+2. Search for the lab member using full or partial information
+3. Select the lab member’s name
+4. Assigned studies will appear under the member’s name
+
+![28](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/31d460b9-d2e3-4a5e-b9ed-99b5d62c7ffe)
+
+**Add a lab member to the system**
+1. Navigate to the *Personnel Management* page
+2. Select the +
+3. Add the name, initials, and role
+4. Add the lab member’s email to the email and Calendar ID boxes
+5. Select save to add them to the system
+
+![29](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/4b724262-494e-4c9c-88aa-8322012dc473)
+
+**Assign a Lab Member to a Study**
+1. Navigate to the *Study Management* page
+2. Click on the abbreviation for the study on the left side
+3. Click the person icon 
+4. Select the lab member’s name from the drop-down menu
+5. Select confirm to add them to the study
+
+![30](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/1d825fa1-1983-4155-bcf8-af6cc18fb7d9)
+
+**Mark a lab member as inactive and filter by active members**
+1. Navigate to the *Personnel Management* page
+2. Click the box beside the lab members name to change their status to inactive
+
+![31](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/cb85e897-d8f4-4e6f-a1ae-8e5e4f8abdd7)
 
 
 
