@@ -73,7 +73,7 @@ Watch the second half of this video for a tutorial on DRDB: [DRDB Tutorial](http
 
 ![6](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/679c96b7-f0e9-4f7f-9c09-15b8d6cb19d4)
 
-**How to check for participants that require follow-up **
+**How to check for participants that require follow-up**
 1. Navigate to the Family Information page
 2. Select the follow-ups tab at the top of the screen
 3. Navigate through the families requiring follow-up using the arrows
