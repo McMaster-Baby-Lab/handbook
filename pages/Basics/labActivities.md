@@ -22,6 +22,24 @@ Our primary mode of communication among the team will continue on Microsoft Team
 Here you may find recaps from our lab meetings, important training files/documents, as well as other “mini tasks” that you have the option to help complete.
 
 ## Lab Space
+### Outline of the Lab Space 
+
+![image](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/6021e5bc-a4cd-46d2-85b4-d5f2ad067b07)
+
+There are two offices in the lab space. These offices are areas for students to work and have meetings. There are several computers and printers for students to use for research related purposes. 
+
+The lab is also equipped with a kitchen for lab members to use. Be sure to keep this space clean! 
+
+There is a reception space in the lab where children and infants can play with toys while they are waiting for the researchers to set up the study. 
+
+The lab also has an fNIRS testing room. The fNIRS system consists of a cap that is placed on the participant's scalp to measure changes in hemoglobin concentration in the brain. The fNIRS system is  connected to a computer which records and stores the data collected during the experiment. 
+
+The lab has an eyetracker for conducting experiments that involve tracking the movement of the eyes during visual perception and cognitive processing. 
+Inside the room, there is a desk or table where the participant sits in front of a computer screen. The computer is adjustable to accommodate participants of different heights and ensure that the participant's eyes are at the correct distance from the eye tracker. The eye tracker consists of a camera that follows the eye movement of the participant and stores the data.
+
+The lab also has a behavioral observation room which provides a controlled environment for observing child behavior and development. The room allows researchers to observe and collect data on the child's behavior and interactions with the environment, which can provide valuable insights into their cognitive, social, and emotional development.
+
+
 
 ### Lab Ettiquette
 
