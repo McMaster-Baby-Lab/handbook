@@ -26,20 +26,20 @@ Download AVAYA: [AVAYA DOWNLOAD](https://telecom.mcmaster.ca/products-services/a
 1. Launch the app
 2. Click orange “configure my account” button – will not be making own account
 3. Click the gear symbol in the top right
-4.  Click “Use web address” 
+4.  Click “Use web address”
 5.  Enter the URL: https://vce20util.uts.mcmaster.ca/46xxsettings_equinox.txt
 6.  Login:
-- Extension: 23130
-- Password: 3231303
-		
+    Extension: 23130
+
+
 For local numbers (905, 289, & 365)
 * Dial 9, before enter phone numbers.
 		○ If you want to call 905 000 0000, you should dial 9 905 000 0000
-		
+
 For numbers from other areas (e.g., 647):
 * Dial 9 + 1 + area code + number, after tri-tone, enter 2015730
-* If you want to call 647 000 0000, you should dial 9 1 647 000 0000. 
-* After the tri-tone, dial 2015730 
+* If you want to call 647 000 0000, you should dial 9 1 647 000 0000.
+* After the tri-tone, dial 2015730
 
 **To check the voicemail**
 - Click the voicemail button
@@ -51,13 +51,12 @@ For numbers from other areas (e.g., 647):
 ### Lab Email & Calendar
 
     Account: babylab@mcmaster.ca
-    Password: Princeton220~
-    
-Everyone needs to share their availability with the lab calendar, others will know when a researcher is available to run studies.
-           
-For those who are new to the lab, please create a Google Calendar with your McMaster email address, and create events in the calendar for the typical times during the week that you are NOT available to run studies. 
 
-To create a new calendar, go to Outlook Calendar, click the + next to 'Other calendars' on the left side of the screen, and create a calendar. Rename this calendar with your own name. After you have created events for all the times you are unavailable to run studies, click on the three dots next to this calendar on the left 'My calendars' toolbar, and click 'Settings and sharing.' Under 'Share with specific people', share the calendar with babylab@mcmaster.ca or the primary researcher on your study. 
+Everyone needs to share their availability with the lab calendar, others will know when a researcher is available to run studies.
+
+For those who are new to the lab, please create a Google Calendar with your McMaster email address, and create events in the calendar for the typical times during the week that you are NOT available to run studies.
+
+To create a new calendar, go to Outlook Calendar, click the + next to 'Other calendars' on the left side of the screen, and create a calendar. Rename this calendar with your own name. After you have created events for all the times you are unavailable to run studies, click on the three dots next to this calendar on the left 'My calendars' toolbar, and click 'Settings and sharing.' Under 'Share with specific people', share the calendar with babylab@mcmaster.ca or the primary researcher on your study.
 
 ### McMaster VPN
 The McMaster VPN is needed to access our Developmental Research Database (DRDB) where we store the information of potential participants in our studies. You can download the McMaster VPN using this link: [McMaster VPN](https://uts.mcmaster.ca/services/computers-printers-and-software/virtual-private-networking/)
@@ -68,10 +67,10 @@ Use experimenter’s McMaster Zoom account (with your MacID) running studies.
 	- Click My Profile and find your Meeting URL under Personal Meeting ID section · URL looks like this: https://mcmaster.zoom.us/j/ + [[Personal Meeting ID]]
 - Save your Zoom meeting URL to the Study Management System [DRDB](https://drdb.mcmaster.ca/)
 - Go to Personnel management page, and update your profile with Zoom meeting URL
-- Ensure you turn on your waiting room in settings 
+- Ensure you turn on your waiting room in settings
 
 ## Recruitment and Customer Service Training
-It is important to recognize we are asking parents to do us a huge favor to have their infant/children to contribute to science. We want to convey this excitement and gratitude while recruiting for their (potential) participation i.e. through your verbal communication skills. 
+It is important to recognize we are asking parents to do us a huge favor to have their infant/children to contribute to science. We want to convey this excitement and gratitude while recruiting for their (potential) participation i.e. through your verbal communication skills.
 
 Be positive and friendly on the phone – representing the lab We need to ensure they are understand and are comfortable with what we are saying. How we say things plays a big part of whether parents choose to participate or not so think about how you would like someone to ask you to do a favour and what would influence your decision. Practice before calling!
 
@@ -84,12 +83,12 @@ Don’t use science jargon!
 - Avoid words like: experiment on, discriminate, motor assessment, research subject, infant habituation, measure performance, visual stimuli, test your baby.
 - Do use words like project, fun activities, participants, games.
 
-### Typical Workflow 
+### Typical Workflow
 - Open everything you will need quick access to (DRDB, teams, AVAYA, lab calendars, lab email, recruitment script)
 	- Might also be helpful to have paper and pen in case you need to write a question down or for any other reason
 
 - **Make the call to the family**
-	- Always make phone calls primary method of contacting families for recruitment – they answer the quickest, they can ask questions they might have that might increase the likelihood they participate, speaking to someone about having their child participate in a study is much more reassuring than an email from people they don’t know. 
+	- Always make phone calls primary method of contacting families for recruitment – they answer the quickest, they can ask questions they might have that might increase the likelihood they participate, speaking to someone about having their child participate in a study is much more reassuring than an email from people they don’t know.
 
 - **If they answer:**
 	- Have a pleasant and clear greeting - Tell them who you are, where you’re calling from and why, ask how they are etc.
@@ -106,7 +105,7 @@ Don’t use science jargon!
 - Also if the family doesn’t pick up the phone call send an “interested” email from DRDB so you can give them the information and they can always contact back to participate if they would like to.
 - When family/parents have agreed to participate make sure the email contains the right zoom links.
 - Have links somewhere you can easily copy and paste experimenters’ zoom links so they can be added to the appointment email sent during the call and/or for the appointment confirmation email.
-- Make sure to check the email frequently and consistently – like voicemail families may not pick up calls because they are busy and we want to make sure those who want to participate have the opportunity to. 
+- Make sure to check the email frequently and consistently – like voicemail families may not pick up calls because they are busy and we want to make sure those who want to participate have the opportunity to.
 
 **Scheduling families**
 - Use Study Schedule page to recruit participants for a given study.
@@ -114,27 +113,19 @@ Don’t use science jargon!
 
 **What to check before scheduling:**
 - Researcher availability - we can’t have a study scheduled for a researcher who isn’t free or is already scheduled to run a different study at that time.
-- Where: Check researcher’s calendar (in students’ calendar list) to see her/his availability. 
+- Where: Check researcher’s calendar (in students’ calendar list) to see her/his availability.
 
 **Follow-up with families**
-- Not every family agrees to participate in the study the first time we contact them. 
+- Not every family agrees to participate in the study the first time we contact them.
 - Parents often need time to decide. It is our responsibility to re-contact these families 2 days after the initial contact.
 - Use Follow-ups button on Family Information Page to show the families that we need to contact. The Note for next contact box includes the reason why we need to re-contact this family.
 
 ### Video Tutorial on Recruitment and DRDB
- 
+
 Please review the following video using the link to understand the process of recruitment and how to use DRDB: [Recruitment and DRDB Tutorial](https://mcmasteru365.sharepoint.com/sites/labtest/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Flabtest%2FShared%20Documents%2FTraining%2FRecordings%2FRecruitment%20%26%20DRDB%20Training%2D20220525%5F180343%2DMeeting%20Recording%2Emp4&parent=%2Fsites%2Flabtest%2FShared%20Documents%2FTraining%2FRecordings)
 
 ### Recruitment Specialist Tips
 Review this document for tips, experimenter materials, and FAQs about recruitment: [Recruitment Specialist Tips](https://mcmasteru365.sharepoint.com/sites/labtest/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Flabtest%2FShared%20Documents%2FRecruitment%2DSpecialist%2DTips%2Epdf&parent=%2Fsites%2Flabtest%2FShared%20Documents)
 
-### Experimenter Tips 
+### Experimenter Tips
 Review this document for experimenter tips, materials, and FAQs: [Experimenter Tips](https://mcmasteru365.sharepoint.com/sites/labtest/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Flabtest%2FShared%20Documents%2FExperimenter%2DTips%2Epdf&parent=%2Fsites%2Flabtest%2FShared%20Documents)
-
-
-
-
-
-
-
-
