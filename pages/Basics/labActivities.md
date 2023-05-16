@@ -41,6 +41,8 @@ There are two offices in the lab space. These offices are areas for students to 
 
 The lab is also equipped with a kitchen for lab members to use. Be sure to keep this space clean! 
 
+![IMG_3533](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/637f1faf-9189-42c8-a5a0-fbe539250f53)
+
 **Reception**
 
 There is a reception space in the lab where children and infants can play with toys while they are waiting for the researchers to set up the study. 
