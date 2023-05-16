@@ -29,17 +29,22 @@ Here you may find recaps from our lab meetings, important training files/documen
 There are two offices in the lab space. These offices are areas for students to work and have meetings. There are several computers and printers for students to use for research related purposes. 
 
 **Student Office #1**
+
 ![student office 1](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/8d313a9a-d060-40cc-9494-adf61662d467)
 
 **Student Office #2**
+
 ![student office 2](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/99d9c488-cffd-4dfb-b097-c50cd13d638a)
 ![thumbnail_IMG_3542](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/94a4880a-edf1-426b-a879-44fabdbae1fd)
 
 **Kitchen**
+
 The lab is also equipped with a kitchen for lab members to use. Be sure to keep this space clean! 
 
 **Reception**
+
 There is a reception space in the lab where children and infants can play with toys while they are waiting for the researchers to set up the study. 
+
 ![waiting room](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/f875b4ce-d38b-45f7-b871-37fa4d74b3d7)
 
 **fNIRS**
