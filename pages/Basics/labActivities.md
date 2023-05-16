@@ -28,18 +28,29 @@ Here you may find recaps from our lab meetings, important training files/documen
 
 There are two offices in the lab space. These offices are areas for students to work and have meetings. There are several computers and printers for students to use for research related purposes. 
 
+**Student Office #1**
+![student office 1](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/8d313a9a-d060-40cc-9494-adf61662d467)
+
+**Student Office #2**
+![student office 2](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/99d9c488-cffd-4dfb-b097-c50cd13d638a)
+![thumbnail_IMG_3542](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/94a4880a-edf1-426b-a879-44fabdbae1fd)
+
+**Kitchen**
 The lab is also equipped with a kitchen for lab members to use. Be sure to keep this space clean! 
 
+**Reception**
 There is a reception space in the lab where children and infants can play with toys while they are waiting for the researchers to set up the study. 
+![waiting room](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/f875b4ce-d38b-45f7-b871-37fa4d74b3d7)
 
+**fNIRS**
 The lab also has an fNIRS testing room. The fNIRS system consists of a cap that is placed on the participant's scalp to measure changes in hemoglobin concentration in the brain. The fNIRS system is  connected to a computer which records and stores the data collected during the experiment. 
 
+**Eye-Tracker**
 The lab has an eyetracker for conducting experiments that involve tracking the movement of the eyes during visual perception and cognitive processing. 
 Inside the room, there is a desk or table where the participant sits in front of a computer screen. The computer is adjustable to accommodate participants of different heights and ensure that the participant's eyes are at the correct distance from the eye tracker. The eye tracker consists of a camera that follows the eye movement of the participant and stores the data.
 
+**Behavioral Oberservation Room**
 The lab also has a behavioral observation room which provides a controlled environment for observing child behavior and development. The room allows researchers to observe and collect data on the child's behavior and interactions with the environment, which can provide valuable insights into their cognitive, social, and emotional development.
-
-
 
 ### Lab Ettiquette
 
