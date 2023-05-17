@@ -1,12 +1,21 @@
+---
 layout: default
-title: Basics
+title: Lab Activities
+parent: Basics
 nav_order: 2
-has_children: true
-permalink: /Lab Communication Guidelines
+permalink: /meetings
 ---
 
 # Lab Communication Guidelines
-{: .fs-6 .fw-300 }
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 ## Lab communication
 
