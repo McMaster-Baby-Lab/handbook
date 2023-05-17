@@ -13,6 +13,8 @@ permalink: /rules
 > how to use kitchen appliances
 > food should never be left outside, especially over night.
 > close the door, when you leave and whenever there is a study on-going. Relatedly, we should have a rule for door signs (like the one on NIRS room).
+>
+> what about general rules on being in-person? it connects to the idea of taking shifts. And we need to emphasize why we require students being in-person.
 
 # Basic Rules
 {: .no_toc }
