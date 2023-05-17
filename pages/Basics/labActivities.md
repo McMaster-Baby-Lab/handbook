@@ -18,6 +18,8 @@ permalink: /meetings
 ---
 {: .new }
 > do we need to elaborate on the rules of communication? maybe it's too much....
+>
+> we need to list lab email and calendar here. What we use them for and related basic rules.
 
 ## Lab communication
 
