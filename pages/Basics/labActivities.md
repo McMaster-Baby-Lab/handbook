@@ -16,42 +16,7 @@ permalink: /meetings
 {:toc}
 
 ---
-{: .new }
-> do we need to elaborate on the rules of communication? maybe it's too much....
->
-> we need to list lab email and calendar here. What we use them for and related basic rules.
 
-## Lab communication
-
-- **Microsoft Teams**
-
-   Here you may find recaps from our lab meetings, important training files/documents, as well as other “mini tasks” that you have the option to help complete.
-- **Email**
-- **Meetings and casual conversations**
-
-{: .new }
-> this section and the next one can be moved to basic rules page.
-
-### Lab Ettiquette
-
-Once you enter the lab space, please leave all personal items in student offices.
-
-It is not recommended to leave any personal items such as laptops or other valuables in the lab space overnight.
-
-When families are present in the lab for testing with other lab members, please ensure that you are quiet and professional so that we do not disrupt the family during the experiment.
-
-Please make sure that you are quiet when walking in the hallways outside of our lab space as well. We are surrounded by many other labs who may be running studies and require a non-distracting environment.
-
-
-### Leaving the space
-
-At the end of your shift, please ensure that all emails and phone messages have been attended to. This step is necessary to ensure that the individuals coming in for the next shift are able to get started with their assigned tasks right away.
-
-Please make sure that at the end of the day (last shift) all of the monitors are turned off. The lights don’t need to be turned off as they are motion detected.
-
-Please check to make sure that all toys have been cleaned. Lysol wipes may be found in the kitchen area.
-
-Ensure the doors inside the lab space are closed. Make sure the 2 doors leading to our lab are closed and that the key is securely placed in the lock box.
 
 {: .new }
 > we will also need a description of mini task. Use the following as a reference.
