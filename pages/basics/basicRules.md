@@ -50,21 +50,22 @@ permalink: /rules
 - **Lab Calendar**
   - The Lab Calendar is used to coordinate the scheduling of studies and meetings for the lab. It is important to check the lab calendar prior to scheduling participants to avoid double booking two studies using the same technology at the same time. 
 
-  Basic Rules for using the Lab Email:
-  - Updating the calendar: Keep the lab calendar up-to-date by promptly adding and modifying study appointments and meetings. Regularly review the calendar to stay informed of upcoming activities.
-  - Event Details: Label the event with the study name and ensure you have alotted the correct amount of time for the study. Add relevant notes if neccessary. 
-  - Collaborative Editing: All lab members have access to edit the calendar, do not delete the entries of others without proper communication. Communicate and coordinate with other lab members to find alternatives if there is a scheduling conflict.
+ **Basic Rules for using the Lab Email:**
+  - **Updating the calendar:** Keep the lab calendar up-to-date by promptly adding and modifying study appointments and meetings. Regularly review the calendar to stay informed of upcoming activities.
+  - **Event Details:** Label the event with the study name and ensure you have alotted the correct amount of time for the study. Add relevant notes if neccessary. 
+  - **Collaborative Editing:** All lab members have access to edit the calendar, do not delete the entries of others without proper communication. Communicate and coordinate with other lab members to find alternatives if there is a scheduling conflict.
 
-### Lab Ettiquette
+## Lab Ettiquette
 
-Once you enter the lab space, please leave all personal items in student offices.
-- It is not recommended to leave any personal items such as laptops or other valuables in the lab space overnight.
+- **Personal Items:** 
+   - Once you enter the lab space, please leave all personal items in student offices.
+   - It is not recommended to leave any personal items such as laptops or other valuables in the lab space overnight.
 
-When families are present in the lab for testing with other lab members, please ensure that you are quiet and professional so that we do not disrupt the family during the experiment.
+-**Noise Level:**
+   - When families are present in the lab for testing with other lab members, please ensure that you are quiet and professional so that we do not disrupt the family during the experiment.
+   - Please make sure that you are quiet when walking in the hallways outside of our lab space as well. We are surrounded by many other labs who may be running studies and require a non-distracting environment.
 
-Please make sure that you are quiet when walking in the hallways outside of our lab space as well. We are surrounded by many other labs who may be running studies and require a non-distracting environment.
-
-Close the door when
+- **Doors:** Ensure the doors to the lab space and within the lab space are closed when leaving the space and if a study is taking place. 
 
 
 ### Leaving the space
@@ -76,8 +77,6 @@ Please make sure that at the end of the day (last shift) all of the monitors are
 Please check to make sure that all toys have been cleaned. Lysol wipes may be found in the kitchen area.
 
 Ensure the doors inside the lab space are closed. Make sure the 2 doors leading to our lab are closed and that the key is securely placed in the lock box.
-
-## The use of lab spaces
 
 ### Dress code
 Please ensure that you are dressed appropriately for a work setting while in the lab. We want to ensure professionalism when interacting with participants and running studies. 
@@ -97,7 +96,9 @@ Cleaning supplies can be found in the kitchen area.
 ### Lab materials and equipment
 
 Please make sure that you are handling all lab equipment very carefully.
-We are lucky to have access to these expensive devices that allow us to conduct our research. Please make sure that you complete all appropriate training before using the equipment so that you are well educated about how to use it. If you are unclear about how to use certain equipment, please ask others in the lab for help! If some of the equipment doesn’t seem to be working properly, please inform Dr. Xiao. 
+- We are lucky to have access to these expensive devices that allow us to conduct our research. Please make sure that you complete all appropriate training before using the equipment so that you are well educated about how to use it. 
+- If you are unclear about how to use certain equipment, please ask others in the lab for help! 
+- If some of the equipment doesn’t seem to be working properly, please inform Dr. Xiao. 
 
 There are printers, phones, and computers in the lab, please ensure you are only using them for lab related purposes - they are not meant for personal use! 
 
