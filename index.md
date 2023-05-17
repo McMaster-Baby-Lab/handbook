@@ -6,23 +6,11 @@ nav_order: 1
 
 # Mission Statement 
 
-We are a scientific research team interested in human cognitive <img src="https://user-images.githubusercontent.com/132396918/236883695-aae59891-217b-4a18-95cb-3b4e1c132605.png" alt="download" align="right" width="250"/> development from infancy to early childhood. Our team members include faculty, graduate and undergraduate students, as well as research staff. Our research aims at understanding how we learn remarkable cognitive and social skills as we grow up. To explore these questions, we use infant and child-friendly research methods, such as eye tracking, neuroimaging, and behavioural testing. We hope that by working together, we can identify the processes that shape human cognitive development and offer empirical proof to help resolve social problems and address impairments brought on by abnormal development. 
+We are a scientific research team interested in human cognitive <img src="https://user-images.githubusercontent.com/132396918/236883695-aae59891-217b-4a18-95cb-3b4e1c132605.png" alt="download" align="right" width="240"/> development from infancy to early childhood. Our team members include faculty, postdoctoral research fellows, graduate and undergraduate students, as well as research staff. Our research aims at understanding how we learn remarkable cognitive and social skills as we grow up. We hope that by working together, we can identify the processes that shape human cognitive development and offer empirical proof to help resolve social problems and address impairments brought on by abnormal development. 
 
+# Purpose of This Lab Handbook
 
-
-
-
-
-
-
-
-
-
-
-
-# Purpose of the Lab Manual
-
-In this handbook, you can find information on basic lab regulations and resources for training. Please review each section to familiarize yourself with the processes and procedures used in the McMaster Baby Lab. 
+In this handbook, you can find information on basic lab regulations, training resources, research materials, and research reflections. Please review each section on the left side to familiarize yourself with the processes and procedures used in the McMaster Baby Lab. You could also search contents with keywords in the search bar on the top. This handbook will be constantly updated by our lab members.
 
 
 

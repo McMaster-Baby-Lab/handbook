@@ -2,7 +2,7 @@
 layout: default
 title: Lab Activities
 parent: Basics
-nav_order: 1
+nav_order: 2
 permalink: /meetings
 ---
 
@@ -16,75 +16,30 @@ permalink: /meetings
 {:toc}
 
 ---
+{: .new }
+> do we need to elaborate on the rules of communication? maybe it's too much....
+
 ## Lab communication
 
-Our primary mode of communication among the team will continue on Microsoft Teams.
-Here you may find recaps from our lab meetings, important training files/documents, as well as other “mini tasks” that you have the option to help complete.
+- **Microsoft Teams**
 
-## Lab Space
-### Outline of the Lab Space 
+   Here you may find recaps from our lab meetings, important training files/documents, as well as other “mini tasks” that you have the option to help complete.
+- **Email**
+- **Meetings and casual conversations**
 
-![image](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/6021e5bc-a4cd-46d2-85b4-d5f2ad067b07)
-
-There are two offices in the lab space. These offices are areas for students to work and have meetings. There are several computers and printers for students to use for research related purposes. 
-
-**Student Office #1**
-
-![student office 1](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/8d313a9a-d060-40cc-9494-adf61662d467)
-
-**Student Office #2**
-
-![student office 2](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/99d9c488-cffd-4dfb-b097-c50cd13d638a)
-![thumbnail_IMG_3542](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/94a4880a-edf1-426b-a879-44fabdbae1fd)
-
-**Kitchen**
-
-The lab is also equipped with a kitchen for lab members to use. Be sure to keep this space clean! 
-
-![IMG_3533](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/637f1faf-9189-42c8-a5a0-fbe539250f53)
-
-**Reception**
-
-There is a reception space in the lab where children and infants can play with toys while they are waiting for the researchers to set up the study. 
-
-![waiting room](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/f875b4ce-d38b-45f7-b871-37fa4d74b3d7)
-
-**fNIRS**
-The lab also has an fNIRS testing room. The fNIRS system consists of a cap that is placed on the participant's scalp to measure changes in hemoglobin concentration in the brain. The fNIRS system is  connected to a computer which records and stores the data collected during the experiment. 
-
-**Eye-Tracker**
-The lab has an eyetracker for conducting experiments that involve tracking the movement of the eyes during visual perception and cognitive processing. 
-Inside the room, there is a desk or table where the participant sits in front of a computer screen. The computer is adjustable to accommodate participants of different heights and ensure that the participant's eyes are at the correct distance from the eye tracker. The eye tracker consists of a camera that follows the eye movement of the participant and stores the data.
-
-**Behavioral Oberservation Room**
-The lab also has a behavioral observation room which provides a controlled environment for observing child behavior and development. The room allows researchers to observe and collect data on the child's behavior and interactions with the environment, which can provide valuable insights into their cognitive, social, and emotional development.
+{: .new }
+> this section and the next one can be moved to basic rules page.
 
 ### Lab Ettiquette
 
-Once you enter the lab space, please leave all personal items in PC-333/334.
+Once you enter the lab space, please leave all personal items in student offices.
+
 It is not recommended to leave any personal items such as laptops or other valuables in the lab space overnight.
 
 When families are present in the lab for testing with other lab members, please ensure that you are quiet and professional so that we do not disrupt the family during the experiment.
 
 Please make sure that you are quiet when walking in the hallways outside of our lab space as well. We are surrounded by many other labs who may be running studies and require a non-distracting environment.
 
-### Accessing the space
-
-Please ensure that you bring your access cards to enter the lab space.
-Our lab space is located on the 3rd floor of the psychology building.
-Hold your access card against the black box beside the door that grants access to the experimentation section of the building until a green light appears.
-Once you enter this section of the 3rd floor, turn right and walk down to the end of the hall. The first door in front of you, as well as the door to your right will lead to our lab space. If you don’t have a card/forget to bring it please call the lab space to have someone bring you in.
-
-Do not lend your access card to anybody else, especially not to anyone who is not a member of our lab.
-
-Every time your access card is used, your MacID is registered and recorded.
-This also means that you should not be using your access card to allow other students who are not part of our lab and are not participants, into the lab space. 
-
-If you lose your access card, please contact Dr. Xiao and register for a new one as soon as possible. We will work to deactivate your existing card so that it may no longer be used to enter our lab space and a new one will be created for you.
-
-To enter the lab space, you must put in the following code into the lock box to obtain the key: **1280**. As soon as you open the door, immediately put the key back into the lock box.
-
-Do not share the code to our lock box with anyone outside of the lab.
 
 ### Leaving the space
 
@@ -96,6 +51,10 @@ Please check to make sure that all toys have been cleaned. Lysol wipes may be fo
 
 Ensure the doors inside the lab space are closed. Make sure the 2 doors leading to our lab are closed and that the key is securely placed in the lock box.
 
+{: .new }
+> we will also need a description of mini task. Use the following as a reference.
+>
+> Specifically, my lab frequently offers students opportunities to work on mini tasks, such as literature review, learning to use new software, and programming. Students are encouraged to take on tasks that align with their interests and career developmental goals, which may help them achieve their future career aspirations. 
 
 ## Lab meetings
 
@@ -105,7 +64,7 @@ Please inform Dr. Xiao if the lab meeting time does not work for you.
 
 You are expected to attend lab meetings but in the case that a conflict arises, please refer to the posted agenda found on Microsoft Teams to catch up on missed information.
 
-### Journal Club
+## Journal Club
 
 Journal club is an opportunity for the lab to discuss recent papers published in the field during lab meetings. During journal club, students will present and critically analyze a research paper. 
 
@@ -130,6 +89,9 @@ Each independent study/thesis student will present 1 paper during a lab meeting.
 ## Project meetings
 You will work alongside a group of other students on a project - please ensure that you are following up with them regularly to complete all tasks.
 In the case that you are unable to complete a specific task or require more time, please communicate clearly with the rest of your team members. 
+
+{: .new }
+> we should include the rules of lab shift in basic rules
 
 ## Lab shifts
 It is expected that you are on time for your shifts - please feel free to come 15-20 minutes early if you need time to set up before meeting a family.

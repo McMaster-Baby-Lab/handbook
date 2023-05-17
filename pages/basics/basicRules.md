@@ -2,9 +2,17 @@
 layout: default
 title: Basic Rules
 parent: Basics
-nav_order: 2
+nav_order: 3
 permalink: /rules
 ---
+{: .new }
+> a few things to add:
+> never should bring non-members to the lab (e.g., friends, classmates, and family members)
+> if it's not required, no one should come to the lab out side working hours / days.
+> lab cleaning schecules
+> how to use kitchen appliances
+> food should never be left outside, especially over night.
+> close the door, when you leave and whenever there is a study on-going. Relatedly, we should have a rule for door signs (like the one on NIRS room).
 
 # Basic Rules
 {: .no_toc }
@@ -40,7 +48,7 @@ We are lucky to have access to these expensive devices that allow us to conduct 
 
 There are printers, phones, and computers in the lab, please ensure you are only using them for lab related purposes - they are not meant for personal use! 
 
-Please do not remove any items from the lab for personal use (e.g. pencils, pens, and other stationary. Please ensure that all equipment within the lab is left in the appropriate places. 
+Please do not remove any items (e.g., pencils, pens, and other stationary) from the lab for personal use. Please ensure that all equipment within the lab is left in the appropriate places. 
 
 If you feel that we are missing something that could be needed for the lab space, please fill out the following form to inform Dr. Xiao: [Lab Shopping Form](https://forms.office.com/pages/responsepage.aspx?id=B2M3RCm0rUKMJSjNSW9HcudkN_4lJH5IiXFmxJeXy5JUODkyNzFOMzZBOThKUFA5Ujk2MkNHWEQ4MS4u)
 
