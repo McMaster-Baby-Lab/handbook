@@ -5,6 +5,13 @@ nav_order: 4
 has_children: true
 permalink: /research
 ---
+{: .new }
+> A paragraph
+>
+> Another paragraph
+>
+> The last paragraph
+
 
 # Research Procedures
 
