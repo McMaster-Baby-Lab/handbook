@@ -26,6 +26,8 @@ permalink: /rules
 
 - Only access the lab when you need to for research purposes. No one should be accessing the lab outside of working hours/days if it is not required. 
 
+- Lab passcodes can be accessed here: [Lab Passcodes](https://mcmasteru365.sharepoint.com/:w:/r/sites/labtest/Shared%20Documents/Document.docx?d=wc837cf74eba147a0bfd67fba5c507f4e&csf=1&web=1&e=evf5Cc) Please do not share these passwords with anyone. 
+
 ## Lab Shifts & In-Person Research
 
 - It is expected that you are **on time for your shifts** - please feel free to come 15-20 minutes early if you need time to set up before meeting a family.
