@@ -3,7 +3,7 @@ layout: default
 title: Lab Ettiquette
 parent: Basics
 nav_order: 3
-permalink: /rules
+permalink: /labEttiquette
 ---
 
 # Lab Ettiquette
