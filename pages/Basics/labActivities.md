@@ -2,7 +2,7 @@
 layout: default
 title: Lab Activities
 parent: Basics
-nav_order: 2
+nav_order: 4
 permalink: labActivities
 ---
 
