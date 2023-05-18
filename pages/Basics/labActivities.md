@@ -52,6 +52,13 @@ Each independent study/thesis student will present 1 paper during a lab meeting.
 -	What are the things you like or dislike about the article?
 -	THERE IS NO RIGHT OR WRONG PRESENTATION. BE YOURSELF.
 
+## Mini Tasks 
+The lab frequently offers students opportunities to work on mini tasks, such as literature review, learning to use new software, and programming. Students are encouraged to take on tasks that align with their interests and career developmental goals, which may help them achieve their future career aspirations. Tasks may include:
+- Literature reviews: collecting and summarizing research on a topic
+- Study preparation: creating experimental stimuli, programming
+- Data collection: run studies as an experimenter
+- Data analysis: pre-processing and statistical analyses
+- Software development: develop modules for the research management system
 
 ## Project meetings
 You will work alongside a group of other students on a project - please ensure that you are following up with them regularly to complete all tasks.
@@ -65,14 +72,11 @@ It is expected that you are on time for your shifts - please feel free to come 1
 
 Familiarize yourself with your schedule and what dates/times you are expected to be in the lab.
 Our current lab schedule can be found here: Lab Schedule (Shifts)
-If you are unable to attend your shift, please reach out to others working at the same time as you to coordinate them covering for you.
-This is especially important if you are planning to meet a family during your scheduled shift.
+- If you are unable to attend your shift, please reach out to others working at the same time as you to coordinate them covering for you. This is especially important if you are planning to meet a family during your scheduled shift.
 
 Please stay up to date with the lab calendar to ensure that you are aware of all scheduled appointments. 
 
-
-Please stay home if you are feeling ill and inform Dr. Xiao and others who can cover for you during your scheduled time.
-This is especially important to ensure that we do not pass anything on to other lab members as well as our participants!
+Please stay home if you are feeling ill and inform Dr. Xiao and others who can cover for you during your scheduled time. This is especially important to ensure that we do not pass anything on to other lab members as well as our participants!
 
 
 ## Training
