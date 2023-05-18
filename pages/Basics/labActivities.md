@@ -17,12 +17,6 @@ permalink: labActivities
 
 ---
 
-
-{: .new }
-> we will also need a description of mini task. Use the following as a reference.
->
-> Specifically, my lab frequently offers students opportunities to work on mini tasks, such as literature review, learning to use new software, and programming. Students are encouraged to take on tasks that align with their interests and career developmental goals, which may help them achieve their future career aspirations. 
-
 ## Lab meetings
 
 Lab meetings will be held in person on DATETIME
@@ -53,7 +47,9 @@ Each independent study/thesis student will present 1 paper during a lab meeting.
 -	THERE IS NO RIGHT OR WRONG PRESENTATION. BE YOURSELF.
 
 ## Mini Tasks 
-The lab frequently offers students opportunities to work on mini tasks, such as literature review, learning to use new software, and programming. Students are encouraged to take on tasks that align with their interests and career developmental goals, which may help them achieve their future career aspirations. Tasks may include:
+The lab frequently offers students opportunities to work on mini tasks, such as literature review, learning to use new software, and programming. Students are encouraged to take on tasks that align with their interests and career developmental goals, which may help them achieve their future career aspirations. 
+
+Tasks may include:
 - Literature reviews: collecting and summarizing research on a topic
 - Study preparation: creating experimental stimuli, programming
 - Data collection: run studies as an experimenter
