@@ -3,7 +3,7 @@ layout: default
 title: Lab Activities
 parent: Basics
 nav_order: 2
-permalink: /meetings
+permalink: labActivities
 ---
 
 # Lab activities
