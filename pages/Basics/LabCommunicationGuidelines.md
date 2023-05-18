@@ -27,9 +27,14 @@ permalink: /meetings
   - **Confidentiality:** Respect the privacy and confidentiality of the lab's discussions and shared files within Microsoft Teams. Do not share sensitive information or confidential data with people who are not in the lab. 
   
 - **Meetings and casual conversations**
+   - Meetings and casual conversations provide opportunities for sharing updates, problem-solving challenges, and building relationships within the lab. 
+
+   - **Punctuality:** Please be on time for all scheduled meetings and be prepared to contribute.
+   - **Active Listening:** Listen closely to what others share during meetings. Be professional and respectful of others at all times. Share your ideas, thoughts, and ask questions!
+   - Project updates: Share updates on projects and collaboratively discuss potential ways to troubleshoot challenges. 
    
 - **Lab Email**
-- The lab email is the primary form of communication used between lab members and participants. The lab email is connected to DRDB and used to send interest emails, schedule appointment, and send appointment confirmations to families. 
+   - The lab email is the primary form of communication used between lab members and participants. The lab email is connected to DRDB and used to send interest emails, schedule appointment, and send appointment confirmations to families. 
 
 - **Basic Rules for using the Lab Email:** 
     - **Professionalism:** Maintain a professional tone and language when composing and replying to emails. Be respectful and courteous when composing emails to families. Use an appropriate email signature that includes your name, position, and contact information. 
@@ -40,7 +45,7 @@ permalink: /meetings
 - **Lab Calendar**
   - The Lab Calendar is used to coordinate the scheduling of studies and meetings for the lab. It is important to check the lab calendar prior to scheduling participants to avoid double booking two studies using the same technology at the same time. 
 
- **Basic Rules for using the Lab Email:**
+ **Basic Rules for using the Lab Calendar:**
   - **Updating the calendar:** Keep the lab calendar up-to-date by promptly adding and modifying study appointments and meetings. Regularly review the calendar to stay informed of upcoming activities.
   - **Event Details:** Label the event with the study name and ensure you have alotted the correct amount of time for the study. Add relevant notes if neccessary. 
   - **Collaborative Editing:** All lab members have access to edit the calendar, do not delete the entries of others without proper communication. Communicate and coordinate with other lab members to find alternatives if there is a scheduling conflict.
