@@ -31,7 +31,7 @@ permalink: /meetings
 
    - **Punctuality:** Please be on time for all scheduled meetings and be prepared to contribute.
    - **Active Listening:** Listen closely to what others share during meetings. Be professional and respectful of others at all times. Share your ideas, thoughts, and ask questions!
-   - Project updates: Share updates on projects and collaboratively discuss potential ways to troubleshoot challenges. 
+   - **Project updates:** Share updates on projects and collaboratively discuss potential ways to troubleshoot challenges. 
    
 - **Lab Email**
    - The lab email is the primary form of communication used between lab members and participants. The lab email is connected to DRDB and used to send interest emails, schedule appointment, and send appointment confirmations to families. 
