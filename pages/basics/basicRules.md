@@ -18,7 +18,7 @@ permalink: /rules
 
 ---
 
-# Lab Access and Security
+## Lab Access and Security
 
 - Keep lab doors closed when not in use. 
 
@@ -26,9 +26,9 @@ permalink: /rules
 
 - Only access the lab when you need to for research purposes. No one should be accessing the lab outside of working hours/days if it is not required. 
 
-# Lab Shifts & In-Person Research
+## Lab Shifts & In-Person Research
 
-- It is expected that you are on time for your shifts - please feel free to come 15-20 minutes early if you need time to set up before meeting a family.
+- It is expected that you are **on time for your shifts** - please feel free to come 15-20 minutes early if you need time to set up before meeting a family.
 
 - Familiarize yourself with your schedule and what dates/times you are expected to be in the lab. Our current lab schedule can be found here: Lab Schedule (Shifts)
    - If you are unable to attend your shift, please reach out to others working at the same time as you to coordinate them covering for you. This is especially important if you are planning to meet a family during your scheduled shift.
