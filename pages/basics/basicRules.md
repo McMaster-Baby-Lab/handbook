@@ -37,7 +37,7 @@ Familiarize yourself with your schedule and what dates/times you are expected to
 
 - Please stay home if you are feeling ill and inform Dr. Xiao and others who can cover for you during your scheduled time. This is especially important to ensure that we do not pass anything on to other lab members as well as our participants!
 
-### Lab materials and equipment
+## Lab materials and equipment
 
 - Please make sure that you are handling all lab equipment very carefully.
    - We are lucky to have access to these expensive devices that allow us to conduct our research. Please make sure that you complete all appropriate training before using the equipment so that you are well educated about how to use it. 
@@ -50,7 +50,7 @@ Familiarize yourself with your schedule and what dates/times you are expected to
 
 - If you feel that we are missing something that could be needed for the lab space, please fill out the following form to inform Dr. Xiao: [Lab Shopping Form](https://forms.office.com/pages/responsepage.aspx?id=B2M3RCm0rUKMJSjNSW9HcudkN_4lJH5IiXFmxJeXy5JUODkyNzFOMzZBOThKUFA5Ujk2MkNHWEQ4MS4u)
 
-### Leaving the space
+## Leaving the space
 
 - At the end of your shift, please ensure that all emails and phone messages have been attended to. This step is necessary to ensure that the individuals coming in for the next shift are able to get started with their assigned tasks right away.
 
