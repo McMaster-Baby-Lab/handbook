@@ -5,14 +5,7 @@ parent: Basics
 nav_order: 4
 permalink: /rules
 ---
-{: .new }
-> a few things to add:
-> never should bring non-members to the lab (e.g., friends, classmates, and family members)
-> if it's not required, no one should come to the lab out side working hours / days.
 
-> close the door, when you leave and whenever there is a study on-going. Relatedly, we should have a rule for door signs (like the one on NIRS room).
->
-> what about general rules on being in-person? it connects to the idea of taking shifts. And we need to emphasize why we require students being in-person.
 
 # Basic Rules
 {: .no_toc }
