@@ -33,7 +33,7 @@ permalink: /rules
 - Familiarize yourself with your schedule and what dates/times you are expected to be in the lab. Our current lab schedule can be found here: Lab Schedule (Shifts)
    - If you are unable to attend your shift, please reach out to others working at the same time as you to coordinate them covering for you. This is especially important if you are planning to meet a family during your scheduled shift.
 
-- Please stay up to date with the lab calendar to ensure that you are aware of all scheduled appointments. 
+- Frequently check the lab calendar to ensure that you are aware of all scheduled appointments. 
 
 - Please stay home if you are feeling ill and inform Dr. Xiao and others who can cover for you during your scheduled time. This is especially important to ensure that we do not pass anything on to other lab members as well as our participants!
 
