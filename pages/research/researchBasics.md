@@ -141,9 +141,9 @@ permalink: /researchBasics
 
 - Ask the participant how they would like us to use the recorded video from the session and outline the different levels of use: 
 
-* Level 1:  The video stays in our secure servers, and only members of our research team can see it.
-* Level 2 allows us to show this video for academic/educational use. We might show this video as an example at scientific conferences or classes, but we won’t distribute copies of this video to anyone.
-* Level 3 allows us to share this video for public use. We might put copies of this video on our website for public outreach or share it alongside scientific publications. 
+  * Level 1:  The video stays in our secure servers, and only members of our research team can see it.
+  * Level 2 allows us to show this video for academic/educational use. We might show this video as an example at scientific conferences or classes, but we won’t distribute copies of this video to anyone.
+  * Level 3 allows us to share this video for public use. We might put copies of this video on our website for public outreach or share it alongside scientific publications. 
 
 - Ask which level best describes how they’d like us to use their video. 
 
