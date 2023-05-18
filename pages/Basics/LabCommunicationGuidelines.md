@@ -17,16 +17,16 @@ permalink: /communicationGuidelines
 
 ---
 
-## Lab communication
+# Lab communication
 
-### **Microsoft Teams**
+## Microsoft Teams
    - Here you can find recaps from our lab meetings, important training files/documents, as well as other “mini tasks” that you have the option to help complete.
 
      - **Professionalism:** Maintain a professional and respectful tone when communicating through Microsoft Teams. Adhere to the lab's code of conduct. 
      - **Updates**: Check Microsoft Teams frequently to be aware of any updates in the lab or changes to lab meetings/scheduling. 
      - **Confidentiality:** Respect the privacy and confidentiality of the lab's discussions and shared files within Microsoft Teams. Do not share sensitive information or confidential data with people who are not in the lab. 
   
-### **Lab Email**
+## Lab Email
    - The lab email is the primary form of communication used between lab members and participants. The lab email is connected to DRDB and is used to send interest emails, schedule appointments, and send appointment confirmations to families. 
 
 - **Basic Rules for using the Lab Email:** 
@@ -35,7 +35,7 @@ permalink: /communicationGuidelines
     - **Clear Writing:** Be clear and concise when writing emails. Avoid excessive use of jargon or technical scientific terms, and provide context when necessary. Use lay terms, avoiding words like experiment (ie. use study, participate etc.). 
     - **Response Time:** If you are responsible for recruitment, check the lab email frequently and respond in a timely manner to ensure that we are able to secure the participation of families that are interested. 
 
-### **Lab Calendar**
+## Lab Calendar
   - The Lab Calendar is used to coordinate the scheduling of studies and meetings for the lab. It is important to check the lab calendar prior to scheduling participants to avoid double booking two studies using the same technology at the same time. 
 
 - **Basic Rules for using the Lab Calendar:**
@@ -43,7 +43,7 @@ permalink: /communicationGuidelines
   - **Event Details:** Label the event with the study name and ensure you have alotted the correct amount of time for the study. Add relevant notes if neccessary. 
   - **Collaborative Editing:** All lab members have access to edit the calendar, do not delete the entries of others without proper communication. Communicate and coordinate with other lab members to find alternatives if there is a scheduling conflict.
 
-### **Meetings and casual conversations**
+## Meetings and casual conversations
 - Meetings and casual conversations provide opportunities for sharing updates, problem-solving challenges, and building relationships within the lab. 
    
    - **Punctuality:** Please be on time for all scheduled meetings and be prepared to contribute.
