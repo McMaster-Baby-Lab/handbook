@@ -29,7 +29,11 @@ You are expected to attend lab meetings but in the case that a conflict arises, 
 
 Journal club is an opportunity for the lab to discuss recent papers published in the field during lab meetings. During journal club, students will present and critically analyze a research paper. 
 
-Each independent study/thesis student will present 1 paper during a lab meeting. The journal will be assigned to the student and the student will then select a paper from the journal they are assigned to. The student will then briefly present the paper at the lab meeting. PowerPoint slides are not permitted, students only need to describe the paper verbally in a 3 minute maximum presentation. After the presentation, lab members will have an opportunity to ask the student questions about the paper and engage in discussion. 
+- Each independent study/thesis student will present 1 paper during a lab meeting. 
+- The journal will be assigned to the student and the student will then select a paper from the journal they are assigned to. 
+- The student will then briefly present the paper at the lab meeting. 
+  - PowerPoint slides are not permitted, students only need to describe the paper verbally in a 3 minute maximum presentation. 
+- After the presentation, lab members will have an opportunity to ask the student questions about the paper and engage in discussion. 
 
 **Article requirements:**
 -	Empirical research article or review papers. Commentary articles, report, or correspondence articles do NOT qualify.
@@ -49,7 +53,7 @@ Each independent study/thesis student will present 1 paper during a lab meeting.
 ## Mini Tasks 
 The lab frequently offers students opportunities to work on mini tasks, such as literature review, learning to use new software, and programming. Students are encouraged to take on tasks that align with their interests and career developmental goals, which may help them achieve their future career aspirations. 
 
-Tasks may include:
+**Tasks may include:**
 - Literature reviews: collecting and summarizing research on a topic
 - Study preparation: creating experimental stimuli, programming
 - Data collection: run studies as an experimenter
@@ -58,6 +62,7 @@ Tasks may include:
 
 ## Project meetings
 You will work alongside a group of other students on a project - please ensure that you are following up with them regularly to complete all tasks.
+
 In the case that you are unable to complete a specific task or require more time, please communicate clearly with the rest of your team members. 
 
 ## Lab shifts
