@@ -2,7 +2,7 @@
 layout: default
 title: Basic Rules
 parent: Basics
-nav_order: 4
+nav_order: 2
 permalink: /rules
 ---
 
