@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lab Ettiquette
+title: Basic Rules
 parent: Basics
 nav_order: 3
 permalink: /rules
@@ -14,7 +14,7 @@ permalink: /rules
 >
 > what about general rules on being in-person? it connects to the idea of taking shifts. And we need to emphasize why we require students being in-person.
 
-# Lab Ettiquette
+# Basic Rules
 {: .no_toc }
 
 ## Table of contents
