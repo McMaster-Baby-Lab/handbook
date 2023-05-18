@@ -44,7 +44,7 @@ permalink: /meetings
   - **Collaborative Editing:** All lab members have access to edit the calendar, do not delete the entries of others without proper communication. Communicate and coordinate with other lab members to find alternatives if there is a scheduling conflict.
 
 ### **Meetings and casual conversations**
-   - Meetings and casual conversations provide opportunities for sharing updates, problem-solving challenges, and building relationships within the lab. 
+- Meetings and casual conversations provide opportunities for sharing updates, problem-solving challenges, and building relationships within the lab. 
    
    - **Punctuality:** Please be on time for all scheduled meetings and be prepared to contribute.
    - **Active Listening:** Listen closely to what others share during meetings. Be professional and respectful of others at all times. Share your ideas, thoughts, and ask questions!
