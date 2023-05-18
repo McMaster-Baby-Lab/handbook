@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lab Activities
+title: Lab Communication Guidelines
 parent: Basics
 nav_order: 2
 permalink: /meetings
