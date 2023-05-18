@@ -27,7 +27,7 @@ permalink: /communicationGuidelines
      - **Confidentiality:** Respect the privacy and confidentiality of the lab's discussions and shared files within Microsoft Teams. Do not share sensitive information or confidential data with people who are not in the lab. 
   
 ### **Lab Email**
-   - The lab email is the primary form of communication used between lab members and participants. The lab email is connected to DRDB and used to send interest emails, schedule appointment, and send appointment confirmations to families. 
+   - The lab email is the primary form of communication used between lab members and participants. The lab email is connected to DRDB and is used to send interest emails, schedule appointments, and send appointment confirmations to families. 
 
 - **Basic Rules for using the Lab Email:** 
     - **Professionalism:** Maintain a professional tone and language when composing and replying to emails. Be respectful and courteous when composing emails to families. Use an appropriate email signature that includes your name, position, and contact information. 
