@@ -18,7 +18,7 @@ permalink: /rules
 
 ---
 
-## Lab Access and Security
+## Lab Access & Security
 
 - Keep lab doors closed when not in use. 
 
