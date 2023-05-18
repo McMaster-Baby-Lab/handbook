@@ -164,13 +164,13 @@ permalink: /researchBasics
   - XXX, let me tell you about the game that XXX is going to play. 
   - This game takes about 5 minutes. And In this game, XXX is going to XXX. We just want to know how your child reacts!
 
-- We are gonna video record the session so that we can remember how XXX plays the game. So by default, this video is private. That means, This video is only saved in our secure servers—we won’t show it to anyone else unless we have your explicit consent. Ask permission to begin recording and inform them that they will have to select "continue" to allow the recording.  
+  - We are gonna video record the session so that we can remember how XXX plays the game. So by default, this video is private. That means, This video is only saved in our secure servers—we won’t show it to anyone else unless we have your explicit consent. Ask permission to begin recording and inform them that they will have to select "continue" to allow the recording.  
 
 - Verbal Consent: 
- - Earlier you should have received an email from us with the information about the consenting process. Before we continue, do you have any questions for us?
- - [If yes, answer their questions. Once they are comfortable moving forward, proceed. If they decide they are not comfortable proceeding at this point, thank them for their time and interest in participating.]
+   - Earlier you should have received an email from us with the information about the consenting process. Before we continue, do you have any questions for us?
+   - [If yes, answer their questions. Once they are comfortable moving forward, proceed. If they decide they are not comfortable proceeding at this point, thank them for their time and interest in participating.]
 
-  - The consent script for the parent to read will be displayed on the screen. Ask the parent to read the script beginning with the phrase "Today is..."
+    - The consent script for the parent to read will be displayed on the screen. Ask the parent to read the script beginning with the phrase "Today is..."
 
 **Check Device and Settings**
 - Ask what device they are using for the study and ask them how large the screen is. If they are unsure, ask them to estimate. Ask if they are using more than one screen. 
