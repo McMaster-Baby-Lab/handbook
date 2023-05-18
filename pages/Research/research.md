@@ -6,8 +6,6 @@ has_children: true
 permalink: /research
 ---
 
-
-
 # Research Procedures
 
 Here, we outline the basics of running studies, ethics approval, and data management.
