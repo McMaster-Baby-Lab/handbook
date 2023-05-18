@@ -2,7 +2,7 @@
 layout: default
 title: Basic Rules
 parent: Basics
-nav_order: 3
+nav_order: 4
 permalink: /rules
 ---
 {: .new }
@@ -24,6 +24,20 @@ permalink: /rules
 {:toc}
 
 ---
+
+# Lab Access and Security
+
+- Keep lab doors closed when not in use. 
+
+- Never bring people who are not lab members into the lab (friends, classmates, family members etc.). 
+
+- Only access the lab when you need to for research purposes. No one should be accessing the lab outside of working hours/days if it is not required. 
+
+
+
+
+
+
 
 ## Lab Ettiquette
 
