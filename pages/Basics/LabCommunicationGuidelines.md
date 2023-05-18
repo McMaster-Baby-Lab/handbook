@@ -2,7 +2,7 @@
 layout: default
 title: Lab Communication 
 parent: Basics
-nav_order: 2
+nav_order: 3
 permalink: /meetings
 ---
 
