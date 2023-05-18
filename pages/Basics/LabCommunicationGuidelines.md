@@ -45,7 +45,7 @@ permalink: /meetings
 
 ### **Meetings and casual conversations**
    - Meetings and casual conversations provide opportunities for sharing updates, problem-solving challenges, and building relationships within the lab. 
-
+   
    - **Punctuality:** Please be on time for all scheduled meetings and be prepared to contribute.
    - **Active Listening:** Listen closely to what others share during meetings. Be professional and respectful of others at all times. Share your ideas, thoughts, and ask questions!
    - **Project updates:** Share updates on projects and collaboratively discuss potential ways to troubleshoot challenges. 
