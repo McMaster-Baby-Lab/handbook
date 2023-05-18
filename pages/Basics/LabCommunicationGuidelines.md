@@ -3,10 +3,10 @@ layout: default
 title: Lab Communication 
 parent: Basics
 nav_order: 3
-permalink: /meetings
+permalink: /communicationGuidelines
 ---
 
-# Lab Communication Guidelines
+# Lab Communication
 {: .no_toc }
 
 ## Table of contents
