@@ -32,7 +32,7 @@ Journal club is an opportunity for the lab to discuss recent papers published in
 Each independent study/thesis student will present 1 paper during a lab meeting. The journal will be assigned to the student and the student will then select a paper from the journal they are assigned to. The student will then briefly present the paper at the lab meeting. PowerPoint slides are not permitted, students only need to describe the paper verbally in a 3 minute maximum presentation. After the presentation, lab members will have an opportunity to ask the student questions about the paper and engage in discussion. 
 
 **Article requirements:**
--	Empirical research article or review papers. Commentary articles, report, or correspondence articles are NOT qualified.
+-	Empirical research article or review papers. Commentary articles, report, or correspondence articles do NOT qualify.
 -	Articles published in the past 3 years.
 -	Articles never presented at our lab meeting before (check Journal club channel on Teams for past presented papers).
 - Articles that lab members did NOT participate in.
@@ -60,19 +60,13 @@ Tasks may include:
 You will work alongside a group of other students on a project - please ensure that you are following up with them regularly to complete all tasks.
 In the case that you are unable to complete a specific task or require more time, please communicate clearly with the rest of your team members. 
 
-{: .new }
-> we should include the rules of lab shift in basic rules
-
 ## Lab shifts
-It is expected that you are on time for your shifts - please feel free to come 15-20 minutes early if you need time to set up before meeting a family.
 
-Familiarize yourself with your schedule and what dates/times you are expected to be in the lab.
-Our current lab schedule can be found here: Lab Schedule (Shifts)
-- If you are unable to attend your shift, please reach out to others working at the same time as you to coordinate them covering for you. This is especially important if you are planning to meet a family during your scheduled shift.
+Lab shifts are an opportunity to work on tasks for your assigned study and also assist with other in-person studies. Lab shifts allow students to gain hands on experience and develop skills while assisting with in-person research using the eyetracker and fNIRS technology. 
 
-Please stay up to date with the lab calendar to ensure that you are aware of all scheduled appointments. 
+Lab shifts also allow students to build relationships with other lab members and learn from other students in the lab. Students can work together to disccuss challenges and prepare for the next stages of their projects. 
 
-Please stay home if you are feeling ill and inform Dr. Xiao and others who can cover for you during your scheduled time. This is especially important to ensure that we do not pass anything on to other lab members as well as our participants!
+Each student will be required to have several hours of lab shifts each week. 
 
 
 ## Training
