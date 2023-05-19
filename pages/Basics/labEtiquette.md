@@ -45,6 +45,8 @@ permalink: /labEtiquette
 **Cleaning the space:**
    - Please help keep the lab space clean!
 
+   - Please keep the kitchen clean and clean all dishes/utensils after use. Please also clean any appliances you use after you are finished. 
+
    - If you choose to eat/drink anything please ensure that you are throwing out any garbage in the appropriate bins. Cans cannot go in the lab recycling and must be discarded in the bin beside the elevators. Please ensure your workspace is left clean when you leave the lab.
 
    - Once a family has left, please clean all toys in the waiting area. 
