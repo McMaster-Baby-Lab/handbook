@@ -28,7 +28,7 @@ permalink: /labEtiquette
    - Please make sure that you are quiet when walking in the hallways outside of our lab space as well. We are surrounded by many other labs who may be running studies and require a non-distracting environment.
 
 **Doors:** 
-   - Ensure the doors to the lab space and within the lab space are closed when leaving the space and if a study is taking place. 
+   - Ensure the **doors** to the lab space and within the lab space are **closed** if a study is taking place or **if there is no one in the lab.** 
    - When beginning a study, please flip the door sign to in progress so that other lab members know not to disrupt the study. 
    - After the study, change the door sign back to the picture. 
 
