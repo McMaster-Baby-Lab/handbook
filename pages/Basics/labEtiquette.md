@@ -3,10 +3,10 @@ layout: default
 title: Lab Ettiquette
 parent: Basics
 nav_order: 3
-permalink: /labEttiquette
+permalink: /labEtiquette
 ---
 
-# Lab Ettiquette
+# Lab Etiquette
 {: .no_toc }
 
 ## Table of contents
