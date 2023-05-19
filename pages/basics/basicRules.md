@@ -48,6 +48,8 @@ permalink: /rules
 
 - There are printers, phones, and computers in the lab, please ensure you are only using them for lab related purposes - they are not meant for personal use! 
 
+- There is a projector available in student office #1 for students to use for small group meetings.
+
 - Please do not remove any items (e.g., pencils, pens, and other stationary) from the lab for personal use. Please ensure that all equipment within the lab is left in the appropriate places. 
 
 - If you feel that we are missing something that could be needed for the lab space, please fill out the following form to inform Dr. Xiao: [Lab Shopping Form](https://forms.office.com/pages/responsepage.aspx?id=B2M3RCm0rUKMJSjNSW9HcudkN_4lJH5IiXFmxJeXy5JUODkyNzFOMzZBOThKUFA5Ujk2MkNHWEQ4MS4u)
