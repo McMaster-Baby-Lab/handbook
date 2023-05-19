@@ -45,10 +45,10 @@ Don’t use science jargon!
 	- Mention whether the study is online or in-person.
 	- Make it clear how long the study is and what the study entails – what will the participant be doing.
 	- Let them know how they benefit from participating.
-	    - If you caught them at a bad time ask when it might be better to call you back or if they would prefer an alt method of contact i.e. email and if their email isn’t in DRDB then write it down and update the system (or update simultaneously from DRDB).
-	    - If **uninterested** ask if they would like to be kept in the database and potentially contacted for future studies or if they’d like to be removed from the database and avoid future contact (if so remove them) and thank them for their time.
-    	- If **interested** but would like some time to consider send them an email regarding interest and ask them to contact you back when they have decided either through email or the lab phone number provide our email and phone number through the phone/in the email babylab@mcmaster.ca or (905)525-9140 ext. 23130 (ask them if they would rather be contacted again and when would be the best time to do that).
-	        - *** always confirm email address when scheduling an appointment or if sending interest email***
+		 - If you caught them at a bad time ask when it might be better to call you back or if they would prefer an alt method of contact i.e. email and if their email isn’t in DRDB then write it down and update the system (or update simultaneously from DRDB).
+		 - If **uninterested** ask if they would like to be kept in the database and potentially contacted for future studies or if they’d like to be removed from the database and avoid future contact (if so remove them) and thank them for their time.
+		- If **interested** but would like some time to consider send them an email regarding interest and ask them to contact you back when they have decided either through email or the lab phone number provide our email and phone number through the phone/in the email babylab@mcmaster.ca or (905)525-9140 ext. 23130 (ask them if they would rather be contacted again and when would be the best time to do that).
+        - *** always confirm email address when scheduling an appointment or if sending interest email***
 
 **Email recruitment/confirmation**
 - Sometimes its noted that families prefer to be contacted through email so do that first.
