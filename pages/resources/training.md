@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Training Materials
+title: Recruitment Materials
 parent: Resources
 nav_order: 1
-permalink: /trainingMaterials
+permalink: /recruitmentMaterials
 ---
 
-# Training materials
+# Recruitment materials
 {: .no_toc }
 
 ## Table of contents
