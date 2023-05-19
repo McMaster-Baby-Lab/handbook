@@ -23,7 +23,7 @@ Our lab is located on the 3rd floor of the Psychology Building, McMaster Main ca
 
 ### Student Office #1
 
-There are two offices in the lab space. These offices are areas for students to work and have meetings. There are several computers and printers for students to use for research related purposes. 
+There are two offices in the lab space. These offices are areas for students to work and have meetings. There are several computers and printers for students to use for research related purposes. There is also a projector that may be used for small group meetings.
 ![student office 1](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/8d313a9a-d060-40cc-9494-adf61662d467)
 
 ### Student Office #2
