@@ -18,7 +18,7 @@ permalink: /trainingMaterials
 ---
 ## What do I need for recruitment?
 ### AVAYA
-We use the phone of our lab to contact families. With Avaya IX (Softphone), you can call participants with lab’s phone number on your computer/cell phone.
+We use the phone in our lab to contact families. With Avaya IX (Softphone), you can call participants with lab’s phone number on your computer/cell phone.
 
 Download AVAYA: [AVAYA DOWNLOAD](https://telecom.mcmaster.ca/products-services/avaya-ix-softphone)
 
@@ -52,14 +52,32 @@ For numbers from other areas (e.g., 647):
 
     Account: babylab@mcmaster.ca
 
-Everyone needs to share their availability with the lab calendar, others will know when a researcher is available to run studies.
+Everyone needs to share their availability with the lab calendar, so that others will know when a researcher is available to run studies.
 
-For those who are new to the lab, please create a Google Calendar with your McMaster email address, and create events in the calendar for the typical times during the week that you are NOT available to run studies.
+If you are new to the lab, please create a Google Calendar with your McMaster email address, and create events in the calendar for the typical times during the week that you are NOT available to run studies.
+- To create a new calendar, go to Outlook Calendar, click the + next to 'Other calendars' on the left side of the screen, and create a calendar.
+- Rename this calendar with your own name. 
+- After you have created events for all the times you are unavailable to run studies, click on the three dots next to this calendar on the left 'My calendars' toolbar, and click 'Settings and sharing.' 
+- Under 'Share with specific people', share the calendar with babylab@mcmaster.ca, macbabylab@gmail.com or the primary researcher on your study.
 
-To create a new calendar, go to Outlook Calendar, click the + next to 'Other calendars' on the left side of the screen, and create a calendar. Rename this calendar with your own name. After you have created events for all the times you are unavailable to run studies, click on the three dots next to this calendar on the left 'My calendars' toolbar, and click 'Settings and sharing.' Under 'Share with specific people', share the calendar with babylab@mcmaster.ca or the primary researcher on your study.
+**Booking Test Slots**
+- Typical week: each project should create no more than 8 tentative slots in the lab calendar (not your shared calendar)
+	name the event: TENTATIVE + the study name
+	i.e. TENTATIVE + Face Detection and include the technology used in the notes
+- Input tentative slots into the lab calendar a week in advance
+- You may book more than 8 slots for the current week but not a week in advance
+	
+**Filling Test Slots**
+- Login to SONA and create corresponding tentative events in correct timeslots
+
+- Once slots have been signed up for by students update the lab calendar by removing “TENTATIVE” from event title 
+- Include participant contact info in the note section of calendar event
+
 
 ### McMaster VPN
-The McMaster VPN is needed to access our Developmental Research Database (DRDB) where we store the information of potential participants in our studies. You can download the McMaster VPN using this link: [McMaster VPN](https://uts.mcmaster.ca/services/computers-printers-and-software/virtual-private-networking/)
+The McMaster VPN is needed to access our Developmental Research Database (DRDB) where we store the information of potential participants in our studies. 
+
+You can download the McMaster VPN using this link: [McMaster VPN](https://uts.mcmaster.ca/services/computers-printers-and-software/virtual-private-networking/)
 
 ### Zoom (for online studies)
 Use experimenter’s McMaster Zoom account (with your MacID) running studies.
@@ -100,7 +118,7 @@ Don’t use science jargon!
 	- If interested but would like some time to consider send them an email regarding interest and ask them to contact you back when they have decided either through email or the lab phone number provide our email and phone number through the phone/in the email babylab@mcmaster.ca or (905)525-9140 ext. 23130 (ask them if they would rather be contacted again and when would be the best time to do that).
 	- *** always confirm email address when scheduling an appointment or if sending interest email***
 
-**Email recruitment/conformation**
+**Email recruitment/confirmation**
 - Sometimes its noted that families prefer to be contacted through email so do that first.
 - Also if the family doesn’t pick up the phone call send an “interested” email from DRDB so you can give them the information and they can always contact back to participate if they would like to.
 - When family/parents have agreed to participate make sure the email contains the right zoom links.
