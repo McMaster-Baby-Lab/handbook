@@ -51,7 +51,9 @@ Journal club is an opportunity for the lab to discuss recent papers published in
 -	THERE IS NO RIGHT OR WRONG PRESENTATION. BE YOURSELF.
 
 ## Mini Tasks 
-The lab frequently offers students opportunities to work on mini tasks, such as literature review, learning to use new software, and programming. Students are encouraged to take on tasks that align with their interests and career developmental goals, which may help them achieve their future career aspirations. 
+The lab frequently offers students opportunities to work on mini tasks, such as literature review, learning to use new software, and programming. 
+
+Students are encouraged to take on tasks that align with their interests and career developmental goals, which may help them achieve their future career aspirations. 
 
 **Tasks may include:**
 - Literature reviews: collecting and summarizing research on a topic
@@ -73,10 +75,14 @@ Lab shifts also allow students to build relationships with other lab members and
 
 Each student will be required to have several hours of lab shifts each week. 
 
+During lab shifts, students should be working on assisting with recruitment, in-person studies, mini-tasks or other project-specific tasks. 
+
 
 ## Training
 
-We are lucky to have access to these expensive devices that allow us to progress our research. Please make sure that you complete all appropriate training before using the equipment so that you are well educated about how to use them.
+We are lucky to have access to these expensive devices that allow us to progress our research. 
+
+Please make sure that you complete all appropriate training before using the equipment so that you are well educated about how to use them.
 
 ## Lab socials
 
