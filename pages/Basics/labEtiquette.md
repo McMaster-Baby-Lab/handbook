@@ -17,7 +17,7 @@ permalink: /labEtiquette
 
 ---
 
-## Lab Ettiquette
+## Lab Etiquette
 
 **Personal Items:** 
    - Once you enter the lab space, please leave all personal items in student offices.
