@@ -6,7 +6,7 @@ nav_order: 5
 permalink: /writing
 ---
 {: .warning }
-> the following is a draft
+> WIP
 
 # Academic writing
 {: .no_toc }
