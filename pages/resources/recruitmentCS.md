@@ -18,11 +18,13 @@ permalink: /recruitmentTraining
 ## Recruitment and Customer Service Training
 It is important to recognize we are asking parents to do us a huge favor to have their infant/children to contribute to science. We want to convey this excitement and gratitude while recruiting for their (potential) participation i.e. through your verbal communication skills.
 
-Be positive and friendly on the phone – representing the lab We need to ensure they are understand and are comfortable with what we are saying. How we say things plays a big part of whether parents choose to participate or not so think about how you would like someone to ask you to do a favour and what would influence your decision. Practice before calling!
+Be positive and friendly on the phone – representing the lab We need to ensure they are understand and are comfortable with what we are saying. How we say things plays a big part of whether parents choose to participate or not so think about how you would like someone to ask you to do a favour and what would influence your decision. 
 
 - Refer to the parent and child by name in system
 - Only contact parents during working hours – ie. 9:30 am-6:30 pm
 - If parents ask a question and you don’t know the answer ask them to hold and ask someone who might know, or tell them you will note it down and get back to them either through phone or email (don’t make up an answer)
+
+**Practice before calling!**
 
 ### Vocabulary
 Don’t use science jargon!
