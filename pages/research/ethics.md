@@ -24,7 +24,7 @@ permalink: /researchEthics
 
 3. Use the [templates](https://mcmasteru365.sharepoint.com/:f:/r/sites/labtest/Shared%20Documents/Research%20ethics%20documents/Templates?csf=1&web=1&e=xikbEd) and [examples](https://mcmasteru365.sharepoint.com/:f:/r/sites/labtest/Shared%20Documents/Research%20ethics%20documents/Examples?csf=1&web=1&e=sChwzM) in the Research ethics documents to prepare your application. 
 
-### Instructions 
+### Instructions
 
  **Filling out the individual study form**
 - **1.3** Add your study name. You can also add an abbreviation of the name which can be used in the documents upload (see 2.b. for further explanation)
