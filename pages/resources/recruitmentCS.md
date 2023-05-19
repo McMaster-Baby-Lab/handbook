@@ -1,9 +1,11 @@
+---
 layout: default
 title: Recruitment Training
 parent: Resources
 nav_order: 2
 permalink: /recruitmentTraining
 ---
+
 
 # Recruitment Training
 {: .no_toc }
