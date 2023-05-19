@@ -27,7 +27,8 @@ permalink: /communicationGuidelines
      - **Confidentiality:** Respect the privacy and confidentiality of the lab's discussions and shared files within Microsoft Teams. Do not share sensitive information or confidential data with people who are not in the lab. 
   
 ## Lab Email
-   - The lab email is the primary form of communication used between lab members and participants. The lab email is connected to DRDB and is used to send interest emails, schedule appointments, and send appointment confirmations to families. 
+   - The lab email is the primary form of communication used between lab members and participants. 
+   - The lab email is connected to DRDB and is used to send interest emails, schedule appointments, and send appointment confirmations to families. 
 
 - **Basic Rules for using the Lab Email:** 
     - **Professionalism:** Maintain a professional tone and language when composing and replying to emails. Be respectful and courteous when composing emails to families. Use an appropriate email signature that includes your name, position, and contact information. 
@@ -42,6 +43,8 @@ permalink: /communicationGuidelines
   - **Updating the calendar:** Keep the lab calendar up-to-date by promptly adding and modifying study appointments and meetings. Regularly review the calendar to stay informed of upcoming activities.
   - **Event Details:** Label the event with the study name and ensure you have alotted the correct amount of time for the study. Add relevant notes if neccessary. 
   - **Collaborative Editing:** All lab members have access to edit the calendar, do not delete the entries of others without proper communication. Communicate and coordinate with other lab members to find alternatives if there is a scheduling conflict.
+
+See the Lab Calendar section under *Resources > Training* for more information.
 
 ## Meetings and casual conversations
 - Meetings and casual conversations provide opportunities for sharing updates, problem-solving challenges, and building relationships within the lab. 
