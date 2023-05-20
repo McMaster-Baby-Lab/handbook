@@ -12,8 +12,7 @@ We are a scientific research team interested in human cognitive <img src="https:
 
 In this handbook, you can find information on basic lab regulations, training resources, research materials, and research reflections. Please review each section on the left side to familiarize yourself with the processes and procedures used in the McMaster Baby Lab. You could also search contents with keywords in the search bar on the top. This handbook will be constantly updated by our lab members.
 
- <!-- <video src="assets/videos/dense2900to3100_deeplab_full_RLOF.mp4" align="right" width="480" type="video/mp4" autoplay=True></video> -->
 
-<video height="200" controls="controls" onclick="this.play();arguments[0].preventDefault();">
- <source type="video/webm" src="assets/videos/dense2900to3100_deeplab_full_RLOF.mp4">
+<video height="400" controls="controls" onclick="this.paused ? this.play() : this.pause();arguments[0].preventDefault();">
+ <source type="video/mp4" src="assets/videos/dense2900to3100_deeplab_full_RLOF.mp4">
 </video>
