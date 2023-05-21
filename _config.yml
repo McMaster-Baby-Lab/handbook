@@ -62,3 +62,10 @@ callouts:
   warning:
     title: Warning
     color: red
+
+plugins:
+  - jekyll-last-modified-at
+
+# Optional. The default date format, used if none is specified in the tag.
+last-modified-at:
+    date-format: "%b %e %Y at %I:%M %p"
