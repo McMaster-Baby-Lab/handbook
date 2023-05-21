@@ -3,7 +3,6 @@ title: Home
 layout: home
 nav_order: 1
 ---
-{% last_modified_at %}
 # Mission statement 
 
 We are a scientific research team interested in human cognitive <img src="https://user-images.githubusercontent.com/132396918/236883695-aae59891-217b-4a18-95cb-3b4e1c132605.png" alt="download" align="right" width="240"/> development from infancy to early childhood. Our team members include faculty, postdoctoral research fellows, graduate and undergraduate students, as well as research staff. Our research aims at understanding how we learn remarkable cognitive and social skills as we grow up. We hope that by working together, we can identify the processes that shape human cognitive development and offer empirical proof to help resolve social problems and address impairments brought on by abnormal development. 
