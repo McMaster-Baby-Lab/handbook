@@ -42,29 +42,29 @@ The lab is also equipped with a kitchen for lab members to use. Be sure to keep 
 There is a reception space in the lab where children and infants can play with toys while they are waiting for the researchers to set up the study. 
 
 ![waiting room](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/f875b4ce-d38b-45f7-b871-37fa4d74b3d7)
+![r1](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/480c7591-3c71-40ef-8079-8cb7bb4e705f)
 
-><img src="BL/r1.jpg" alt="r1">
+![r2](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/76f61c19-6858-4af4-a27b-6ac2560a53ff)
 
-><img src="BL/r2.jpg" alt="r2">
 
 ### fNIRS Testing Room
 
 The fNIRS system consists of a cap that is placed on the participant's scalp to measure changes in hemoglobin concentration in the brain. The fNIRS system is  connected to a computer which records and stores the data collected during the experiment. 
 
-><img src="BL/fnirs1.jpg" alt="fnirs1">
+![fnirs1](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/9b973aea-3b9a-4646-b7eb-0af2f934d321)
 
-><img src="BL/fnirs2.jpg" alt="fnirs2">
+
+![fnirs2](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/f6eeb6e5-5799-434d-be43-523351f5d4c1)
+
 
 ### Eye-Tracking Testing Room
 
 The lab has an eyetracker for conducting experiments that involve tracking the movement of the eyes during visual perception and cognitive processing. 
 Inside the room, there is a desk or table where the participant sits in front of a computer screen. The computer is adjustable to accommodate participants of different heights and ensure that the participant's eyes are at the correct distance from the eye tracker. The eye tracker consists of a camera that follows the eye movement of the participant and stores the data.
 
+![eyetracker1](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/d53f27d9-2ee6-46b5-be49-7ded4d290ba6)
 
-<img src="BL/eyetracker1.jpg" alt="Eyetracker1">
-
-
-><img src="BL/eyetracker1.jpg" alt="Eyetracker2">
+![eyetracker2](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/b41d975d-372b-4888-82d3-d260f9943b0b)
 
 
 
