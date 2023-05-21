@@ -7,3 +7,7 @@ gem "just-the-docs", "0.5.0" # pinned to the current release
 # gem "just-the-docs"        # always download the latest release
 
 gem "faraday-retry"
+
+group :jekyll_plugins do
+    gem "jekyll-last-modified-at"
+end
