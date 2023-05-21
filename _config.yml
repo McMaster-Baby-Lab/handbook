@@ -46,19 +46,42 @@ ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (t
 # customized scheme
 color_scheme: babyLab
 
-callouts_level: quiet # or loud
+callouts_level: loud
 callouts:
+  admonition:
+    title: admonition
+    color: grey-lt
+  attention:
+    title: Attention
+    color: purple
+  caution:
+    title: Caution
+    color: pink
+  custom:
+    title: Custom
+    color: pink
+    opacity: 0.3
+  danger:
+    title: Danger
+    color: red
+  error:
+    title: Error
+    color: red
   highlight:
     color: yellow
+    opacity: 0.5
+  hint:
+    title: Hint
+    color: grey-dk
   important:
     title: Important
-    color: blue
-  new:
-    title: New
     color: green
   note:
     title: Note
-    color: purple
+    color: blue
+  tip:
+    title: Tip
+    color: grey-dk
   warning:
     title: Warning
     color: red
