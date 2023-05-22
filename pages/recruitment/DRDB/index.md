@@ -1,9 +1,10 @@
 ---
 layout: default
-title: Research Databases
-parent: Resources
+title: DRDB
+parent: Recruitment
 nav_order: 4
-permalink: /researchDatabases
+permalink: /DRDB
+has_children: true
 ---
 
 # Databases of research materials
@@ -12,7 +13,7 @@ permalink: /researchDatabases
 ## Table of contents
 {: .no_toc .text-delta }
 
-1. TOC
+* TOC
 {:toc}
 
 ---
