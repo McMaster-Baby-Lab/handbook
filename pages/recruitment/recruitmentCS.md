@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Recruitment Training
+title: Training Materials
 parent: Recruitment
-nav_order: 2
+nav_order: 4
 permalink: /recruitmentTraining
 ---
 

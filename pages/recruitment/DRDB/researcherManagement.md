@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Researcher Information
+title: Researchers
 parent: DRDB
 grand_parent: Recruitment
 nav_order: 3

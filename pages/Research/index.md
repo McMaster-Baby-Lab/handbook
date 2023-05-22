@@ -1,18 +1,12 @@
 ---
 layout: default
-title: Reading
-parent: Research
+title: Research
 nav_order: 5
-permalink: /reading
+has_children: true
+permalink: /research
 ---
 
-# Reading
-{: .no_toc }
+# Research Procedures
 
-## Table of contents
-{: .no_toc .text-delta }
-
-* TOC
-{:toc}
-
----
+Here, we outline the basics of running studies, ethics approval, and data management.
+{: .fs-6 .fw-300 }

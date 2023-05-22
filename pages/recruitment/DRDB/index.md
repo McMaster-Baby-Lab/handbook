@@ -2,7 +2,7 @@
 layout: default
 title: DRDB
 parent: Recruitment
-nav_order: 4
+nav_order: 3
 permalink: /DRDB
 has_children: true
 ---

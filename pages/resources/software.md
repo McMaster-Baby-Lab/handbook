@@ -2,8 +2,8 @@
 layout: default
 title: Research Software
 parent: Resources
-nav_order: 3
-permalink: /researchsoftware
+nav_order: 1
+permalink: /researchSoftware
 ---
 
 # Research software used in the lab

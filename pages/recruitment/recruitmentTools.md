@@ -2,7 +2,7 @@
 layout: default
 title: Recruitment Tools
 parent: Recruitment
-nav_order: 1
+nav_order: 2
 permalink: /recruitmentTools
 ---
 
