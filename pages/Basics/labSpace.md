@@ -56,7 +56,6 @@ There is a reception space in the lab where children and infants can play with t
 
 The fNIRS system consists of a cap that is placed on the participant's scalp to measure changes in hemoglobin concentration in the brain. The fNIRS system is  connected to a computer which records and stores the data collected during the experiment. 
 
-
 <img src="images/fnirs1.jpg" alt="fnirs1">
 
 <img src="images/fnirs2.jpg" alt="fnirs2">
