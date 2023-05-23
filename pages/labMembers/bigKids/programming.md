@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Programming
-parent: Research
-nav_order: 5
-permalink: /programming
+parent: Grad Students & Post-docs
+grand_parent: For Lab Members
+nav_order: 2
+permalink: /gradsPostDocs/programming
 ---
 {: .warning }
 > WIP

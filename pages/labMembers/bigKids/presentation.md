@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Presenation
-parent: Research
-nav_order: 6
-permalink: /presenation
+parent: Grad Students & Post-docs
+grand_parent: For Lab Members
+nav_order: 3
+permalink: /gradsPostDocs/presenation
 ---
 {: .warning }
 > WIP

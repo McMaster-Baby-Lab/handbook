@@ -3,7 +3,7 @@ layout: default
 title: DRDB FAQs
 parent: DRDB
 grand_parent: Recruitment
-nav_order: 6
+nav_order: 7
 permalink: /DRDB/FAQs
 ---
 {: .warning }
