@@ -6,7 +6,6 @@ has_children: true
 permalink: /recruitment
 ---
 
-# Participant Recruitment Procedures
+# Participant Recruitment
 
-Here, we outline the basics of recruiting participants for our studies, including the tools and typical procedures.
-{: .fs-6 .fw-300 }
+Psychological research relies greatly on participants. It is even more crucial for developmental research given its complex inclusion criteria. Here, you will learn typical procedures, tools, and some tips about recruiting participants for developmental studies.

@@ -13,7 +13,7 @@ permalink: /DRDB/personnel
 > Lab members can only edit their own info.
 > Only Admin and Lab Manager roles can make changes to every lab member's info.
 
-# Typical procedures for participant recruitment
+# Typical scenarios related to researcher information
 {: .no_toc }
 
 ## Table of contents
@@ -23,7 +23,17 @@ permalink: /DRDB/personnel
 {:toc}
 
 ---
-## Family information
+## Create a new member
 
 
-## Child information
+## Update member information
+
+
+## Mark the availability of a member
+
+
+## Retire a member
+
+When a lab member leaves the lab,...
+
+## Assigning a member to studies

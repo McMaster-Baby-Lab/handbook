@@ -9,7 +9,7 @@ permalink: /DRDB/studies
 {: .warning }
 > WIP
 
-# Study information management
+# Typical scenarios related to study management
 {: .no_toc }
 
 ## Table of contents

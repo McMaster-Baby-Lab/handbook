@@ -14,7 +14,7 @@ permalink: /DRDB/DRDBLab
 > Only Admin and Lab Manager roles can edit to Lab information.
 
 
-# Typical procedures for participant recruitment
+# Setup lab information on Settings page
 {: .no_toc }
 
 ## Table of contents
@@ -24,7 +24,7 @@ permalink: /DRDB/DRDBLab
 {:toc}
 
 ---
-## Family information
+## Create & edit lab inforamtion
 
 
-## Child information
+## Setup Google account
