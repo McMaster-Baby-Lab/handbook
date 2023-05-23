@@ -1,23 +1,21 @@
 ---
 layout: default
-title: Lab Communication 
+title: Communication 
 parent: Basics
 nav_order: 5
 permalink: /communicationGuidelines
 ---
 
-# Lab Communication
+# Lab Communication Guidelines
 {: .no_toc }
 
 ## Table of contents
 {: .no_toc .text-delta }
 
-1. TOC
+* TOC
 {:toc}
 
 ---
-
-# Lab communication
 
 ## Microsoft Teams
    - Here you can find recaps from our lab meetings, important training files/documents, as well as other “mini tasks” that you have the option to help complete.

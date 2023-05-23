@@ -1,18 +1,18 @@
 ---
 layout: default
-title: Recruitment Materials
-parent: Resources
-nav_order: 1
-permalink: /recruitmentMaterials
+title: Recruitment Tools
+parent: Recruitment
+nav_order: 2
+permalink: /recruitmentTools
 ---
 
-# Recruitment materials
+# Tools used for recruitment
 {: .no_toc }
 
 ## Table of contents
 {: .no_toc .text-delta }
 
-1. TOC
+* TOC
 {:toc}
 
 ---

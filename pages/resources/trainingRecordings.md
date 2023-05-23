@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Research Databases
+title: Training Recordings
 parent: Resources
-nav_order: 2
-permalink: /researchDBs
+nav_order: 3
+permalink: /trainingRecordings
 ---
 
-# Research databases used in the lab
+# Recordings of previous lab training sessions
 {: .no_toc }
 
 ## Table of contents

@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Reading
-parent: Research
-nav_order: 5
-permalink: /reading
+parent: Grad Students & Post-docs
+grand_parent: For Lab Members
+nav_order: 1
+permalink: /gradsPostDocs/reading
 ---
 
 # Reading
@@ -12,7 +13,7 @@ permalink: /reading
 ## Table of contents
 {: .no_toc .text-delta }
 
-1. TOC
+* TOC
 {:toc}
 
 ---

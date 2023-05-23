@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Academic writing
-parent: Research
-nav_order: 5
-permalink: /writing
+parent: Grad Students & Post-docs
+grand_parent: For Lab Members
+nav_order: 4
+permalink: /gradsPostDocs/writing
 ---
 {: .warning }
 > WIP
@@ -14,7 +15,7 @@ permalink: /writing
 ## Table of contents
 {: .no_toc .text-delta }
 
-1. TOC
+* TOC
 {:toc}
 
 ---

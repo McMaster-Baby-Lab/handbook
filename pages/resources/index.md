@@ -8,5 +8,5 @@ permalink: /resources
 
 # Resources 
 
-Here, we list resources for our research.
+You will find useful research resources here, including typical software and databases of research materials.
 {: .fs-6 .fw-300 }

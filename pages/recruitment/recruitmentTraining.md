@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Recruitment Training
-parent: Resources
-nav_order: 2
+title: Training Materials
+parent: Recruitment
+nav_order: 4
 permalink: /recruitmentTraining
 ---
 
@@ -13,7 +13,7 @@ permalink: /recruitmentTraining
 ## Table of contents
 {: .no_toc .text-delta }
 
-1. TOC
+* TOC
 {:toc}
 
 
