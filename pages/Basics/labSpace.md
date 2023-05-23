@@ -19,7 +19,7 @@ permalink: /labSpace
 
 ## Outline
 Our lab is located on the 3rd floor of the Psychology Building, McMaster Main campus.
-![image](/assets/images/floorPlan.png)
+![image](../../assets/images/floorPlan.png)
 
 ### Student Office #1
 
