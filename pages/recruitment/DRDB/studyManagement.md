@@ -49,7 +49,7 @@ permalink: /DRDB/studies
 > in empty sections like this one, please include a few sentences of description.
 > the description should be written in 
 
-## Assisgn researchers to a study
+## Assign researchers to a study
 
 
 ## Complete a study

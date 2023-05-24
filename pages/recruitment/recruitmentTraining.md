@@ -65,10 +65,6 @@ Don’t use science jargon!
 - Researcher availability - we can’t have a study scheduled for a researcher who isn’t free or is already scheduled to run a different study at that time.
 - Where: Check researcher’s calendar (in students’ calendar list) to see her/his availability.
 
-**Follow-up with families**
-- Not every family agrees to participate in the study the first time we contact them.
-- Parents often need time to decide. It is our responsibility to re-contact these families 2 days after the initial contact.
-- Use Follow-ups button on Family Information Page to show the families that we need to contact. The Note for next contact box includes the reason why we need to re-contact this family.
 
 ### Video Tutorial on Recruitment and DRDB
 

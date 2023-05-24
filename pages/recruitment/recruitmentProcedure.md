@@ -22,12 +22,9 @@ permalink: /recruitmentProcedure
 
 ## Workflow overview
 
-{: .highlight}
-> Please use the slides 14 to 16 of this doc to add subsections here. [link](https://mcmasteru365.sharepoint.com/:p:/r/sites/labtest/Shared%20Documents/Training/Training%20Resources/Recruitment/Participant%20Recruitment%20Training_XZ.pptx?d=w21caa09edaab4a51a77a57237c092ebb&csf=1&web=1&e=paQpWC)
-
 ### Calling a Family
 
-There are several possible outcomes when calling a family. 
+There are several possible outcomes when calling a family. Follow the path for each option to see the workflow of recruitment based on the parent's answer. 
 
 #### **Family agrees, appointment time decided**
 - Confirm the childs name, date of birth, and age. 
@@ -50,25 +47,50 @@ There are several possible outcomes when calling a family.
 
 <img src="assets/videos/Interested.gif" alt="Interested">
 
-[Check voicemail and lab email - See ](#following-up)
+[Check voicemail and lab email](#follow-up)
 
 #### **No answer on phone**
 - Leave a voicemail
 - Select *Left a message* in the system
 
-[Call the family back - See](#following-up)
+<img src="assets/videos/nocall.gif" alt="nocall">
+
+[Call the family back](#follow-up)
 
 #### **Said "no" on phone**
 - Select *Reject* in the system
 
+<img src="assets/videos/saidno.gif" alt="saidno">
 
 
-### Check voicemail and lab email
+### Follow-up
 
-#### Parent agrees to participate with specific date/time
+Look at each potential answer from parents to see next steps for recruitment for following-up with families. 
+
+ - Not every family agrees to participate in the study the first time we contact them.
+- Parents often need time to decide. It is our responsibility to re-contact these families 2 days after the initial contact.
+- Use *Follow-ups* button on *Family Information* page to show the families that we need to contact. The Note for next contact box includes the reason why we need to re-contact this family.
+
+#### **Parent agrees to participate with specific date/time**
 
 - If the date/time works for the experimenters update the schedule with study date/time and experimenters on the *Study Scheudle* or *Family Information* page. 
 - If the date/time does not work for us, offer another appointment date and time based on the experiementer's availability and Lab Calendar by calling the family. 
+
+**Apointment time decided** 
+- Update the schedule with the study date/time and experimenters on the *Study Schedule* or the *Family Information* page.
+
+#### **Parent agrees to participate without a specific date/time**
+
+- Offer a study date/time based on experimenters availability on Lab Calendar by calling the family 
+
+#### **Parent says "no" to participation**
+- Thank the parent for their time
+- Update the scheudle as *Reject* on either *Study Schedule* or the *Family Information* page. 
+
+#### **No answer on the phone**
+- If there is no answer after calling a family 3 times 
+- Update the schedule as *Reject* on either *Study Schedule* or *Family Information*
+
 
 
 

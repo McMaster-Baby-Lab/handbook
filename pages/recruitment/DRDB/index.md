@@ -28,7 +28,7 @@ The success of developmental research involves enormous efforts in managing comp
 To assist the complicated management work in developmental research, we developed the DRDB system. It stores information about research participants, research projects, research personnel, and study schedules with an industry-recognized database standard (MySQL). In addition to storing critical research data, the system is equipped with advanced algorithms, which can automate study schedule management and facilitate communication between families and researchers. The web-based design enables the system can be accessed by multiple researchers from different labs wherever they are whenever they want. This is especially useful during times when we must work remotely.
 
 
-## What're in the DRDB system?
+## What's in the DRDB system?
 
 DRDB includes 3 major categories of data:
 - family & children's demographic information
