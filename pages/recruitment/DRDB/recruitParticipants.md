@@ -21,8 +21,6 @@ permalink: /DRDB/recruitment
 ---
 ## Schedule a participant for a study
 
-
-
 ### Participate in one study
 
 #### from Study Schedule page
@@ -34,8 +32,6 @@ permalink: /DRDB/recruitment
 4. Select confirmed
 5. Input the date and time using the calendar and drop-down menu
 6. Select the experimenter
-7. If the participant or their siblings are eligible for other studies their name will be highlighted in blue
-8. Click their name to see other eligible studies and schedule them in
 9. Click _schedule_ and then click next to see the email template
 10. Make any changes to the template at this time and then select send email and next
 11. Select the date to be reminded to follow up with the family (default 7 days)
@@ -50,7 +46,6 @@ permalink: /DRDB/recruitment
 2. Search for the desired family
 3. Select _schedule_ under the child’s name
 4. Next, add the time and date of the study, study name, and the experimenter’s name.
-5. Remember to check the other studies the child or siblings are eligible for if their names are highlighted in blue.
 6. Once all information is added select schedule, proofread the generated email and set a reminder for the next contact time.
 7. Select _complete_ to finish scheduling.
 

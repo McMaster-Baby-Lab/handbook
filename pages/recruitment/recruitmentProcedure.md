@@ -26,6 +26,9 @@ permalink: /recruitmentProcedure
 
 There are several possible outcomes when calling a family. Follow the path for each option to see the workflow of recruitment based on the parent's answer. 
 
+1. Navigate to the _Schedule Studies_ or *Family Information* page
+2. Select the _Schedule a Study for this Child_ drop down menu
+
 #### **Family agrees, appointment time decided**
 - Confirm the childs name, date of birth, and age. 
 - Confirm the parent's email
@@ -39,26 +42,47 @@ There are several possible outcomes when calling a family. Follow the path for e
 
 #### **Family showed interest, appointment time not decided**
 
-- Confirm child's name, date of birth, and age
-- Confirm parent email
-- Select *Interested* in the system 
+Sometimes families need time to check their schedule or consider participating. In this case, we send them a follow-up email to see if they wish to participate after they have had a chance to think about it. 
 
-- Follow up by checking email and voicemail and contact the family again
+1. Confirm child's name, date of birth, and age
+2. Confirm parent email
+3.. Select _interested_
+4. Click on the mail icon, and then click _confirm a tentative appointment_.
+
+    - This button will generate an email template to determine the family’s interest.
+
+5. Proofread the generated email and select _send email_
+6. Select next to proceed to the _next contact_ tab. You can now select when you wish to contact the family again (default 2 days).
+7. Select _complete_ to finish this process.
+
+- The participant’s participation status will now show as TBD meaning to be determined.
 
 <img src="assets/videos/Interested.gif" alt="Interested">
 
-[Check voicemail and lab email](#follow-up)
+
+- Follow up by checking email and voicemail and contact the family again. Next steps: [Check voicemail and lab email](#follow-up)
 
 #### **No answer on phone**
-- Leave a voicemail
-- Select *Left a message* in the system
+
+If the family does not answer your phone call, leave them a voicemail. 
+
+1. Select _leave a message_
+2. Click on the mail icon to _confirm a tentative appointment_
+3. Review and send the follow-up email
+4. Set the reminder for the next contact date.
 
 <img src="assets/videos/nocall.gif" alt="nocall">
 
 [Call the family back](#follow-up)
 
 #### **Said "no" on phone**
-- Select *Reject* in the system
+
+Thank them for their time!
+
+1. Select rejected and then select the shrugging person icon.
+2. Set a reminder for the next contact to determine whether the participant is interested in participating in future studies.
+3. Click _complete_ to finish the process
+
 
 <img src="assets/videos/saidno.gif" alt="saidno">
 
@@ -71,15 +95,18 @@ Look at each potential answer from parents to see next steps for recruitment for
 - Parents often need time to decide. It is our responsibility to re-contact these families 2 days after the initial contact.
 - Use *Follow-ups* button on *Family Information* page to show the families that we need to contact. The Note for next contact box includes the reason why we need to re-contact this family.
 
-#### **Parent agrees to participate with specific date/time**
+Please review some of the possible outcomes of a follow-up contact: 
+
+
+**Parent agrees to participate with specific date/time**
 
 - If the date/time works for the experimenters update the schedule with study date/time and experimenters on the *Study Schedule* or *Family Information* page. 
 - If the date/time does not work for us, offer another appointment date and time based on the experiementer's availability and Lab Calendar by calling the family. 
 
-**Apointment time decided** 
-- Update the schedule with the study date/time and experimenters on the *Study Schedule* or the *Family Information* page.
+[Refer to these instructions](#family-agrees,-appointment-time-decided)
 
-#### **Parent agrees to participate without a specific date/time**
+
+**Parent agrees to participate without a specific date/time**
 
 - Offer a study date/time based on experimenters availability on Lab Calendar by calling the family 
 
@@ -89,7 +116,7 @@ Look at each potential answer from parents to see next steps for recruitment for
 
 #### **No answer on the phone**
 - If there is no answer after calling a family 3 times 
-- Update the schedule as *Reject* on either *Study Schedule* or *Family Information*
+- Update the schedule as *Reject* on either the *Study Schedule* or *Family Information* pages
 
 
 

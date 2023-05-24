@@ -51,6 +51,16 @@ permalink: /DRDB/personnel
 
 <img src="assets/videos/updateinfo.gif" alt="studyappt">
 
+## View Lab Members/See assigned studies
+
+1. Navigate to the _Personnel Management_ page
+2. Search for the lab member using full or partial information
+3. Select the lab member’s name
+4. Assigned studies will appear under the member’s name
+
+![28](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/31d460b9-d2e3-4a5e-b9ed-99b5d62c7ffe)
+
+
 ## Mark the availability of a member
 
 1. Navigate to the _Study Management_ page
