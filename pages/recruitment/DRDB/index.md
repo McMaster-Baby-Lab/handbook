@@ -41,19 +41,18 @@ DRDB includes 3 major categories of data:
     <figcaption>A schematic display of data structure and relatons in DRDB.</figcaption>
 </figure>
 
-<!-- ## How does the DRDB system help recruitment and research management? -->
+## How does the DRDB system help recruitment and research management?
+
+DRDB streamlines the recruitment process for developmental research. It stores participant information, tracks the eligibility of infants and children as they age, and assists in identifying and contacting potential participants based on specified criteria.
+
+The system also allows labs to keep track of participant appointments, participation history, and study schedules across the lab. DRDB allows all lab members to access study schedules to ensure participants are not contacted multiple times and appointments are not double-booked.
 
 ## Access to DRDB
 
 DRDB can be accessed here (must be connected to McMaster VPN if not on McMaster Wifi): [Developmental Research Database](https://drdb.mcmaster.ca/#/)
 
 
-
-{: .highlight}
-> Move the following contents into subpages.
-
 Watch the second half of this video for a tutorial on DRDB: [DRDB Tutorial](https://mcmasteru365.sharepoint.com/sites/labtest/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Flabtest%2FShared%20Documents%2FTraining%2FRecordings%2FRecruitment%20%26%20DRDB%20Training%2D20220525%5F180343%2DMeeting%20Recording%2Emp4&parent=%2Fsites%2Flabtest%2FShared%20Documents%2FTraining%2FRecordings)
-
 
 
 ## Sharepoint
