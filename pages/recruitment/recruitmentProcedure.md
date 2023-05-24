@@ -73,7 +73,7 @@ Look at each potential answer from parents to see next steps for recruitment for
 
 #### **Parent agrees to participate with specific date/time**
 
-- If the date/time works for the experimenters update the schedule with study date/time and experimenters on the *Study Scheudle* or *Family Information* page. 
+- If the date/time works for the experimenters update the schedule with study date/time and experimenters on the *Study Schedule* or *Family Information* page. 
 - If the date/time does not work for us, offer another appointment date and time based on the experiementer's availability and Lab Calendar by calling the family. 
 
 **Apointment time decided** 
