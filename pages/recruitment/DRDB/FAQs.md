@@ -20,7 +20,7 @@ permalink: /DRDB/FAQs
 {:toc}
 
 ---
-## How does email reminder work?
+## How do the email reminders work?
 
 The system automatically sends a reminder email to the family and experimenter at 3pm the day before the study. If a participant doesn’t have an email in the system, an email will be sent to the lab email to remind the researcher to call the participant to remind them of the appointment.   
 
