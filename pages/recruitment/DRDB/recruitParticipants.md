@@ -67,7 +67,7 @@ permalink: /DRDB/recruitment
 ![13](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/6d8c37d3-59dd-4d50-8eeb-dbff99c5c0c9)
 
 
-## Follow up previously contacted families
+## Follow up with previously contacted families
 
 1. Navigate to the _Family Information_ page
 2. Select the _follow-ups_ tab at the top of the screen
@@ -89,6 +89,7 @@ permalink: /DRDB/recruitment
 - You can futher filter by participant or study.
 
 <img src="assets/videos/studyappt.gif" alt="studyappt">
+
 
 ## Update existing schedule/appointment
 

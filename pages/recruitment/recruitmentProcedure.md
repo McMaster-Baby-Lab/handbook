@@ -30,12 +30,12 @@ There are several possible outcomes when calling a family. Follow the path for e
 2. Select the _Schedule a Study for this Child_ drop down menu
 
 #### **Family agrees, appointment time decided**
-- Confirm the childs name, date of birth, and age. 
-- Confirm the parent's email
-- Select *Confirmed* in the system 
-- Propose a study date/time based on experimenter's availability 
-- Enter the appointment date and time
-- Choose experimenter (s)
+1. Confirm the childs name, date of birth, and age. 
+2. Confirm the parent's email
+3. Select *Confirmed* in the system 
+4. Propose a study date/time based on experimenter's availability 
+5. Enter the appointment date and time
+6. Choose experimenter (s)
 
 <img src="assets/videos/ScheduleStudy.gif" alt="Schedule Study">
 
@@ -57,10 +57,12 @@ Sometimes families need time to check their schedule or consider participating. 
 
 - The participant’s participation status will now show as TBD meaning to be determined.
 
+- Follow up by checking email and voicemail and contact the family again. Next steps: [Check voicemail and lab email](#follow-up)
+
 <img src="assets/videos/Interested.gif" alt="Interested">
 
 
-- Follow up by checking email and voicemail and contact the family again. Next steps: [Check voicemail and lab email](#follow-up)
+
 
 #### **No answer on phone**
 
@@ -71,9 +73,11 @@ If the family does not answer your phone call, leave them a voicemail.
 3. Review and send the follow-up email
 4. Set the reminder for the next contact date
 
+[Call the family back](#follow-up)
+
 <img src="assets/videos/nocall.gif" alt="nocall">
 
-[Call the family back](#follow-up)
+
 
 #### **Said "no" on phone**
 
