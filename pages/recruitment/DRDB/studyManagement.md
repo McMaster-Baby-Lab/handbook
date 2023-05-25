@@ -39,10 +39,8 @@ Using the *Study Management* page the admin and the lab manager can add and edit
 
  **Email templates**
 
-    - Please refer to this doc to prepare email templates for your study: [Link](https://drdb.readthedocs.io/en/stable/Email%20Template.html)
-    
-    {: .important}
-    > These email templates should be the same as the ones in the approved study ethics protocol.
+- Please refer to this doc to prepare email templates for your study: [Link](https://drdb.readthedocs.io/en/stable/Email%20Template.html)
+- These email templates should be the same as the ones in the approved study ethics protocol.
 
 
 5. Hit save

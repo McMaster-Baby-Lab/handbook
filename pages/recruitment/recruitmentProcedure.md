@@ -46,7 +46,7 @@ Sometimes families need time to check their schedule or consider participating. 
 
 1. Confirm child's name, date of birth, and age
 2. Confirm parent email
-3.. Select _interested_
+3. Select _interested_
 4. Click on the mail icon, and then click _confirm a tentative appointment_.
 
     - This button will generate an email template to determine the family’s interest.
@@ -69,7 +69,7 @@ If the family does not answer your phone call, leave them a voicemail.
 1. Select _leave a message_
 2. Click on the mail icon to _confirm a tentative appointment_
 3. Review and send the follow-up email
-4. Set the reminder for the next contact date.
+4. Set the reminder for the next contact date
 
 <img src="assets/videos/nocall.gif" alt="nocall">
 
@@ -81,7 +81,7 @@ Thank them for their time!
 
 1. Select rejected and then select the shrugging person icon.
 2. Set a reminder for the next contact to determine whether the participant is interested in participating in future studies.
-3. Click _complete_ to finish the process
+3. Click _complete_ to finish the process.
 
 
 <img src="assets/videos/saidno.gif" alt="saidno">

@@ -9,9 +9,6 @@ permalink: /DRDB/personnel
 {: .warning }
 > WIP
 
-{: .important }
-> Lab members can only edit their own info.
-> Only Admin and Lab Manager roles can make changes to every lab member's info.
 
 # Typical scenarios related to researcher information
 {: .no_toc }
@@ -45,11 +42,13 @@ permalink: /DRDB/personnel
 
 ## Update member information
 
+Lab members can only edit their own info. Only Admin and Lab Manager roles can make changes to every lab member's info.
+
 1. Navigate to the _Study Management_ page
 2. Select the lab member’s name from the drop-down menu
 3. Select *Update Info* and make all desired changes
 
-<img src="assets/videos/updateinfo.gif" alt="studyappt">
+<img src="assets/videos/updateinfo.gif" alt="updateinfo">
 
 ## View Lab Members/See assigned studies
 
