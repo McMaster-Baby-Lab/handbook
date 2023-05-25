@@ -40,8 +40,6 @@ This page may pop up. Navigate through it using the buttons below.
 
 Allow all 7 permissions for DRDB. 
 
-
-
 You will then see this page. This is expected. 
 
 <img src="assets/images/4.jpg" alt="4">
@@ -49,6 +47,8 @@ You will then see this page. This is expected.
 You need to take the URL and copy the part of the URL between /?code= and &scope and paste it into the next screen. 
 
 <img src="assets/images/5.jpg" alt="5">
+
+
 
 
  
