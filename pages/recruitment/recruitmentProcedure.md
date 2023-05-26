@@ -29,6 +29,12 @@ There are several possible outcomes when calling a family. Follow the path for e
 1. Navigate to the _Schedule Studies_ or *Family Information* page
 2. Select the _Schedule a Study for this Child_ drop down menu
 
+<img src="assets/images/workflow1.jpg" alt="workflow1">
+
+<img src="assets/images/workflow2.jpg" alt="workflow2">
+
+<img src="assets/images/workflow3.jpg" alt="workflow3">
+
 #### **Family agrees, appointment time decided**
 1. Confirm the childs name, date of birth, and age. 
 2. Confirm the parent's email
@@ -91,6 +97,11 @@ Thank them for their time!
 <img src="assets/videos/saidno.gif" alt="saidno">
 
 
+
+
+
+
+
 ### Follow-up
 
 Look at each potential answer from parents to see next steps for recruitment for following-up with families. 
@@ -121,6 +132,8 @@ Please review some of the possible outcomes of a follow-up contact:
 #### **No answer on the phone**
 - If there is no answer after calling a family 3 times 
 - Update the schedule as *Reject* on either the *Study Schedule* or *Family Information* pages
+
+
 
 
 
