@@ -33,12 +33,11 @@ Don’t use science jargon!
 - Avoid words like: experiment on, discriminate, motor assessment, research subject, infant habituation, measure performance, visual stimuli, test your baby.
 - Do use words like project, fun activities, participants, games.
 
-<img src="./assets/images/vocab.jpg" alt="vocab">
 
 
-![vocab](https://github.com/McMaster-Baby-Lab/handbook/assets/images/vocab.jpg)
 
 
+![vocab](/assets/images/vocab.jpg)
 
 
 

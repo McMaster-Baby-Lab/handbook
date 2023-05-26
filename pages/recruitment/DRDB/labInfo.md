@@ -32,19 +32,22 @@ To link the lab's google account navigate to the *Settings* page and select *Set
 
 This page may pop up. Navigate through it using the buttons below. 
 
-<img src="assets/images/google1.JPG" alt="google1">
 
-<img src="assets/images/google2.JPG" alt="google2">
+
+![google1](/assets/images/google1.jpg)
+![google2](/assets/images/google2.jpg)
+
+
 
 Allow all 7 permissions for DRDB. 
 
 You will then see this page. This is expected. 
 
-<img src="assets/images/google3.JPG" alt="google3">
+![google3](/assets/images/google3.jpg)
 
 You need to take the URL and copy the part of the URL between **/?code=** and **&scope** and paste it into the next screen. 
 
-<img src="assets/images/google4.JPG" alt="google4">
+![google4](/assets/images/google4.jpg)
 
 
 

@@ -29,11 +29,15 @@ There are several possible outcomes when calling a family. Follow the path for e
 1. Navigate to the _Schedule Studies_ or *Family Information* page
 2. Select the _Schedule a Study for this Child_ drop down menu
 
-<img src="assets/images/workflow1.jpg" alt="workflow1">
 
-<img src="assets/images/workflow2.jpg" alt="workflow2">
 
-<img src="assets/images/workflow3.jpg" alt="workflow3">
+![workflow1](/assets/images/workflow1.jpg)
+
+![workflow2](/assets/images/workflow2.jpg)
+
+![workflow3](/assets/images/workflow3.jpg)
+
+
 
 #### **Family agrees, appointment time decided**
 1. Confirm the childs name, date of birth, and age. 
@@ -44,6 +48,8 @@ There are several possible outcomes when calling a family. Follow the path for e
 6. Choose experimenter (s)
 
 <img src="assets/videos/ScheduleStudy.gif" alt="Schedule Study">
+
+
 
 
 #### **Family showed interest, appointment time not decided**

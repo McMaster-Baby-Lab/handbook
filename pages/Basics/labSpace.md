@@ -48,20 +48,24 @@ There is a reception space in the lab where children and infants can play with t
 ![waiting room](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/f875b4ce-d38b-45f7-b871-37fa4d74b3d7)
 
 
-<img src="/handbook/assets/images/r1.jpg" alt="r1">
 
-![r1](handbook/assets/images/r1.jpg)
+![r1](/assets/images/r1.jpg)
 
 
-<img src="images/r2.jpg" alt="r2">
+
+![r2](/assets/images/r2.jpg)
 
 ### fNIRS Testing Room
 
 The fNIRS system consists of a cap that is placed on the participant's scalp to measure changes in hemoglobin concentration in the brain. The fNIRS system is  connected to a computer which records and stores the data collected during the experiment. 
 
-<img src="images/fnirs1.jpg" alt="fnirs1">
 
-<img src="images/fnirs2.jpg" alt="fnirs2">
+
+![fnirs1](/assets/images/fnirs1.jpg)
+
+
+
+![fnirs2](/assets/images/fnirs2.jpg)
 
 
 ### Eye-Tracking Testing Room
@@ -69,10 +73,11 @@ The fNIRS system consists of a cap that is placed on the participant's scalp to 
 The lab has an eyetracker for conducting experiments that involve tracking the movement of the eyes during visual perception and cognitive processing. 
 Inside the room, there is a desk or table where the participant sits in front of a computer screen. The computer is adjustable to accommodate participants of different heights and ensure that the participant's eyes are at the correct distance from the eye tracker. The eye tracker consists of a camera that follows the eye movement of the participant and stores the data.
 
-<img src="images/eyetracker1.jpg" alt="Eyetracker1">
 
-<img src="images/eyetracker2.jpg" alt="Eyetracker2">
 
+![eyetracker1](/assets/images/eyetracker1.jpg)
+
+![eyetracker2](/assets/images/eyetracker2.jpg)
 
 ### Behavioral Observation Room
 
