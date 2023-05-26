@@ -36,6 +36,13 @@ Don’t use science jargon!
 <img src="./assets/images/vocab.jpg" alt="vocab">
 
 
+![vocab](https://github.com/McMaster-Baby-Lab/handbook/assets/images/vocab.jpg)
+
+
+
+
+
+
 ### Typical Workflow
 - Open everything you will need quick access to (DRDB, teams, AVAYA, lab calendars, lab email, recruitment script)
 	- Might also be helpful to have paper and pen in case you need to write a question down or for any other reason

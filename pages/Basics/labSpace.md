@@ -48,7 +48,10 @@ There is a reception space in the lab where children and infants can play with t
 ![waiting room](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/f875b4ce-d38b-45f7-b871-37fa4d74b3d7)
 
 
-<img src="images/r1.jpg" alt="r1">
+<img src="/handbook/assets/images/r1.jpg" alt="r1">
+
+![r1](handbook/assets/images/r1.jpg)
+
 
 <img src="images/r2.jpg" alt="r2">
 
