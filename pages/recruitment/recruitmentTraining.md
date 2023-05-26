@@ -33,6 +33,9 @@ Don’t use science jargon!
 - Avoid words like: experiment on, discriminate, motor assessment, research subject, infant habituation, measure performance, visual stimuli, test your baby.
 - Do use words like project, fun activities, participants, games.
 
+<img src="assets/images/vocab.jpg" alt="vocab">
+
+
 ### Typical Workflow
 - Open everything you will need quick access to (DRDB, teams, AVAYA, lab calendars, lab email, recruitment script)
 	- Might also be helpful to have paper and pen in case you need to write a question down or for any other reason
