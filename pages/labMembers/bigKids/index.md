@@ -7,7 +7,12 @@ permalink: /gradsPostDocs
 has_children: true
 ---
 
-# For graduate students and post-docs
-{: .no_toc }
+Doing science is essentially a form of communication. Unlike other professions that deliver emotions and (mis)information, we communicate evidence-based knowledge. The knowledge in our minds is the most valuable thing, and our work should be guided by what we believe.
 
+In this section, you will find discussions on various academic activities such as writing, presentation, programming, and networking. We hope these discussions will be helpful for your scientific explorations.
 
+Before jumping into the following sections, you may want to watch this short clip of Steve Jobs introducing the iconic marketing campaign of ***Think Different***. No other field emphasizes effective communication more than marketing does. In this video, you will find many marketing principles that parallel our academic guidelines.
+
+<video height="480" controls="controls" onclick="this.paused ? this.play() : this.pause();arguments[0].preventDefault();">
+ <source type="video/mp4" src="../../../assets/videos/SteveJobs_Introduces_Think_Different_09_23_1997.mp4">
+</video>

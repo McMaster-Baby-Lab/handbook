@@ -3,7 +3,7 @@ layout: default
 title: Academic writing
 parent: Grad Students & Post-docs
 grand_parent: For Lab Members
-nav_order: 4
+nav_order: 1
 permalink: /gradsPostDocs/writing
 ---
 {: .warning }
