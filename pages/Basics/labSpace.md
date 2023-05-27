@@ -30,7 +30,7 @@ There are two offices in the lab space. These offices are areas for students to 
 
 ### Student Office #2
 
-{% include imageGallery2.html folder="assets/images/NIRSRoom" %}
+{% include imageGallery2.html folder="assets/images/studentOffice2" %}
 
 ### Kitchen area
 
