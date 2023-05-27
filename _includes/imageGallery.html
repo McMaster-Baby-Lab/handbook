@@ -13,7 +13,7 @@
             <img src="{{ file.path | relative_url }}" alt="{{ filename}}" align="center"/>  
             <figcaption>{{ include.caption }}</figcaption>
         </figure> -->
-        <a href="{{ file.path | relative_url }}" title="{{ filename }}">
+        <a class="lightbox-image gallery" href="{{ file.path | relative_url }}" title="{{ filename }}">
         <img
             src="{{ file.path | relative_url }}" alt="{{ filename }}" title="{{ filename }}" />
         
