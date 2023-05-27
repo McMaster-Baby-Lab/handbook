@@ -1,0 +1,11 @@
+<video class="babylabVideo" controls="controls"
+    onclick="this.paused ? this.play() : this.pause();arguments[0].preventDefault();">
+    <source type="video/mp4"
+        src="{{ include.url }}">
+</video>
+<style>
+    .babylabVideo {
+        height: "480";
+        padding: 5%
+    }
+</style>

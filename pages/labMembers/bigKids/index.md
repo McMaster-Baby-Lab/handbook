@@ -13,11 +13,7 @@ In this section, you will find discussions on various academic activities such a
 
 Before jumping into the following sections, you may want to watch this short clip of Steve Jobs introducing the iconic marketing campaign of ***Think Different***. No other field emphasizes effective communication more than marketing does. In this video, you will find many marketing principles that parallel our academic guidelines.
 
-{% include youtube.html id="Bm89YuJxGdo" %}
-
-<video height="480" controls="controls" onclick="this.paused ? this.play() : this.pause();arguments[0].preventDefault();">
- <source type="video/mp4" src="https://github-production-user-asset-6210df.s3.amazonaws.com/10648723/241396338-8f52e0e7-6fd1-4328-8094-3edf279e815c.mp4">
-</video>
+{% include video.html url="https://github-production-user-asset-6210df.s3.amazonaws.com/10648723/241396338-8f52e0e7-6fd1-4328-8094-3edf279e815c.mp4" %}
 
 <!-- 
 https://github.com/McMaster-Baby-Lab/handbook/assets/10648723/8f52e0e7-6fd1-4328-8094-3edf279e815c -->
