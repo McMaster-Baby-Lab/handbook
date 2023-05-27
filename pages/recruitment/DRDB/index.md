@@ -35,12 +35,12 @@ DRDB includes 3 major categories of data:
 - lab relation information, including studies, lab members, and lab info
 - study appointment information, such as appointment time and related experimenters
 
-<img src="assets/images/DRDBDataStructure.png" alt="download" align="center" width="240"/>
-
 <figure>
     <img src="assets/images/DRDBDataStructure.png" alt="DRDB Structure" align="center" width="1024"/>  
     <figcaption>A schematic display of data structure and relatons in DRDB.</figcaption>
 </figure>
+
+{% include oneImg.html url="assets/images/DRDBDataStructure.png" caption = "A schematic display of data structure and relatons in DRDB." shortCap="DRDBStructure" %}
 
 ## How does the DRDB system help recruitment and research management?
 
