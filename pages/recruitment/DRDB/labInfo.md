@@ -34,19 +34,19 @@ This page may pop up. Navigate through it using the buttons below.
 
 
 
-![google1](../../../assets/images/google1.JPG)
-![google2](../../../assets/images/google2.jpg)
+![google1](assets/images/google1.JPG)
+![google2](assets/images/google2.jpg)
 
 
 Allow all 7 permissions for DRDB. 
 
 You will then see this page. This is expected. 
 
-![google3](../../../assets/images/google3.jpg)
+![google3](assets/images/google3.jpg)
 
 You need to take the URL and copy the part of the URL between **/?code=** and **&scope** and paste it into the next screen. 
 
-![google4](../../../assets/images/google4.jpg)
+![google4](assets/images/google4.jpg)
 
 
 

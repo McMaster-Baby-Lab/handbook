@@ -19,7 +19,7 @@ permalink: /labSpace
 
 ## Outline
 Our lab is located on the 3rd floor of the Psychology Building, McMaster Main campus.
-![image](../../assets/images/floorPlan.png)
+![image](assets/images/floorPlan.png)
 
 ### Student Office #1
 
@@ -49,11 +49,11 @@ There is a reception space in the lab where children and infants can play with t
 
 
 
-![r1](../../assets/images/r1.jpg)
+![r1](assets/images/r1.jpg)
 
 
 
-![r2](../../assets/images/r2.jpg)
+![r2](assets/images/r2.jpg)
 
 ### fNIRS Testing Room
 
@@ -61,11 +61,11 @@ The fNIRS system consists of a cap that is placed on the participant's scalp to 
 
 
 
-![fnirs1](../../assets/images/fnirs1.jpg)
+![fnirs1](assets/images/fnirs1.jpg)
 
 
 
-![fnirs2](../../assets/images/fnirs2.jpg)
+![fnirs2](assets/images/fnirs2.jpg)
 
 
 ### Eye-Tracking Testing Room
@@ -75,9 +75,9 @@ Inside the room, there is a desk or table where the participant sits in front of
 
 
 
-![eyetracker1](../../assets/images/eyetracker1.jpg)
+![eyetracker1](assets/images/eyetracker1.jpg)
 
-![eyetracker2](../../assets/images/eyetracker2.jpg)
+![eyetracker2](assets/images/eyetracker2.jpg)
 
 ### Behavioral Observation Room
 
@@ -107,4 +107,4 @@ The key to the lab space is stored in the lock box. As soon as you open the door
 Do not share the lock box code to our lock box with anyone outside of the lab.
 
 
-[def]: ../../../1.jpg
+[def]: 1.jpg
