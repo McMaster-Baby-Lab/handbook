@@ -32,19 +32,19 @@ To link the lab's google account navigate to the *Settings* page and select *Set
 
 This page may pop up. Navigate through it using the buttons below. 
 
-{% include oneImg.html url="assets/images/GoogleSetup/google1.JPG" caption = "" shortCap="" %}
+{% include oneImg.html url="assets/images/GoogleSetup/google1.jpg" caption = "Google Setup - 1" shortCap="Google Setup - 1" %}
 
-{% include oneImg.html url="assets/images/GoogleSetup/google2.JPG" caption = "" shortCap="" %}
+{% include oneImg.html url="assets/images/GoogleSetup/google2.jpg" caption = "Google Setup - 2" shortCap="Google Setup - 2" %}
 
 Allow all 7 permissions for DRDB. 
 
 You will then see this page. This is expected. 
 
-{% include oneImg.html url="assets/images/GoogleSetup/google3.JPG" caption = "" shortCap="" %}
+{% include oneImg.html url="assets/images/GoogleSetup/google3.jpg" caption = "Google Setup - 3" shortCap="Google Setup - 3" %}
 
 You need to take the URL and copy the part of the URL between **/?code=** and **&scope** and paste it into the next screen. 
 
-{% include oneImg.html url="assets/images/GoogleSetup/google4.JPG" caption = "" shortCap="" %}
+{% include oneImg.html url="assets/images/GoogleSetup/google4.jpg" caption = "Google Setup - 4" shortCap="Google Setup - 4" %}
 
 
 

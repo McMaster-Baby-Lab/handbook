@@ -5,7 +5,7 @@
     {% if file.path contains include.folder %}
     {% if file.extname == '.jpg' or file.extname == '.jpeg' or file.extname == '.JPG' or file.extname == '.JPEG' %}
     {% assign filenameparts = file.path | split: "/" %}
-    {% assign filename = file.path | replace: "/handbook","" %}<li>
+    {% assign filename = file.path | replace: "/handbook/","" %}<li>
     <!-- {% assign filename = filenameparts | last %}<li> -->
         <!-- <p>{{ filenameparts }}</p> -->
         <!-- <p>{{ file.path | relative_url }}</p> -->
@@ -35,7 +35,7 @@
     .imageGallery li {
         float: left;
         display: block;
-        margin: 0 0 1% 1%;
+        margin: 0.5%;
         width: 48%;
         list-style-type: none  !important;;
     }
