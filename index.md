@@ -16,7 +16,7 @@ In this handbook, you can find information on basic lab regulations, training re
 If you want to contribute to this handbook, please follow the format conventions listed [here](https://mcmasteru365.sharepoint.com/:w:/r/sites/labtest/Shared%20Documents/Resources/Lab%20Handbook/Format%20Conventions.docx?d=w56d071555f754057a84052eaca38ca8e&csf=1&web=1&e=3nfPLh).
 
 
-
+{% include oneImg.html url="assets/images/GoogleSetup/google1.jpg" caption = "" shortCap="" %}
 
 <!-- <video height="400" controls="controls" onclick="this.paused ? this.play() : this.pause();arguments[0].preventDefault();">
  <source type="video/mp4" src="assets/videos/dense2900to3100_deeplab_full_RLOF.mp4">
