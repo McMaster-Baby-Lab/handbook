@@ -34,9 +34,8 @@ This page may pop up. Navigate through it using the buttons below.
 
 
 
-![google1](../../../assets/images/google1.jpg)
+![google1](../../../assets/images/google1.JPG)
 ![google2](../../../assets/images/google2.jpg)
-
 
 
 Allow all 7 permissions for DRDB. 
