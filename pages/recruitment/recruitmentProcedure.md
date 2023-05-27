@@ -22,12 +22,7 @@ permalink: /recruitmentProcedure
 
 ## Workflow overview
 
-
-![workflow1](../../assets/images/workflow1.jpg)
-
-![workflow2](../../assets/images/workflow2.jpg)
-
-![workflow3](../../assets/images/workflow3.jpg)
+{% include imageGallery.html folder="assets/images/recruitmentFlow" %}
 
 
 ### Calling a Family
@@ -36,9 +31,6 @@ There are several possible outcomes when calling a family. Follow the path for e
 
 1. Navigate to the _Schedule Studies_ or *Family Information* page
 2. Select the _Schedule a Study for this Child_ drop down menu
-
-
-
 
 
 #### **Family agrees, appointment time decided**
@@ -74,8 +66,6 @@ Sometimes families need time to check their schedule or consider participating. 
 - Follow up by checking email and voicemail and contact the family again. Next steps: [Check voicemail and lab email](#follow-up)
 
 <img src="assets/videos/Interested.gif" alt="Interested">
-
-
 
 
 #### **No answer on phone**

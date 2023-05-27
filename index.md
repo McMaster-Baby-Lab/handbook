@@ -11,8 +11,6 @@ We are a scientific research team interested in human cognitive <img src="https:
 
 In this handbook, you can find information on basic lab regulations, training resources, research materials, and research reflections. Please review each section on the left side to familiarize yourself with the processes and procedures used in the McMaster Baby Lab. You could also search contents with keywords in the search bar on the top. This handbook will be constantly updated by our lab members.
 
-{% include imageGallery.html folder="assets/images" %}
-
 ## Edit this handbook
 
 If you want to contribute to this handbook, please follow the format conventions listed [here](https://mcmasteru365.sharepoint.com/:w:/r/sites/labtest/Shared%20Documents/Resources/Lab%20Handbook/Format%20Conventions.docx?d=w56d071555f754057a84052eaca38ca8e&csf=1&web=1&e=3nfPLh).
