@@ -22,6 +22,14 @@ permalink: /recruitmentProcedure
 
 ## Workflow overview
 
+
+![workflow1](../../assets/images/workflow1.jpg)
+
+![workflow2](../../assets/images/workflow2.jpg)
+
+![workflow3](../../assets/images/workflow3.jpg)
+
+
 ### Calling a Family
 
 There are several possible outcomes when calling a family. Follow the path for each option to see the workflow of recruitment based on the parent's answer. 
@@ -30,12 +38,6 @@ There are several possible outcomes when calling a family. Follow the path for e
 2. Select the _Schedule a Study for this Child_ drop down menu
 
 
-
-![workflow1](/assets/images/workflow1.jpg)
-
-![workflow2](/assets/images/workflow2.jpg)
-
-![workflow3](/assets/images/workflow3.jpg)
 
 
 

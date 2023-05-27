@@ -37,7 +37,7 @@ Don’t use science jargon!
 
 
 
-![vocab](/assets/images/vocab.jpg)
+![vocab](../../assets/images/vocab.jpg)
 
 
 
