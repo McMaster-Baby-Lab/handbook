@@ -32,11 +32,7 @@ To link the lab's google account navigate to the *Settings* page and select *Set
 
 This page may pop up. Navigate through it using the buttons below. 
 
-<img src="../../../assets/images/vocab.jpg" alt="download" align="right" width="240"/> 
-
-{% include oneImg.html url="../../../assets/images/vocab.jpg" caption = "" shortCap="" %}
-
-{% include oneImg.html url="../../../assets/images/google1.jpg" caption = "" shortCap="Google Setup1" %}
+{% include oneImg.html url="../assets/images/google1.jpg" caption = "" shortCap="Google Setup1" %}
 
 {% include oneImg.html url="assets/images/GoogleSetup/google2.jpg" caption = "Google Setup-2" shortCap="Google Setup-2" %}
 
