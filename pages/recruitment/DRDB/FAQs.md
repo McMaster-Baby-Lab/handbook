@@ -27,6 +27,4 @@ The system automatically sends a reminder email to the family and experimenter a
 
 ## What should I do when I find errors in participant's info?
 
-In DRDB, use the pencil icon to edit the family's information and make the necessary changes directly in the system. 
-
-
+In DRDB, use the pencil icon to edit the family's information and make the necessary changes directly in the system.
