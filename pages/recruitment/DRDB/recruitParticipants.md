@@ -21,9 +21,7 @@ permalink: /DRDB/recruitment
 ---
 ## Schedule a participant for a study
 
-### Participate in one study
-
-#### from Study Schedule page
+### Schecule from Study Schedule page
 
 1. Navigate to the _Schedule Studies_ page
 2. Navigate through eligible families for that specific study using the arrows
@@ -40,7 +38,7 @@ permalink: /DRDB/recruitment
 ![10](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/ac0090d4-57ea-4beb-9247-ffee86b3a0c2)
 
 
-#### from Family Information page
+### Schecule from Family Information page
 
 1. Navigate to the _Family Information_ page
 2. Search for the desired family
@@ -76,7 +74,7 @@ permalink: /DRDB/recruitment
 ![7](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/439b6eba-4553-4417-8ff9-dcb3acc37857)
 
 
-## Search study schedules on Study appointments page
+## Search study schedules on Study Appointments page
 
 ### Search by various fields
 -  On the _Study Appointments_ page there is the option to search by study, participant information (email, phone, or name) 
@@ -92,6 +90,8 @@ permalink: /DRDB/recruitment
 
 
 ## Update existing schedule/appointment
+
+### Change the status of an appointment
 
 1. Navigate to the _Study Appointments_ page
 2. Search for family/study appointments
@@ -113,7 +113,7 @@ permalink: /DRDB/recruitment
 
 ### Remove studies from an existing schedule
 
-**If a participant does not come to their appointment**
+#### If a participant does not come to their appointment
 
 1. Navigate to the _Study Appointments_ page
 2. Search for family/study appointments
@@ -122,7 +122,7 @@ permalink: /DRDB/recruitment
 
 ![19](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/701750cf-a83f-49fa-92ca-4dac233b40f9)
 
-**If a participant who initially said they were interested no longer wishes to participate…**
+#### If a participant who initially said they were interested no longer wishes to participate…
 
 1. Navigate to the _Study Appointments_ page
 2. Search for family/study appointments

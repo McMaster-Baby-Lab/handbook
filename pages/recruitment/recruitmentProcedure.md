@@ -20,12 +20,12 @@ permalink: /recruitmentProcedure
 
 ---
 
-## Workflow overview
+## Recruitment workflow overview
 
 {% include imageGallery.html folder="assets/images/recruitmentFlow" %}
 
 
-### Calling a Family
+## Calling a Family
 
 There are several possible outcomes when calling a family. Follow the path for each option to see the workflow of recruitment based on the parent's answer. 
 
@@ -33,7 +33,7 @@ There are several possible outcomes when calling a family. Follow the path for e
 2. Select the _Schedule a Study for this Child_ drop down menu
 
 
-#### **Family agrees, appointment time decided**
+### Family agrees, appointment time decided
 1. Confirm the childs name, date of birth, and age. 
 2. Confirm the parent's email
 3. Select *Confirmed* in the system 
@@ -46,7 +46,7 @@ There are several possible outcomes when calling a family. Follow the path for e
 
 
 
-#### **Family showed interest, appointment time not decided**
+### Family showed interest, appointment time not decided
 
 Sometimes families need time to check their schedule or consider participating. In this case, we send them a follow-up email to see if they wish to participate after they have had a chance to think about it. 
 
@@ -68,7 +68,7 @@ Sometimes families need time to check their schedule or consider participating. 
 <img src="assets/videos/Interested.gif" alt="Interested">
 
 
-#### **No answer on phone**
+### No answer on phone
 
 If the family does not answer your phone call, leave them a voicemail. 
 
@@ -83,7 +83,7 @@ If the family does not answer your phone call, leave them a voicemail.
 
 
 
-#### **Said "no" on phone**
+### Said "no" on phone
 
 Thank them for their time!
 
@@ -97,10 +97,7 @@ Thank them for their time!
 
 
 
-
-
-
-### Follow-up
+## Follow-up
 
 Look at each potential answer from parents to see next steps for recruitment for following-up with families. 
 
@@ -123,11 +120,11 @@ Please review some of the possible outcomes of a follow-up contact:
 
 - Offer a study date/time based on experimenters availability on Lab Calendar by calling the family 
 
-#### **Parent says "no" to participation**
+### Parent says "no" to participation
 - Thank the parent for their time
 - Update the scheudle as *Reject* on either *Study Schedule* or the *Family Information* page. 
 
-#### **No answer on the phone**
+### No answer on the phone
 - If there is no answer after calling a family 3 times 
 - Update the schedule as *Reject* on either the *Study Schedule* or *Family Information* pages
 

@@ -28,14 +28,24 @@ Be positive and friendly on the phone – representing the lab We need to ensure
 
 **Practice before calling!**
 
-### Vocabulary
-Don’t use science jargon!
-- Avoid words like: experiment on, discriminate, motor assessment, research subject, infant habituation, measure performance, visual stimuli, test your baby.
-- Do use words like project, fun activities, participants, games.
+## Vocabulary
+Remember that parents are unlikely experts in psychology. Science jargons that we often used to describe our work may sound very strange to them. To achieve an effective communication with parents, please pay attention to the words and expressions used in your conversatons with them.
 
-{% include oneImg.html url="assets/images/vocab.JPG" caption = "" shortCap="" %}
+Here are a few examples for you to prepare your conversations:
 
-### Typical Workflow
+|  **Words to AVOID** 	|             **Preferred words & expressions**            	|
+|:-------------------:	|:--------------------------------------------------------:	|
+| Experiment          	| Studies, Project, Game, etc                              	|
+| Discriminate        	| Tell the difference between...                           	|
+| Assessment          	| Measure                                                  	|
+| Research subject    	| Participant                                              	|
+| Infant habituation  	| A perceptual task                                        	|
+| Stimuli             	| Face images, Vocal sounds, etc                           	|
+| Measure performance 	| Record how long they look at a picture on the screen.... 	|
+| Test your baby      	| Your child will see/hear....                             	|
+| ...			      	| ...						                             	|
+
+## Typical Workflow
 - Open everything you will need quick access to (DRDB, teams, AVAYA, lab calendars, lab email, recruitment script)
 	- Might also be helpful to have paper and pen in case you need to write a question down or for any other reason
 
@@ -52,7 +62,7 @@ Don’t use science jargon!
 		- If **interested** but would like some time to consider send them an email regarding interest and ask them to contact you back when they have decided either through email or the lab phone number provide our email and phone number through the phone/in the email babylab@mcmaster.ca or (905)525-9140 ext. 23130 (ask them if they would rather be contacted again and when would be the best time to do that).
         - *** always confirm email address when scheduling an appointment or if sending interest email***
 
-**Email recruitment/confirmation**
+## Email recruitment/confirmation
 - Sometimes its noted that families prefer to be contacted through email so do that first.
 - Also if the family doesn’t pick up the phone call send an “interested” email from DRDB so you can give them the information and they can always contact back to participate if they would like to.
 - When family/parents have agreed to participate make sure the email contains the correct zoom link.
@@ -68,12 +78,12 @@ Don’t use science jargon!
 - Where: Check researcher’s calendar (in students’ calendar list) to see her/his availability.
 
 
-### Video Tutorial on Recruitment and DRDB
+## Video Tutorial on Recruitment and DRDB
 
 Please review the following video using the link to understand the process of recruitment and how to use DRDB: [Recruitment and DRDB Tutorial](https://mcmasteru365.sharepoint.com/sites/labtest/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Flabtest%2FShared%20Documents%2FTraining%2FRecordings%2FRecruitment%20%26%20DRDB%20Training%2D20220525%5F180343%2DMeeting%20Recording%2Emp4&parent=%2Fsites%2Flabtest%2FShared%20Documents%2FTraining%2FRecordings)
 
-### Recruitment Specialist Tips
+## Recruitment Specialist Tips
 Review this document for tips, experimenter materials, and FAQs about recruitment: [Recruitment Specialist Tips](https://mcmasteru365.sharepoint.com/sites/labtest/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Flabtest%2FShared%20Documents%2FRecruitment%2DSpecialist%2DTips%2Epdf&parent=%2Fsites%2Flabtest%2FShared%20Documents)
 
-### Experimenter Tips
+## Experimenter Tips
 Review this document for experimenter tips, materials, and FAQs: [Experimenter Tips](https://mcmasteru365.sharepoint.com/sites/labtest/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Flabtest%2FShared%20Documents%2FExperimenter%2DTips%2Epdf&parent=%2Fsites%2Flabtest%2FShared%20Documents)

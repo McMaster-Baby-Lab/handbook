@@ -34,7 +34,7 @@ permalink: /DRDB/DRDBFamily
 
 ## Create a family
 
- **Add a new family to the system**
+### Add a new family to the system
 
 1. Navigate to the _Family Information_ page
 2. Click the blue + button
@@ -43,7 +43,7 @@ permalink: /DRDB/DRDBFamily
 
 ![1](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/932275dc-ad6f-4de5-8067-1b483af0167c)
 
-**How to add a child to a family**
+### How to add a child to a family
 
 1. Navigate to the _Family Information_ page
 2. Search for the desired family
@@ -55,7 +55,7 @@ permalink: /DRDB/DRDBFamily
 
 ## Edit information
 
-**How to edit the child’s information**
+### How to edit the child’s information
 
 1. Navigate to the _Family Information_ page
 2. Search for the desired family
@@ -64,7 +64,7 @@ permalink: /DRDB/DRDBFamily
 
 ![4](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/89c24206-c3b5-4115-96f0-f79e7164ad8d)
 
-**How to edit the guardian’s information**
+### How to edit the guardian’s information
 
 1. Navigate to the _Family Information_ page
 2. Search for the desired family
