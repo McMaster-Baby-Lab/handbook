@@ -2,7 +2,7 @@
 layout: default
 title: Training Recordings
 parent: Resources
-nav_order: 3
+nav_order: 4
 permalink: /trainingRecordings
 ---
 

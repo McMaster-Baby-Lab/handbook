@@ -1,7 +1,8 @@
 ---
 layout: default
 title: NIRS
-parent: Research Devices
+parent: Device Specific Info
+grand_parent: Research
 nav_order: 2
 permalink: /nirs
 ---

@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Eye Trackers
-parent: Research Devices
+parent: Device Specific Info
+grand_parent: Research
 nav_order: 1
 permalink: /eyetrackers
 ---
