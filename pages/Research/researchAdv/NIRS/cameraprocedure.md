@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Camera Procedure
-parent: nirs
-grand_parent: researchAdv
+parent: NIRS
+grand_parent: Research
 nav_order: 4
-permalink: /nirs/cameraprocedure
+permalink: /researchAdv/NIRS/cameraprocedure
 ---
 
 # Near infrared spectroscopy
