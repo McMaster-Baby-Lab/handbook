@@ -4,7 +4,7 @@ title: NIRSmanual
 parent: nirs
 grand_parent: researchAdv
 nav_order: 3
-permalink: /nirs/nirsprocedure
+permalink: /nirs/manual
 ---
 
 # Near infrared spectroscopy
@@ -34,3 +34,5 @@ permalink: /nirs/nirsprocedure
 1. Turn off Laser switch in the front 
 2. Turn off Power switch in the front 
 3. Turn off Main switch at the back
+
+
