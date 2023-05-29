@@ -4,7 +4,7 @@ title: Camera Procedure
 parent: NIRS
 grand_parent: Research
 nav_order: 4
-permalink: /researchAdv/NIRS/cameraprocedure
+permalink: /NIRS/cameraprocedure
 ---
 
 # Near infrared spectroscopy
@@ -52,13 +52,13 @@ The camera (Go Pro camera) in the infant lab is used for recording an entire exp
     - Put the micro SD card back to the camera and put the camera back to the lab. Also put the SD card case back the drawer. 
 
 2. Upload videos to Google Drive 
-    - Open Google Drive under the ESDL@kangleelab.com account 
-    - Open folders “Visual Speech Project” -> “VS-NIRS Recordings” 
-    - Create a folder for each participants, whose videos are going to be uploaded. 
-    - The name of participant folder follow this rule: Child’s First Name_Test Month_Test Date_Test Year. The “Test Month” should be labeled in letters, rather than digits. For example, A participant named George participated in our study on January 10th, 2016. We should create a folder named “George_Jan_10_2016”. 
-    - Upload all the videos of one participant into corresponding folder. You need to open the folder first, click the New button on the left upper corner, and choose “File upload” to upload video. 
-    - Once uploading started, you should see a progress bar at the right lower corner of the screen. 
-    - Do NOT close the Google Drive window until upload succeeds. If necessary, put a sticker on the computer to warn people from touching the computer. 
+    1. Open Google Drive under the ESDL@kangleelab.com account 
+    2.  Open folders “Visual Speech Project” -> “VS-NIRS Recordings” 
+    3.  Create a folder for each participants, whose videos are going to be uploaded. 
+    4. The name of participant folder follow this rule: Child’s First Name_Test Month_Test Date_Test Year. The “Test Month” should be labeled in letters, rather than digits. For example, A participant named George participated in our study on January 10th, 2016. We should create a folder named “George_Jan_10_2016”. 
+    5. Upload all the videos of one participant into corresponding folder. You need to open the folder first, click the New button on the left upper corner, and choose “File upload” to upload video. 
+    6. Once uploading started, you should see a progress bar at the right lower corner of the screen. 
+    7. Do NOT close the Google Drive window until upload succeeds. If necessary, put a sticker on the computer to warn people from touching the computer. 
 
 3. Once all the videos are uploaded, remove the videos from computer and SD card 
 - Delete the videos on the desktop. 

@@ -20,7 +20,7 @@ permalink: /gradsPostDocs/programming
 
 ---
 
-Our research relies heavily on computers. To a large extend, the ability to use computers deterimes the quality of our research. In our lab, programming refers to using computer scripts to design research experiments, analyzing research data, and/or accomplish research-related tasks (e.g., creating experimental materials). What makes it different from using software via Graphical User Interface (GUI) is the emphaise on computer scripts, which look like text files. Scripts record every step of our thinking, thus playing a key role in ensuring the reproducibility of our research. The following are the principles of programming in our research projecs.
+Our research relies heavily on computers. To a large extend, the ability to use computers deterimes the quality of our research. In our lab, programming refers to using computer scripts to design research experiments, analyzing research data, and/or accomplish research-related tasks (e.g., creating experimental materials). What makes it different from using software via Graphical User Interface (GUI) is the emphaise on computer scripts, which look like text files. Scripts record every step of our thinking, thus playing a key role in ensuring the reproducibility of our research. The following are the principles of programming in our research projects.
 
 
 ## Learn and practice by yourself
