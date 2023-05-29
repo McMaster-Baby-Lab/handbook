@@ -63,4 +63,4 @@ Monitoring the tracking accuracy AMID a study
 - Pressing the Return key to confirm participants' looking 
 
 - An accurate drift correction will allow the study to continue 
-    - If the error is too large (i.e., long white lines), we need to redo calibration & validation 
+- If the error is too large (i.e., long white lines), we need to redo calibration & validation 
