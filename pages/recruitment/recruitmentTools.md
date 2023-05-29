@@ -86,5 +86,3 @@ Use experimenter’s McMaster Zoom account (with your MacID) running studies.
 - Save your Zoom meeting URL to the Study Management System [DRDB](https://drdb.mcmaster.ca/)
 - Go to Personnel management page, and update your profile with Zoom meeting URL
 - Ensure you turn on your waiting room in settings
-
-

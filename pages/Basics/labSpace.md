@@ -19,7 +19,8 @@ permalink: /labSpace
 
 ## Outline
 Our lab is located on the 3rd floor of the Psychology Building, McMaster Main campus.
-![image](../../assets/images/floorPlan.png)
+
+{% include oneImg.html url="assets/images/floorPlan.png" caption = "Lab Floor Plan" shortCap="Lab Floor Plan" %}
 
 ### Student Office #1
 
@@ -27,13 +28,9 @@ There are two offices in the lab space. These offices are areas for students to 
 ![student office 1](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/8d313a9a-d060-40cc-9494-adf61662d467)
 
 
-
-
-
 ### Student Office #2
 
-![student office 2](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/99d9c488-cffd-4dfb-b097-c50cd13d638a)
-![thumbnail_IMG_3542](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/94a4880a-edf1-426b-a879-44fabdbae1fd)
+{% include imageGallery2.html folder="assets/images/studentOffice2" %}
 
 ### Kitchen area
 
@@ -45,28 +42,13 @@ The lab is also equipped with a kitchen for lab members to use. Be sure to keep 
 
 There is a reception space in the lab where children and infants can play with toys while they are waiting for the researchers to set up the study. 
 
-![waiting room](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/f875b4ce-d38b-45f7-b871-37fa4d74b3d7)
-
-
-
-![r1](/assets/images/r1.jpg)
-
-
-
-![r2](/assets/images/r2.jpg)
+{% include imageGallery.html folder="assets/images/receptionRoom" %}
 
 ### fNIRS Testing Room
 
 The fNIRS system consists of a cap that is placed on the participant's scalp to measure changes in hemoglobin concentration in the brain. The fNIRS system is  connected to a computer which records and stores the data collected during the experiment. 
 
-
-
-![fnirs1](/assets/images/fnirs1.jpg)
-
-
-
-![fnirs2](/assets/images/fnirs2.jpg)
-
+{% include imageGallery2.html folder="assets/images/NIRSRoom" %}
 
 ### Eye-Tracking Testing Room
 
@@ -74,10 +56,8 @@ The lab has an eyetracker for conducting experiments that involve tracking the m
 Inside the room, there is a desk or table where the participant sits in front of a computer screen. The computer is adjustable to accommodate participants of different heights and ensure that the participant's eyes are at the correct distance from the eye tracker. The eye tracker consists of a camera that follows the eye movement of the participant and stores the data.
 
 
+{% include imageGallery2.html folder="assets/images/eyetrackerRoom" %}
 
-![eyetracker1](/assets/images/eyetracker1.jpg)
-
-![eyetracker2](/assets/images/eyetracker2.jpg)
 
 ### Behavioral Observation Room
 
@@ -107,4 +87,4 @@ The key to the lab space is stored in the lock box. As soon as you open the door
 Do not share the lock box code to our lock box with anyone outside of the lab.
 
 
-[def]: ../../../1.jpg
+[def]: 1.jpg

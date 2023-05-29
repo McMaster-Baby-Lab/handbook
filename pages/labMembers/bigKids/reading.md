@@ -3,7 +3,7 @@ layout: default
 title: Reading
 parent: Grad Students & Post-docs
 grand_parent: For Lab Members
-nav_order: 1
+nav_order: 2
 permalink: /gradsPostDocs/reading
 ---
 

@@ -44,7 +44,7 @@ Tinkering your codes to make it run faster is always a fun thing to do. Though i
 Not every wish comes true. Not every line of code does what we intended to do. A good practice is to have someone to review your codes. It's fun to do it as a group, which provides the best learning opportunities.
 
 ## Focus on ONE language
-Most of our needs for computer are not that special, and can be fulfiled by multiple languages. Again, mastering a computer language is not our goal. As long as you're comfortable with a language (e.g., R, Python, and MATLAB), stay with it. Focusing on one language allows you to have a deeper understanding of how computer language works. These knowledges will help you learn other languages faster, when you really need to.
+Most of our needs for computer are not that special, and can be fulfiled by multiple languages. Again, mastering a computer language is not our goal. As long as you're comfortable with a language (e.g., R, Python, and MATLAB), stay with it. Focusing on one language allows you to have a deeper understanding of how computer language works. These knowledge will help you learn other languages faster, when you really need to.
 
 
 ## Use the BEST (free) tools

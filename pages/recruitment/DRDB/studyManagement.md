@@ -3,7 +3,7 @@ layout: default
 title: Studies
 parent: DRDB
 grand_parent: Recruitment
-nav_order: 2
+nav_order: 4
 permalink: /DRDB/studies
 ---
 {: .warning }

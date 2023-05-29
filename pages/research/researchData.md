@@ -2,7 +2,7 @@
 layout: default
 title: Research Data Management
 parent: Research
-nav_order: 3
+nav_order: 4
 permalink: /researchData
 ---
 
