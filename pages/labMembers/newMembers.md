@@ -35,6 +35,37 @@ This is a safe space for all of us to learn! All opinions and thoughts from volu
 If you have any concerns about your safety or the safety of others in the lab, please reach out to Dr. Xiao or the Psychology HR department immediately.
 
 
+
+## A few things to remember...
+
+**ASK QUESTIONS!**
+
+ We want you to understand everything that you are doing and why you are doing it. This way you will be far less likely to make errors you don’t even know you’re making, and you will be far more able to help us modify and improve our procedures. This is to be a valuable research experience. You will both want and need to understand all facets of the lab. Do not be afraid of this lab manual and training! It seems there are at least 8 million things to learn.
+ 
+ The important thing is that you ASK QUESTIONS! Don’t nod and say “Uh-huh” if you truly have no idea what we are explaining to you- we could easily be convening something in a confusing manner. Do not hesitate to ask if we can go over something for the billionth time. It is always better to ask than to assume, you’ll be thankful later and so will we!
+
+
+**ERRORS WILL OCCUR!**
+
+ Don’t worry: everyone makes mistakes. If you think you have made an error, please check with us as soon as possible. If you are sure that you have made an error, please call it to our attention as soon as you can. Including flawed data in our studies is very problematic.
+
+**THINK!** 
+
+We will be genuinely thrilled if you can come up with the critical flaw in the research design that we are so proud of! Make sure you understand the rationale behind the individual studies so that you can think of other ways to test the same ideas. The more intellectual involvement you have with the project, the more you will get out of it!
+
+**TAKE INITIATIVE!**
+
+ As you become familiar with lab duties, you’ll realize that many standard jobs are done on a daily basis. Go ahead and do whatever you are comfortable with! You should not need to wait to be told what to do. If you are finished with one task and you know what comes next, go ahead! If you are not sure, also totally fine, ask us what else you can work on- there is always something to do!
+
+**COMMUNICATE!** 
+
+Communication (between labbers, with the Lab Managers, with the grad students, with the postdocs, with Casey) is essential to the running of the lab. In the lab, it is critical that we help each other.  
+
+**LOVE THE FAMILIES!**
+
+ The families coming in make our research work. Always be appreciative, welcoming, and kind. The family visits are usually the best part of our days. Nothing is better than taking a step back from the stress of Princeton life to see the world through a kid’s eyes. And some parents love to talk- make them feel appreciated and heard, sometimes you’ll get some cool perspectives.
+
+
 ## Checklist for new members
 
 - [ ] Familiarize yourself with the Teams
