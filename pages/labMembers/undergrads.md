@@ -30,9 +30,21 @@ permalink: /undergrads
 
 ## Additional Position Specific Expectations
 ### Research Assistants
-- Work on assigned tasks 
-- Assist with training new members 
-- Log hours 
+
+- You will be asked to commit to a schedule of 5-10 hours of lab work a week. This needs to be the schedule you stick to through the entire semester- this is a research opportunity but it is also your job! If you cannot attend a shift, always check with Dr. Xiao first. 
+
+- You will get paid through the pay system. You must log your hours regularily. 
+
+**Best practices as an RA**
+This is both a research opportunity and a job- please remember to treat it as both with the respect they require.
+- Be working on a lab task at all times during your scheduled lab hours. (Breaks are ok, sometimes you are doing tedious tasks and need a mental break, but within reason, please!)
+- Be on time for your shifts. - There are many moving parts in the lab and your timeliness is usually central to all parts (getting families, watching siblings, answering the phone, etc.)
+- Participate actively and thoughtfully in the research projects. Be careful, diligent, and thorough with all of your work.
+- Ask questions!
+- Have a notebook (or note app on phone) with you at all times to take notes.
+- Respond to your personal email promptly. You should check your email at least once a day!
+
+
 
 ### Independent Study Students (2QQ3, 3QQ3, 4QQ3)
 - Participate in recruitment

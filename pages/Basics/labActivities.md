@@ -19,7 +19,7 @@ permalink: labActivities
 
 ## Lab meetings
 
-Lab meetings will be held in person on DATETIME
+The lab meeting schedule will be provided at the beginning of each semester. All lab members are expected to attend. 
 
 Please inform Dr. Xiao if the lab meeting time does not work for you. 
 

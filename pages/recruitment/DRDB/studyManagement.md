@@ -49,7 +49,10 @@ Using the *Study Management* page the admin and the lab manager can add and edit
 
 
 ## Update study information
+
 Any information on the study such as the name or age/study criteria can be updated using the Study Management page. 
+
+**How-to**
 
 1. Navigate to the _Study Management_ page
 2. Click on the abbreviation for the study on the left side
@@ -59,12 +62,16 @@ Any information on the study such as the name or age/study criteria can be updat
 
 4. Make the desired changes and select save
 
+**Demo**
+
 ![25](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/7eff087c-4fb1-4731-8379-070839617836)
 
 
 ## Complete a study
-When a study finishes data collection, we should mark the study as completed.
+When a study finishes data collection, we should mark the study as completed. 
  
+ **How-to**
+
  1. Navigate to the _Study Management_ page
  2. Find the study in the drop down menu on the left side
  3. Check the box beside the name of the dstudy to indicate that it has been completed.

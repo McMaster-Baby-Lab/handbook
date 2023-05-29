@@ -33,6 +33,11 @@ permalink: /labEtiquette
 ## Dress Code
 - Please ensure that you are dressed appropriately for a work setting while in the lab. We want to ensure professionalism when interacting with participants and running studies.
 
+## Phone Use
+
+No phone use when children are in the lab. Some parents are very aware of the behavior that is being modeled in front of their kids so we don’t want to model a behavior that may be inconsistent with views on phone use. Also- *it’s unprofessional*.
+
+
 ## Kitchen Area & Food Storage
 - Food and drinks are permitted in the lab space but not permitted in testing areas. Food should never be left out, especially overnight. 
 - There is a Keurig Coffee Maker in the lab, please feel free to bring your own coffee pods. 
