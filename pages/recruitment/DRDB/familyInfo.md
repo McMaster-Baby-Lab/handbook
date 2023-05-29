@@ -24,11 +24,19 @@ permalink: /DRDB/DRDBFamily
 
 ## Search a family or child
 
+**Typical Scenario**
+
+Most often you will search for a family or a child when you are updating their information while calling them or if they have responded to a call or email with a confirmed study time. 
+
+**How-to**
+
 1. Navigate to the _Family Information_ page
 2. Select search
 3. Type in full or partial information into any of the contact information
 4. Navigate through families that meet the criteria using the arrows at the top
 5. View the child’s sensitive information by selecting edit under the child’s name
+
+**Demo**
 
 ![3](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/fdb6652d-34a9-452d-9568-8a15f5ceaf3d)
 
@@ -36,19 +44,35 @@ permalink: /DRDB/DRDBFamily
 
  **Add a new family to the system**
 
+ **Typical Scenario**
+
+ We have a form on the lab website for families who are interested in participating to fill out. We use the information they provided to add new fmailies to the DRDB system so that researchers know they are available to participate in studies. We may also receive emails from families who are interested in participating. 
+
+ **How-to**
+
 1. Navigate to the _Family Information_ page
 2. Click the blue + button
 3. Complete the guardian’s contact and demographic information
 4. Use the white + to add their children individually
 
+**Demo**
+
 ![1](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/932275dc-ad6f-4de5-8067-1b483af0167c)
 
 **How to add a child to a family**
+
+**Typical Scenario**
+
+Once the family is created and the parent and guardian's contact information is entered, the child's information needs to be added to that family. 
+
+**How-to**
 
 1. Navigate to the _Family Information_ page
 2. Search for the desired family
 3. Click the + in the white box
 4. Fill in the child’s information
+
+**Demo**
 
 ![2](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/ba7cf877-e067-4b93-9619-37c63bd5f9d7)
 
@@ -56,6 +80,9 @@ permalink: /DRDB/DRDBFamily
 ## Edit information
 
 **How to edit the child’s information**
+
+**Typical Scenario** 
+
 
 1. Navigate to the _Family Information_ page
 2. Search for the desired family
