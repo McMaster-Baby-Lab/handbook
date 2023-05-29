@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Eye Trackers
+title: Eye Tracker
 parent: Device Specific Info
 grand_parent: Research
 nav_order: 1
-permalink: /eyetrackers
+permalink: /eyetracker
 ---
 
-# Eye trackers
+# Eye tracker
 {: .no_toc }
 
 ## Table of contents
