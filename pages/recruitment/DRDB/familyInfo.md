@@ -3,7 +3,7 @@ layout: default
 title: Family Information
 parent: DRDB
 grand_parent: Recruitment
-nav_order: 1
+nav_order: 2
 permalink: /DRDB/DRDBFamily
 ---
 

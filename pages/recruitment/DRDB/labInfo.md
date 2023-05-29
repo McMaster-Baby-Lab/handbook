@@ -3,7 +3,7 @@ layout: default
 title: Lab Information
 parent: DRDB
 grand_parent: Recruitment
-nav_order: 6
+nav_order: 5
 permalink: /DRDB/DRDBLab
 ---
 {: .warning }
