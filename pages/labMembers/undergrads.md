@@ -76,6 +76,7 @@ Play with the child(ren) if you are not running the study.
 - You will get paid through the pay system. You must log your hours regularily. 
 
 **Best practices as an RA**
+
 This is both a research opportunity and a job- please remember to treat it as both with the respect they require.
 - Be working on a lab task at all times during your scheduled lab hours. (Breaks are ok, sometimes you are doing tedious tasks and need a mental break, but within reason, please!)
 - Be on time for your shifts. - There are many moving parts in the lab and your timeliness is usually central to all parts (getting families, watching siblings, answering the phone, etc.)
