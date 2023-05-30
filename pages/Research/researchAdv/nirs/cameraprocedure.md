@@ -4,7 +4,7 @@ title: Camera Procedure
 parent: nirs
 grand_parent: researchAdv
 nav_order: 2
-permalink: /nirs/cameraprocedure
+permalink: /pages/Research/researchAdv/nirs/cameraprocedure
 ---
 
 # Near infrared spectroscopy
@@ -15,6 +15,8 @@ permalink: /nirs/cameraprocedure
 
 * TOC
 {:toc}
+
+
 
 ### Camera Usage and Experiment Recording Backup Procedure 
 
