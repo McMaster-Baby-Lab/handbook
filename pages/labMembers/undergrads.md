@@ -32,9 +32,9 @@ permalink: /undergrads
 
 **Check emails, voicemails**
 - Respond to emails and voicemails 
-- If it's not possible for you to respond (e.g., a difficult parent question), find someone who can (either lab manager or grad student)
-- Leave emails in the inbox if you are not able to respond or deal with before the end of your shift
-- *As always- all interactions are recorded in database.* If the information will be relevant to future interactions.   
+- If it's not possible for you to respond (e.g., a difficult parent question), find someone who can
+- Leave emails in the inbox if you are not able to respond or address before the end of your shift
+- *As always- record interactions in DRDB.* If the information will be relevant to future interactions.   
 - Only delete voicemails that have been addressed.
 
 **Check today's studies in the lab calendar**
@@ -43,11 +43,10 @@ permalink: /undergrads
 **Assist with Appointments**
 - Check to see if a child will soon be eligible for another study - Try to schedule while the family is in lab if possible
 - Look up parent and child names.
-Go downstairs with the parking pass to meet the family 10 minutes prior to their scheduled appointment.
-- Bring family up to lab
-Play with the child(ren) if you are not running the study.
+- Go downstairs with the parking pass to meet the family 10 minutes prior to their scheduled appointment.
+- Bring family up to lab. Play with the child(ren) if you are not running the study.
 - When the study begins, stay and play with the siblings or talk with parent- the work can wait (unless the parent really doesn’t want to talk to you) 
-- Walk the family down to the parking lot after their study and reacquire parking pass
+- Walk the family down to the parking after their study
 
 **Post-appointment tasks**
  - Clean up playroom after family has left. Tidy up the toys! - SANITIZE all toys. 
@@ -56,7 +55,7 @@ Play with the child(ren) if you are not running the study.
 
 **Schedule families for studies**
 - Check where your scheduling team has left off in their scheduling. 
-- Schedule for your team’s studies using the scheduling scripts, Database, calling and checking the calendar
+- Schedule for your team’s studies using the scheduling scripts, DRDB, calling and checking the calendar
 
 
 
