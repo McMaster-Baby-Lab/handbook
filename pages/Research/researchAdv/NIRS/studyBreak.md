@@ -19,11 +19,8 @@ permalink: /nirs/studyBreak
 
 ### How to Take a Break in the Middle of a fNIRS Test 
 
-  
-
 It is normal that an infant participant gets bored or fussy during experiment. Given the emotional status of the participant, we can choose different strategies to handle the situation and ensure the quality of neuroimaging data. 
 
-  
 
 If the baby becomes fussy or bored (not look at the screen during stimuli presentation): 
 
