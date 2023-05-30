@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Camera Procedure
-parent: NIRS
-grand_parent: Research
-nav_order: 4
+parent: nirs
+grand_parent: researchAdv
+nav_order: 2
 permalink: /nirs/cameraprocedure
 ---
 

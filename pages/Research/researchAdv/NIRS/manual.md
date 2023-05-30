@@ -3,7 +3,7 @@ layout: default
 title: NIRSmanual
 parent: nirs
 grand_parent: researchAdv
-nav_order: 3
+nav_order: 1
 permalink: /nirs/manual
 ---
 
