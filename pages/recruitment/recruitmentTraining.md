@@ -78,10 +78,6 @@ Here are a few examples for you to prepare your conversations:
 - Where: Check researcher’s calendar (in students’ calendar list) to see her/his availability.
 
 
-## Video Tutorial on Recruitment and DRDB
-
-Please review the following video using the link to understand the process of recruitment and how to use DRDB: [Recruitment and DRDB Tutorial](https://mcmasteru365.sharepoint.com/sites/labtest/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Flabtest%2FShared%20Documents%2FTraining%2FRecordings%2FRecruitment%20%26%20DRDB%20Training%2D20220525%5F180343%2DMeeting%20Recording%2Emp4&parent=%2Fsites%2Flabtest%2FShared%20Documents%2FTraining%2FRecordings)
-
 ## Recruitment Specialist Tips
 Review this document for tips, experimenter materials, and FAQs about recruitment: [Recruitment Specialist Tips](https://mcmasteru365.sharepoint.com/sites/labtest/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Flabtest%2FShared%20Documents%2FRecruitment%2DSpecialist%2DTips%2Epdf&parent=%2Fsites%2Flabtest%2FShared%20Documents)
 
