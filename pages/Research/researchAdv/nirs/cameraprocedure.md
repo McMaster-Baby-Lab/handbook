@@ -34,6 +34,7 @@ The camera (Go Pro camera) in the infant lab is used for recording an entire exp
  Camera recording 
 1. Press the “O” button on top of the camera to record video. *Once recording starts, you should see a timing clock on the camera screen.*
 2. Press the “O” button again to stop a recording. Once recording stops, you should see a number on the camera screen, which indicates the number of videos currently stored in the SD card. This number should increase by 1 once you stop a recording. 
+
 3. Make sure to STOP recording while mothers are breastfeeding their children during experiment break. 
 
 
@@ -60,11 +61,13 @@ The camera (Go Pro camera) in the infant lab is used for recording an entire exp
     4. The name of participant folder follow this rule: Child’s First Name_Test Month_Test Date_Test Year. The “Test Month” should be labeled in letters, rather than digits. For example, A participant named George participated in our study on January 10th, 2016. We should create a folder named “George_Jan_10_2016”. 
     5. Upload all the videos of one participant into corresponding folder. You need to open the folder first, click the New button on the left upper corner, and choose “File upload” to upload video. 
     6. Once uploading started, you should see a progress bar at the right lower corner of the screen. 
+
     7. Do NOT close the Google Drive window until upload succeeds. If necessary, put a sticker on the computer to warn people from touching the computer. 
 
 3. Once all the videos are uploaded, remove the videos from computer and SD card 
-- Delete the videos on the desktop. 
-- Delete the videos on the SD card. You can do so on the camera when the SD card is inside. There is an option on the camera to remove all videos. 
+    - Delete the videos on the desktop. 
+    
+    - Delete the videos on the SD card. You can do so on the camera when the SD card is inside. There is an option on the camera to remove all videos. 
 
 4. Upload photos to Google Drive by following the same procedure of Step 2. 
 
