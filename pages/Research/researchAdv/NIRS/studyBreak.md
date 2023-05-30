@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NIRSmanual
+title: Study Break
 parent: nirs
 grand_parent: researchAdv
 nav_order: 5

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NIRSprocedure
+title: NIRS Procedure
 parent: nirs
 grand_parent: researchAdv
 nav_order: 3
