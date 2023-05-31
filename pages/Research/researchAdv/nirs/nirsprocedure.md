@@ -50,7 +50,7 @@ permalink: /nirs/nirsprocedure
 - Debrief study content
 - Explain each document 
 - Reimburse TTC or parking fees 
-- Help parent finish questionnaire 
+- Help parent finish the questionnaire 
 
 **E2:**
 - Offer water 
@@ -65,7 +65,7 @@ permalink: /nirs/nirsprocedure
     - Eye tracker (if possible) 
     - Camera 
     - Headphone 
-- Reminder parent to silence cell phone 
+- Remind the parent to silence their cell phone 
 
 **E2:** 
 - Help parent wear cable belt
@@ -73,11 +73,11 @@ permalink: /nirs/nirsprocedure
 ### Capping 
 
 **E2:** 
-- Use a toy to distract participant’s attention 
+- Use a toy to distract the participant’s attention 
 - Collect the NIRS cap cables with the velcro on the cable belt 
 
 **E1:** 
-- Put the NIRS cap on participant 
+- Put the NIRS cap on the participant 
 - Make sure the cap is on the right spot and fasten the cap 
 
 ### Testing

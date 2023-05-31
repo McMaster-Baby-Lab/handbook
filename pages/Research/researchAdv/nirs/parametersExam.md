@@ -18,7 +18,7 @@ permalink: /nirs/parametersExam
 
 ### NIRS Parameters Examination
 
-The NIRS machine sometimes will reset its parameters to default setting, which would result in issues such as losing stimuli marks and trial numbers. Given the fact that we have no clue how this happens, we need to double check the settings of the NIRS before collecting any data. This parameter examination is very simple, requiring two steps: 
+The NIRS machine sometimes will reset its parameters to default setting, which would result in issues such as losing stimuli marks and trial numbers. Given the fact that we have no clue how this happens, we need to double-check the settings of the NIRS before collecting any data. This parameter examination is very simple, requiring two steps: 
 
 1. Check Stimuli Record Type. 
     - Click “Operation Measurement Event” button 

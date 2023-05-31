@@ -30,14 +30,14 @@ permalink: /recruitmentProcedure
 There are several possible outcomes when calling a family. Follow the path for each option to see the workflow of recruitment based on the parent's answer. 
 
 1. Navigate to the _Schedule Studies_ or *Family Information* page
-2. Select the _Schedule a Study for this Child_ drop down menu
+2. Select the _Schedule a Study for this Child_ drop-down menu
 
 
 ### Family agrees, appointment time decided
-1. Confirm the childs name, date of birth, and age. 
+1. Confirm the child's name, date of birth, and age. 
 2. Confirm the parent's email
 3. Select *Confirmed* in the system 
-4. Propose a study date/time based on experimenter's availability 
+4. Propose a study date/time based on the experimenter's availability 
 5. Enter the appointment date and time
 6. Choose experimenter (s)
 
@@ -50,7 +50,7 @@ There are several possible outcomes when calling a family. Follow the path for e
 
 Sometimes families need time to check their schedule or consider participating. In this case, we send them a follow-up email to see if they wish to participate after they have had a chance to think about it. 
 
-1. Confirm child's name, date of birth, and age
+1. Confirm the child's name, date of birth, and age
 2. Confirm parent email
 3. Select _interested_
 4. Click on the mail icon, and then click _confirm a tentative appointment_.
@@ -68,7 +68,7 @@ Sometimes families need time to check their schedule or consider participating. 
 <img src="assets/videos/Interested.gif" alt="Interested">
 
 
-### No answer on phone
+### No answer on the phone
 
 If the family does not answer your phone call, leave them a voicemail. 
 
@@ -83,7 +83,7 @@ If the family does not answer your phone call, leave them a voicemail.
 
 
 
-### Said "no" on phone
+### Said "no" on the phone
 
 Thank them for their time!
 
@@ -99,26 +99,26 @@ Thank them for their time!
 
 ## Follow-up
 
-Look at each potential answer from parents to see next steps for recruitment for following-up with families. 
+Look at each potential answer from parents to see the next steps for recruitment for following up with families. 
 
  - Not every family agrees to participate in the study the first time we contact them.
 - Parents often need time to decide. It is our responsibility to re-contact these families 2 days after the initial contact.
-- Use *Follow-ups* button on *Family Information* page to show the families that we need to contact. The Note for next contact box includes the reason why we need to re-contact this family.
+- Use *Follow-ups* button on *Family Information* page to show the families that we need to contact. The Note in the next contact box includes the reason why we need to re-contact this family.
 
 Please review some of the possible outcomes of a follow-up contact: 
 
 
 **Parent agrees to participate with specific date/time**
 
-- If the date/time works for the experimenters update the schedule with study date/time and experimenters on the *Study Schedule* or *Family Information* page. 
-- If the date/time does not work for us, offer another appointment date and time based on the experiementer's availability and Lab Calendar by calling the family. 
+- If the date/time works for the experimenters update the schedule with the study date/time and experimenters on the *Study Schedule* or *Family Information* page. 
+- If the date/time does not work for us, offer another appointment date and time based on the experimenter's availability and Lab Calendar by calling the family. 
 
 [Refer to these instructions](#family-agrees,-appointment-time-decided)
 
 
 **Parent agrees to participate without a specific date/time**
 
-- Offer a study date/time based on experimenters availability on Lab Calendar by calling the family 
+- Offer a study date/time based on experimenter's availability on Lab Calendar by calling the family 
 
 ### Parent says "no" to participation
 - Thank the parent for their time

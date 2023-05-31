@@ -23,7 +23,7 @@ permalink: /labEtiquette
 
 ## Noise Level
 - When families are present in the lab for testing with other lab members, please ensure that you are quiet and professional so that we do not disrupt the family during the experiment.
-- Please make sure that you are quiet when walking in the hallways outside of our lab space as well. We are surrounded by many other labs who may be running studies and require a non-distracting environment.
+- Please make sure that you are quiet when walking in the hallways outside of our lab space as well. We are surrounded by many other labs that may be running studies and require a non-distracting environment.
 
 ## Doors
 - Ensure the **doors** to the lab space and within the lab space are **closed** if a study is taking place or **if there is no one in the lab.** 

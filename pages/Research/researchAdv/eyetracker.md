@@ -22,7 +22,7 @@ permalink: /eyetracker
 
 Things to check before starting the program for a study. 
 
-- Ensure participants are siting comfortably on the chair  
+- Ensure participants are sitting comfortably on the chair  
 - Ensure their posture is straight 
 - Have them face the monitor
 

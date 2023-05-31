@@ -18,13 +18,13 @@ permalink: /recruitmentTools
 ---
 ## What do I need for recruitment?
 ### AVAYA
-We use the phone in our lab to contact families. With Avaya IX (Softphone), you can call participants with lab’s phone number on your computer/cell phone.
+We use the phone in our lab to contact families. With Avaya IX (Softphone), you can call participants with the lab’s phone number on your computer/cell phone.
 
 Download AVAYA: [AVAYA DOWNLOAD](https://telecom.mcmaster.ca/products-services/avaya-ix-softphone)
 
 **To set up AVAYA:**
 1. Launch the app
-2. Click orange “configure my account” button – will not be making own account
+2. Click the orange “configure my account” button – you will not be making own account
 3. Click the gear symbol in the top right
 4.  Click “Use web address”
 5.  Enter the URL: https://vce20util.uts.mcmaster.ca/46xxsettings_equinox.txt
@@ -43,10 +43,10 @@ For numbers from other areas (e.g., 647):
 
 **To check the voicemail**
 - Click the voicemail button
-- Enter password 899190 then hit pound key
-- To listen to message hit 2, to go to next message press 6
+- Enter password 899190 then hit the pound key
+- To listen to messages hit 2, to go to next message press 6
 - Reply to messages relevant to your study
-	 - Important to check this frequently and consistently because families are busy with school and other activities but might be interested in participating so its important to get back to them
+	 - Important to check this frequently and consistently because families are busy with school and other activities but might be interested in participating so it's important to get back to them
 
 ### Lab Email & Calendar
 
@@ -68,10 +68,10 @@ If you are new to the lab, please create a Google Calendar with your McMaster em
 - You may book more than 8 slots for the current week but not a week in advance
 	
 **Filling Test Slots**
-- Login to SONA and create corresponding tentative events in correct timeslots
+- Login to SONA and create corresponding tentative events in the correct timeslots.
 
-- Once slots have been signed up for by students update the lab calendar by removing “TENTATIVE” from event title 
-- Include participant contact info in the note section of calendar event
+- Once slots have been signed up for by students update the lab calendar by removing “TENTATIVE” from the event title 
+- Include participant contact info in the note section of the calendar event
 
 
 ### McMaster VPN
@@ -80,9 +80,9 @@ The McMaster VPN is needed to access our Developmental Research Database (DRDB) 
 You can download the McMaster VPN using this link: [McMaster VPN](https://uts.mcmaster.ca/services/computers-printers-and-software/virtual-private-networking/)
 
 ### Zoom (for online studies)
-Use experimenter’s McMaster Zoom account (with your MacID) running studies.
+Use the experimenter’s McMaster Zoom account (with your MacID) running studies.
 - Retrieve your Personal Zoom Meeting URL:
 	- Click My Profile and find your Meeting URL under Personal Meeting ID section · URL looks like this: https://mcmaster.zoom.us/j/ + [[Personal Meeting ID]]
 - Save your Zoom meeting URL to the Study Management System [DRDB](https://drdb.mcmaster.ca/)
-- Go to Personnel management page, and update your profile with Zoom meeting URL
+- Go to the Personnel management page, and update your profile with your Zoom meeting URL
 - Ensure you turn on your waiting room in settings

@@ -32,11 +32,11 @@ Journal club is an opportunity for the lab to discuss recent papers published in
 - Each independent study/thesis student will present 1 paper during a lab meeting. 
 - The journal will be assigned to the student and the student will then select a paper from the journal they are assigned to. 
 - The student will then briefly present the paper at the lab meeting. 
-  - PowerPoint slides are not permitted, students only need to describe the paper verbally in a 3 minute maximum presentation. 
+  - PowerPoint slides are not permitted, students only need to describe the paper verbally in a 3-minute maximum presentation. 
 - After the presentation, lab members will have an opportunity to ask the student questions about the paper and engage in discussion. 
 
 **Article requirements:**
--	Empirical research article or review papers. Commentary articles, report, or correspondence articles do NOT qualify.
+-	Empirical research articles or review papers. Commentary articles, reports, or correspondence articles do NOT qualify.
 -	Articles published in the past 3 years.
 -	Articles never presented at our lab meeting before (check Journal club channel on Teams for past presented papers).
 - Articles that lab members did NOT participate in.
@@ -44,8 +44,8 @@ Journal club is an opportunity for the lab to discuss recent papers published in
 **Here are some tips for your reading and presentation:**
 - Make sure you understand the research question the paper is attempting to answer.
 -	What is the general method of the study and how did the researchers use the method to address the research question?
-- What the meaning of the study in terms of its theoretical and practical contributions.
--	Who are the authors, are there trainees (students, post-docs, and staffs) in the authors, or all authors are professors from different university?
+- What the meaning of the study in terms of its theoretical and practical contributions?
+-	Who are the authors, are there trainees (students, post-docs, and staff) in the authors, or all authors are professors from different universities?
 -	What is the specialty of the authors’ lab(s)?
 -	What are the things you like or dislike about the article?
 -	THERE IS NO RIGHT OR WRONG PRESENTATION. BE YOURSELF.
@@ -69,9 +69,9 @@ In the case that you are unable to complete a specific task or require more time
 
 ## Lab shifts
 
-Lab shifts are an opportunity to work on tasks for your assigned study and also assist with other in-person studies. Lab shifts allow students to gain hands on experience and develop skills while assisting with in-person research using the eyetracker and fNIRS technology. 
+Lab shifts are an opportunity to work on tasks for your assigned study and also assist with other in-person studies. Lab shifts allow students to gain hands-on experience and develop skills while assisting with in-person research using the eyetracker and fNIRS technology. 
 
-Lab shifts also allow students to build relationships with other lab members and learn from other students in the lab. Students can work together to disccuss challenges and prepare for the next stages of their projects. 
+Lab shifts also allow students to build relationships with other lab members and learn from other students in the lab. Students can work together to discuss challenges and prepare for the next stages of their projects. 
 
 Each student will be required to have several hours of lab shifts each week. 
 

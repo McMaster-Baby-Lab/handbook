@@ -27,15 +27,15 @@ permalink: /researchData
 	1. Select the folder named Research
 	2. Click 'Add Shortcut to OneDrive'
 	3. You will see the research folder within your OneDrive folder on your local computer
-	4. Within this folder, you will see each of YOUR project listed as a folder
-      - Move all research related data, programs, scripts, and documents to this research folder on your computer
+	4. Within this folder, you will see each of YOUR projects listed as a folder
+      - Move all research-related data, programs, scripts, and documents to this research folder on your computer
 
-Benefits to Backing up the Data in Sharepoint
+Benefits of Backing up the Data in Sharepoint
 - Automatic backup all research data
 - Restore any deleted data
 - Permission control
 - Save local hard drive space (files will be downloaded on-demand)
-	- After uploading the files, if you want to free up hard drive space, you can right click the files and click "Free Up Space"
+	- After uploading the files, if you want to free up hard drive space, you can right-click the files and click "Free Up Space"
 	- You can always download the files whenever you need
 - This is especially useful for large files, such as video recordings
 
@@ -53,14 +53,14 @@ For infant studies, you need to back up the following data:
 
 ### How to Name Files
 Data file naming convention: Participant_Session_fileType
-- Participant # should be digits, matching the record on Participant tracking sheet
+- Participant # should be digits, matching the record on the Participant tracking sheet
 - Session # is used for multi-session studies (studies run multiple times on different days)
-	- fileType represent the type of file such as: 
+	- fileType represents the type of file such as: 
 		- Pavlovia
 		- Zoom
 		- Coding
 		- Questionnaire
 - For example, 3_1_zoom.avi means this is the recording for participant #3's first session
-- No participants' name or other identifiable information should be used for file names. Identifiable information can only be stored in Participant tracking sheets.
+- No participants' names or other identifying information should be used for file names. Identifiable information can only be stored in Participant tracking sheets.
 
 

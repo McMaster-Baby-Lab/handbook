@@ -22,7 +22,7 @@ permalink: /newMembers
 The lab is a place for all individuals to feel safe and welcome - this is important for all members of our lab as well as our participants.
 
 Please help us ensure that our environment is safe and accepting of all.
-No discrimination or harrassment based on gender, sexual orientation, disability, race, religion, age, physical appearance etc. will be tolerated. 
+No discrimination or harassment based on gender, sexual orientation, disability, race, religion, age, physical appearance, etc. will be tolerated. 
 
 Please ensure that you are speaking professionally and respectfully (avoid inappropriate language) when in the lab, regardless of whether participants are present or not. 
 
@@ -30,7 +30,7 @@ If you are taking any photos or videos in the lab, please ensure that you have t
 
 Please be respectful of all others working in the lab at the same time as you, as it is a shared space.
 
-This is a safe space for all of us to learn! All opinions and thoughts from volunteers, research students and assistants are valued.
+This is a safe space for all of us to learn! All opinions and thoughts from volunteers, research students, and assistants are valued.
 
 If you have any concerns about your safety or the safety of others in the lab, please reach out to Dr. Xiao or the Psychology HR department immediately.
 
@@ -59,18 +59,18 @@ We will be genuinely thrilled if you can come up with the critical flaw in the r
 
 **COMMUNICATE!** 
 
-Communication (between lab members, with the Lab Managers, with the grad students, with the postdocs) is essential to the running the lab. In the lab, it is critical that we help each other.  
+Communication (between lab members, Lab Manager, grad students, postdocs) is essential to the running the lab. In the lab, it is critical that we help each other.  
 
 **LOVE THE FAMILIES!**
 
- The families coming in make our research work. Always be appreciative, welcoming, and kind. The family visits are usually the best part of our days. Nothing is better than taking a step back from the stress of life to see the world through a kid’s eyes. And some parents love to talk- make them feel appreciated and heard, sometimes you’ll get some cool perspectives.
+ The families coming in make our research work. Always be appreciative, welcoming, and kind. Family visits are usually the best part of our days. Nothing is better than taking a step back from the stress of life to see the world through a kid’s eyes. And some parents love to talk- make them feel appreciated and heard, sometimes you’ll get some cool perspectives.
 
 
 ## Checklist for new members
 
 - [ ] Familiarize yourself with the Teams
 - [ ] Fill out the access card application [here](https://forms.office.com/pages/responsepage.aspx?id=B2M3RCm0rUKMJSjNSW9HcudkN_4lJH5IiXFmxJeXy5JUN0xJNzZCM0lWSzMxQk9SUDVYRDM2MU9aSi4u)
-- [ ] Fill out [this form](https://forms.office.com/r/DyyjwnPBXj) to have your bio added to our website. For the uploaded photos, make sure to crop them in 500 * 500 pixel.
+- [ ] Fill out [this form](https://forms.office.com/r/DyyjwnPBXj) to have your bio added to our website. For the uploaded photos, make sure to crop them in 500 * 500 pixels.
 - [ ] Download the [McMaster VPN](https://uts.mcmaster.ca/services/computers-printers-and-software/virtual-private-networking/) to access DRDB 
 - [ ] Ensure you are able to gain access to DRDB (you will receive an email invite)
 - [ ] Familiarize yourself with the expectations based on your role in the lab. 

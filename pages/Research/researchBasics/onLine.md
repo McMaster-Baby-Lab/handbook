@@ -21,11 +21,11 @@ permalink: /OnLine
 ## Online studies
 1) Have AVAYA running (AVAYA IX (softphone)) to call parents/answer calls
 
-2) Have Lab Calendar and email open to respond if parents message 
+2) Have Lab Calendar and email open to respond if the caregiver messages
 
 3) Have the DRDB system open to reschedule if necessary
 
-4) If parent does not enter the room in 5 min, call to check if they have problems accessing the link using AVAYA
+4) If the parent does not enter the room in 5 min, call to check if they have problems accessing the link using AVAYA
 
 5) Plan to set up the testing at least 10-15 minutes before the testing begins. This will provide enough time to:
    * Ensure the program is running 
@@ -60,18 +60,14 @@ can supply a meeting link when you post your timeslots.
 The Study Type is one of the only things that can't be changed after a study is set up, so make
 sure you select the correct study type.
 
-**Credit:** If you are going to be running a study where you offer cash or credit, set it up as a for
-credit study. It's easy in a credit study to just give cash (and assign zero credit) but a cash study
-cannot give credit.
-Study Name: Please make the study name your name. This will be updated to your study
+**Credit:** If you are going to be running a study where you offer cash or credit, set it up as a for-credit study. It's easy in a credit study to just give cash (and assign zero credit) but a cash study we cannot give credit.
+Study Name: Please make the study name your name. This will be updated for your study
 number once your study is approved.
 
 **Brief Abstract:** This should be your catchy title. This is what students will see while scrolling
 through the list of experiments.
 
-**Detailed Description:** This should contain information on what participants will be doing, but
-also where they should go and what number/extension they should call the day of their
-experiment. You also need to list the names of all researchers who are associated with this
+**Detailed Description:** This should contain information on what participants will be doing, but also where they should go and what number/extension they should call the on day of their experiment. You also need to list the names of all researchers who are associated with this
 study (including faculty, graduate and undergraduate students).
 
 **Eligibility Requirements:** You can list any requirements for your study here. You can also add
@@ -85,7 +81,7 @@ credits.
 
 **Researchers:** Multiple researchers can be added to a single study. If you have more than 1
 person working on a study, you should also enable “researchers at timeslot level” which is
-located in the advance settings further down. This will allow you to see who scheduled what timeslots. If you need someone added as researcher please email(cadieum@mcmaster.ca)
+located in the advance settings further down. This will allow you to see who scheduled what timeslots. If you need someone added as a researcher please email(cadieum@mcmaster.ca)
 their full name and their McMaster email address. 
 
 **MREB code:** All studies must include the MREB approval code. This can be found on the
@@ -108,7 +104,7 @@ Please do not request approval through Sona, just send an email with the forms.
 
 1.  Set up your study on SONA
 
-    - Please refer the SONA guidelines to fill out the information.
+    - Please refer to the SONA guidelines to fill out the information.
     To get the correct link for your study, refer to this page to complete the setup: [Sona System](https://www.sona-systems.com/help/psychopy/)
 
 2. Once your study is approved, you can add slots on SONA by clicking “Add A Timeslot”. For online study, you only need to provide the number of participants you need and the final participation time.
@@ -118,7 +114,7 @@ Please do not request approval through Sona, just send an email with the forms.
 
 ### **Introduction to the study**
 - Greeting: 
-  - Hi XXX, how are you?. My name is XX, and I am the researcher who will be conducting your study today. First, I am going to share my screen with you (after sharing, check with participant to see if they can see the screen that you share with them).
+  - Hi XXX, how are you?. My name is XX, and I am the researcher who will be conducting your study today. First, I am going to share my screen with you (after sharing, check with participants to see if they can see the screen that you share with them).
 
 - Explanation of the study: 
   - XXX, let me tell you about the study you will be participating in today. This study takes about X minutes. We just want to know how you react!

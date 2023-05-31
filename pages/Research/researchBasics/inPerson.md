@@ -69,7 +69,7 @@ permalink: /InPerson
 - In the case that a family is late and you have to leave at a certain time, please communicate with others in the lab to cover part of the shift for you.
 - Please be clear with the family that you must leave at a certain time during the study and that another lab member will be happy to step in for the remainder of their visit.
 
-### Family Accomodations
+### Family Accommodations
 - If the family requires a space to change the baby’s diaper, direct them to the washroom on the 3rd floor. 
 
 - If the family requires a space to feed the baby in private, offer a closed space such as one of the testing rooms (double check that there are no cameras on). Please put a sign on the door indicating that no one may enter the room at the time.

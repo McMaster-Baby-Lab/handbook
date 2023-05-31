@@ -39,7 +39,7 @@ permalink: /communicationGuidelines
 
 - **Basic Rules for using the Lab Calendar:**
   - **Updating the calendar:** Keep the lab calendar up-to-date by promptly adding and modifying study appointments and meetings. Regularly review the calendar to stay informed of upcoming activities.
-  - **Event Details:** Label the event with the study name and ensure you have alotted the correct amount of time for the study. Add relevant notes if neccessary. 
+  - **Event Details:** Label the event with the study name and ensure you have allotted the correct amount of time for the study. Add relevant notes if necessary. 
   - **Collaborative Editing:** All lab members have access to edit the calendar, do not delete the entries of others without proper communication. Communicate and coordinate with other lab members to find alternatives if there is a scheduling conflict.
 
 See the Lab Calendar section under *Resources > Training* for more information.

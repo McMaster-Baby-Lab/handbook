@@ -24,7 +24,7 @@ Our lab is located on the 3rd floor of the Psychology Building, McMaster Main ca
 
 ### Student Office #1
 
-There are two offices in the lab space. These offices are areas for students to work and have meetings. There are several computers and printers for students to use for research related purposes. There is also a projector that may be used for small group meetings.
+There are two offices in the lab space. These offices are areas for students to work and have meetings. There are several computers and printers for students to use for research-related purposes. There is also a projector that may be used for small group meetings.
 ![student office 1](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/8d313a9a-d060-40cc-9494-adf61662d467)
 
 
@@ -46,22 +46,21 @@ There is a reception space in the lab where children and infants can play with t
 
 ### fNIRS Testing Room
 
-The fNIRS system consists of a cap that is placed on the participant's scalp to measure changes in hemoglobin concentration in the brain. The fNIRS system is  connected to a computer which records and stores the data collected during the experiment. 
+The fNIRS system consists of a cap that is placed on the participant's scalp to measure changes in hemoglobin concentration in the brain. The fNIRS system is connected to a computer that records and stores the data collected during the experiment. 
 
 {% include imageGallery2.html folder="assets/images/NIRSRoom" %}
 
 ### Eye-Tracking Testing Room
 
-The lab has an eyetracker for conducting experiments that involve tracking the movement of the eyes during visual perception and cognitive processing. 
+The lab has an eye-tracker for conducting experiments that involve tracking the movement of the eyes during visual perception and cognitive processing. 
 Inside the room, there is a desk or table where the participant sits in front of a computer screen. The computer is adjustable to accommodate participants of different heights and ensure that the participant's eyes are at the correct distance from the eye tracker. The eye tracker consists of a camera that follows the eye movement of the participant and stores the data.
 
 
 {% include imageGallery2.html folder="assets/images/eyetrackerRoom" %}
 
 
-### Behavioral Observation Room
-
-The lab also has a behavioral observation room which provides a controlled environment for observing child behavior and development. The room allows researchers to observe and collect data on the child's behavior and interactions with the environment, which can provide valuable insights into their cognitive, social, and emotional development.
+### Multi-Purpose Room
+The lab has a room that can be used for a variety of purposes such as behavioral observation and filming stimuli. When this room is used for behavioral observation, it provides a controlled environment for observing child behavior and development. The room allows researchers to observe and collect data on the child's behavior and interactions with the environment, which can provide valuable insights into their cognitive, social, and emotional development.
 
 
 
@@ -82,9 +81,9 @@ This also means that you should not be using your access card to allow other stu
 If you lose your access card, please contact Dr. Xiao and register for a new one as soon as possible. We will work to deactivate your existing card so that it may no longer be used to enter our lab space and a new one will be created for you.
 
 ### Key
-The key to the lab space is stored in the lock box. As soon as you open the door, immediately put the key back into the lock box.
+The key to the lab space is stored in the lock box. As soon as you open the door, immediately put the key back into the lockbox.
 
-Do not share the lock box code to our lock box with anyone outside of the lab.
+Do not share the lockbox code to our lock box with anyone outside of the lab.
 
 
 [def]: 1.jpg

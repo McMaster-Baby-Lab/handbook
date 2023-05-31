@@ -19,7 +19,7 @@ permalink: /undergrads
 
 ## Expectations for All Undergraduate and Research Staff
 - Attend weekly lab meetings
-- Attend project specific meetings
+- Attend project-specific meetings
 - Attend scheduled lab shifts
 - Participate in special tasks that you can choose based on your interests or assignment (*Mini Tasks* on Teams). Tasks may include:
     - Literature reviews: collecting and summarizing research on a topic
@@ -33,7 +33,7 @@ permalink: /undergrads
 **Check emails, voicemails**
 - Respond to emails and voicemails 
 - If it's not possible for you to respond (e.g., a difficult parent question), find someone who can
-- Leave emails in the inbox if you are not able to respond or address before the end of your shift
+- Leave emails in the inbox if you are not able to respond or address them before the end of your shift
 - *As always- record interactions in DRDB.* If the information will be relevant to future interactions.   
 - Only delete voicemails that have been addressed.
 
@@ -41,16 +41,16 @@ permalink: /undergrads
 - If there are simultaneous or back-to-back studies- communicate with the other lab members about who will take care of what tasks. You are responsible for making sure all families visiting during your shifts are accounted for and no one waits for us in the parking lot. 
 
 **Assist with Appointments**
-- Check to see if a child will soon be eligible for another study - Try to schedule while the family is in lab if possible
+- Check to see if a child will soon be eligible for another study - Try to schedule while the family is in the lab if possible
 - Look up parent and child names.
 - Go downstairs with the parking pass to meet the family 10 minutes prior to their scheduled appointment.
-- Bring family up to lab. Play with the child(ren) if you are not running the study.
-- When the study begins, stay and play with the siblings or talk with parent- the work can wait (unless the parent really doesn’t want to talk to you) 
+- Bring the family up to the lab. Play with the child(ren) if you are not running the study.
+- When the study begins, stay and play with the siblings or talk with the caregiver- the work can wait (unless the parent really doesn’t want to talk to you) 
 - Walk the family down to the parking after their study
 
 **Post-appointment tasks**
- - Clean up playroom after family has left. Tidy up the toys! - SANITIZE all toys. 
-- Update check box in Study History that child has completed study
+ - Clean up the playroom after the family has left. Tidy up the toys! - SANITIZE all toys. 
+- Update the check box in *Study History* that the child has completed study
 - Send a thank you email using DRDB
 
 **Schedule families for studies**
@@ -59,7 +59,7 @@ permalink: /undergrads
 
 
 
-**Prepare for next day**
+**Prepare for the next day**
 
 - Make sure that all appointments for the next day are resolved (i.e., no TENTATIVES on schedule, RESCHEDULING are addressed,)
 - To check this, compare the day of studies in the google calendar with the each study’s corresponding database record to make sure it is marked that the Confirmations and Thank Yous have been sent to all necessary families
