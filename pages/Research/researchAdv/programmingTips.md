@@ -26,6 +26,8 @@ permalink: /programmingTips
 ### Sounds
 - 48kHz sounf file
 
+[sound device matters](https://psychtoolbox.discourse.group/t/psychportaudio-only-lets-me-use-sampling-frequency-48000/4464/2?u=dbneg)
+
 
 
 

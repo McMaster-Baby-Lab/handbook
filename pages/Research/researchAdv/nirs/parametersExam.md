@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Parameters Examination
-parent: nirs
-grand_parent: researchAdv
+parent: Near infrared spectroscopy (NIRS)
+grand_parent: Device Specific Info
 nav_order: 4
 permalink: /nirs/parametersExam
 ---
