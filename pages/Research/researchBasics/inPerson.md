@@ -53,7 +53,7 @@ permalink: /InPerson
 
 - Even if something goes wrong with the technology, continue to run through the study as we do not want to disappoint the family. 
 
-### The Baby is Crying! What do I do?
+### The Baby is Crying! What Do I Do?
 
 The baby is in a new environment for the first time with strangers around. It is expected that the baby will feel uncomfortable. 
 
