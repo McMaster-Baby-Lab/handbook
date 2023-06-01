@@ -45,6 +45,32 @@ Here are a few examples for you to prepare your conversations:
 | Test your baby      	| Your child will see/hear....                             	|
 | ...			      	| ...						                             	|
 
+## Terminology for Describing the Technology
+
+The eye-tracker and nirs technology can be intimidating to parents. We want caregivers to feel comfortable with all aspects of the study and technology. It is important to explain the technologies using simple language in a way that is easily understood and non-threatening, avoiding scientific jargon. 
+
+**EYE-TRACKER**
+
+Caregiver friendly description:
+- The eye-tracker is a specical camera that takes pictures of the infants eye movements. We can use these pictures to predict where the baby will look. It helps us understand what infants prefer to look at.
+
+- The sticker for the infant's forehead helps the eye-tracker locate where the infants eyes are on the camera. 
+
+- The eye-tracker does not physically touch the infant at any point. 
+
+- Caregivers can withdraw consent to participate at any time. 
+
+**NIRS**
+
+Caregiver friendly description: 
+- NIRS uses near-infrared light that helps us understand what is happening in the brain. Small and safe sensors are placed on the head to see how the brain is responding. NIRS is completely painless and harmless. The technology is similar to how an apple watch tracks your heartrate and movement. You can imagine the cap as having a bunch of small apple watch sensors. 
+
+- There are pads inside the cap to make it comfortable for the baby. 
+
+- Caregivers can withdraw consent to participate at any time. 
+
+**Avoid saying...** the word laser or making it sound invasive (nirs is a non-invasive technique)
+
 ## Typical Workflow
 - Open everything you will need quick access to (DRDB, teams, AVAYA, lab calendars, lab email, recruitment script)
 	- Might also be helpful to have paper and pen in case you need to write a question down or for any other reason
