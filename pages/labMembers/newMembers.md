@@ -71,9 +71,9 @@ Communication (between lab members, Lab Manager, grad students, postdocs) is ess
 - [ ] Familiarize yourself with the Teams
 - [ ] Fill out the access card application [here](https://forms.office.com/pages/responsepage.aspx?id=B2M3RCm0rUKMJSjNSW9HcudkN_4lJH5IiXFmxJeXy5JUN0xJNzZCM0lWSzMxQk9SUDVYRDM2MU9aSi4u)
 - [ ] Fill out [this form](https://forms.office.com/r/DyyjwnPBXj) to have your bio added to our website. For the uploaded photos, make sure to crop them in 500 * 500 pixels.
-- [ ] Download the [McMaster VPN](https://uts.mcmaster.ca/services/computers-printers-and-software/virtual-private-networking/) to access [DRDB](handbook/recruitment/DRDB)
-- [ ] Ensure you are able to gain access to DRDB (you will receive an email invite)
+- [ ] Download the [McMaster VPN](https://uts.mcmaster.ca/services/computers-printers-and-software/virtual-private-networking/) to access [DRDB](https://mcmaster-baby-lab.github.io/handbook/DRDB)
+- [ ] Ensure you are able to gain access to [DRDB](https://mcmaster-baby-lab.github.io/handbook/DRDB) (you will receive an email invite)
 - [ ] Familiarize yourself with the expectations based on your role in the lab. 
 - [ ] Familiarize yourself will all protocols and procedures for conducting studies
-- [ ] Review all training materials for recruitment and DRDB
+- [ ] Review all training materials for recruitment and [DRDB](https://mcmaster-baby-lab.github.io/handbook/DRDB)
 
