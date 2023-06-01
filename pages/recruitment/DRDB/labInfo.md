@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lab Information
+title: Lab Information Setup
 parent: DRDB
 grand_parent: Recruitment
 nav_order: 5
