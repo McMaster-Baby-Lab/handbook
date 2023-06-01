@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Presenation
+title: Presentation
 parent: Grad Students & Post-docs
 grand_parent: For Lab Members
 nav_order: 3

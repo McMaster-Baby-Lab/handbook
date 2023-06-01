@@ -28,7 +28,8 @@ Download AVAYA: [AVAYA DOWNLOAD](https://telecom.mcmaster.ca/products-services/a
 3. Click the gear symbol in the top right
 4.  Click “Use web address”
 5.  Enter the URL: https://vce20util.uts.mcmaster.ca/46xxsettings_equinox.txt
-6.  Login:
+6.  Login: [See Lab Passcodes](https://mcmaster-baby-lab.github.io/handbook/rules#lab-access--security)
+
     Extension: 23130
 
 
