@@ -53,6 +53,24 @@ permalink: /InPerson
 
 - Even if something goes wrong with the technology, continue to run through the study as we do not want to disappoint the family. 
 
+### The Baby is Crying! What do I do?
+
+The baby is in a new environment for the first time with strangers around. It is expected that the baby will feel uncomfortable. 
+
+It is important that as an experimenter you remain confident and in control throughout the study. Be friendly, smile, and assert yourself as a leader. Babies will pick up on non-verbal cues and if you lead with confidence they will feel more safe in the envrionment. 
+
+Allowing some time at the beginning of the study for the baby to get comfortable in the new space may also help. 
+
+**Turn on the lights:** Sometimes babies don't like being in the dark too long and turning on the lights can help calm the baby. 
+
+**Comfort the baby:** Have the parent comfort the baby and bring some toys from the waiting area to see if you can distract the baby. 
+
+**Pause the study:** If the baby's crying persists and it's clear they are not able to continue participating comfortably, it's important to pause the study. Tell the cargiver that they can take a break from the study and see if the baby calms down. 
+
+**Communicate with the caregiver:** Maintain open communication with the caregiver throughout the process. Inform them about the baby's experience and ask for their input on how to proceed. Respect their judgment and decisions regarding the baby's participation.
+
+**Offer rescheduling options:** If the baby continues to be upset or uncomfortable, provide the parent with options to reschedule the study at a more convenient time. Be flexible and understanding, accommodating their needs and the baby's well-being.
+
 ### Debrief
 - Debrief with the family after the experiment is complete. The debriefing period will be project dependent, but we may mention more about who we are, what we do, our general progress, as well as how their contribution will be used.
 
@@ -69,6 +87,7 @@ permalink: /InPerson
 - In the case that a family is late and you have to leave at a certain time, please communicate with others in the lab to cover part of the shift for you.
 - Please be clear with the family that you must leave at a certain time during the study and that another lab member will be happy to step in for the remainder of their visit.
 
+
 ### Family Accommodations
 - If the family requires a space to change the baby’s diaper, direct them to the washroom on the 3rd floor. 
 
@@ -76,6 +95,8 @@ permalink: /InPerson
 
 ### Contingency Plan
 - If you are suddenly unable to run a study that you are responsible for, reach out to other members familiar with the study to see if they are available to cover. 
+
+
 
 ## with adults
 ### When the participant arrives
