@@ -18,6 +18,16 @@ permalink: /eyetracker
 
 ---
 
+## What is eye tracker?
+
+
+### Know the software interface
+
+### Hardware setup
+
+## The most important things!
+
+
 ### Preparation 
 
 Things to check before starting the program for a study. 
