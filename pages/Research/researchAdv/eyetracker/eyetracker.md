@@ -29,6 +29,7 @@ Things to check before starting the program for a study.
 - Check the distance, ideally between **500 to 700 mm**
 - Ensure there is a stable detection of the target sticker and both eyes (i.e., no flicking)  
 - The participant's head should be at the centre of the tracking area
+- Check the volumes on the speaker to ensure it is not too loud or quiet.
 
 
 ### Calibration 
@@ -64,3 +65,21 @@ Monitoring the tracking accuracy AMID a study
 
 - An accurate drift correction will allow the study to continue 
 - If the error is too large (i.e., long white lines), we need to redo calibration & validation 
+
+## Starting the Program 
+
+- Open VsCode (u can put like a symbol here)
+- Open up your project folder with **File -> Open Recent...** function. 
+- Then, look for your project folder name.
+- Then bring up Terminal in VSCode with **View -> Terminal function.** You will see a Terminal panel appears at the bottom.
+- Use Up Arrow key to navigate to the specific file. Once found the file, press Enter/Return key to run the program
+- Now you will see a Welcome window showing up. The window lists several key information, such as participant ID. Note the ID down!! 
+- Click OK to start the program.
+
+## Short Cuts 
+
+- Press q to skip the initial text (you will not see them. - Text here refers to the text shown on the monitor the participant is looking at)
+- Press the right Arrow key to skip the initial animation 
+after skipping the animation, press Enter to bring eye tracker view to the participant monitor. 
+- C for Calibration.
+- V for Validation
