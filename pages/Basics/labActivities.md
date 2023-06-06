@@ -41,6 +41,8 @@ Journal club is an opportunity for the lab to discuss recent papers published in
 -	Articles never presented at our lab meeting before (check Journal club channel on Teams for past presented papers).
 - Articles that lab members did NOT participate in.
 
+Submit your article here so that it can be uploaded to our teams channel: [Journal Club Paper Upload](https://forms.office.com/r/9pDG7gw244)
+
 **Here are some tips for your reading and presentation:**
 - Make sure you understand the research question the paper is attempting to answer.
 -	What is the general method of the study and how did the researchers use the method to address the research question?
