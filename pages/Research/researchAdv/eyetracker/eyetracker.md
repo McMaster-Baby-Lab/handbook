@@ -38,7 +38,7 @@ Luckily, you can read all of the information from the eye tracker screen.
 >
 > As an experimenter, you should be explicit about the things participants should pay attention, and remind them whenever necessary.
 >
-> When it comes to infant / child studies, you need to communicate the key factors above to the parents who are holding their kids in front of the screen. ***Let the parents help you to achieve good tracking quality is very very important!*** 
+> When it comes to infant / child studies, you need to communicate the key factors above to the parents who are holding their kids in front of the screen. ***Let parents help you to achieve good tracking quality is very very important!*** 
 
 ## EyeLink quick tips 
 
