@@ -19,9 +19,13 @@ permalink: /nirs
 ---
 
 [a link](/nirs/manual).
+
 [a link](/nirs/cameraprocedure).
+
 [a link](/nirs/nirsprocedure).
+
 [a link](/nirs/parametersExam).
+
 [a link](/nirs/studyBreak).
 
 
