@@ -31,7 +31,7 @@ To achieve high-quality eye tracking, it requries high-quality eye images. Just 
 
 Luckily, you can read all of the information from the eye tracker screen.
 
-{% include oneImg.html url="assets/images/eyetracking/Focus.JPG" caption = "" shortCap="" %} 
+{% include oneImg.html url="assets/images/eyetracking/Focus.jpg" caption = "" shortCap="" %} 
 
 {: .important }
 > Always remember that your participants are unlikely to know how eye tracker works or what are the key factors to ensure good tracking.
