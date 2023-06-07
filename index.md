@@ -5,7 +5,9 @@ nav_order: 1
 ---
 {: .warning }
 > This handbook is work in progress (WIP). We are actively migrating contents from our old repositories to here. If you find anything missing or have any suggestions, please let us know. Thanks!
+>
 
+{% include quote.html text="Far better it is to dare mighty things, to win glorious triumphs, even though checkered by failure, than to take rank with those poor spirits who neither enjoy much nor suffer much, because they live in the gray twilight that knows not victory nor defeat." author = "Theodore Roosevelt" %}
 
 ## Mission statement 
 
