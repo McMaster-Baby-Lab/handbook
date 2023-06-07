@@ -40,7 +40,7 @@ Luckily, you can read all of the information from the eye tracker screen.
 >
 > When it comes to infant / child studies, you need to communicate the key factors above to the parents who are holding their kids in front of the screen. ***Let parents help you to achieve good tracking quality is very very important!*** 
 
-## EyeLink quick tips 
+## Preparation tips
 
 ### Preparation 
 
@@ -49,13 +49,12 @@ Things to check before starting the program for a study.
 - Ensure participants are sitting comfortably in the chair  
 - Ensure their posture is straight 
 - Have them face the monitor
-
 - Check the distance, ideally between **500 to 700 mm**
 - Ensure there is a stable detection of the target sticker and both eyes (i.e., no flicking)  
 - The participant's head should be at the centre of the tracking area
 - Check the volumes on the speaker to ensure it is not too loud or quiet.
 
-### Adjust thresholds
+### Adjust eye image thresholds
 
 To prperly translate eye images into looking coordinates, eye tracker relies on a set of thresholds to detect pupil and corneal reflection.
 
@@ -66,6 +65,8 @@ When the Pupil is properly thresholded (i.e., fully filled in blue with no addit
 Once the illumination is adjusted, make sure the Corneal Reflection is properly thresholded (fully filled in light-blue with no additional thresholding in the sclera) without worrying too much about its threshold value, as long as it is below 255.
 
 {% include oneImg.html url="assets/images/eyetracking/Thresholds.JPG" caption = "" shortCap="" %} 
+
+## Setup eye tracker
 
 ### Calibration 
 
@@ -101,6 +102,15 @@ Monitoring the tracking accuracy **amid** a study
 - An accurate drift correction will allow the study to continue 
 - If the error is too large (i.e., long white lines), we need to redo calibration & validation 
 
+### Eye-tracker operation short-cuts
+
+When you're at the eye-tracker preparation screen (before experimental trials start).
+- ***C*** for Calibration
+- ***V*** for Validation
+- ***Return*** for confirming looking during calibration, validation & drift-correction.
+- ***O*** for starting experimental trials
+
+
 ## Starting the Program 
 
 ### for PsychoPy studies on Windows system
@@ -118,14 +128,6 @@ Monitoring the tracking accuracy **amid** a study
 - In the folder panel on the left-hand side, right-click the program file. Click ***Run*** in the pop-up menu to launch the program
 - Pay attention to the instructions in the ***Command Window*** at the bottom.
 
-
-## Eye-tracker operation short-cuts
-
-When you're at the eye-tracker preparation screen (before experimental trials start).
-- ***C*** for Calibration
-- ***V*** for Validation
-- ***Return*** for confirming looking during calibration, validation & drift-correction.
-- ***O*** for starting experimental trials
 
 ## Tutorials
 
