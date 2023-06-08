@@ -46,13 +46,13 @@ There is a reception space in the lab where children and infants can play with t
 
 ### fNIRS Testing Room
 
-The fNIRS system consists of a cap that is placed on the participant's scalp to measure changes in hemoglobin concentration in the brain. The fNIRS system is connected to a computer that records and stores the data collected during the experiment. 
+The [fNIRS](https://mcmaster-baby-lab.github.io/handbook/nirs) system consists of a cap that is placed on the participant's scalp to measure changes in hemoglobin concentration in the brain. The fNIRS system is connected to a computer that records and stores the data collected during the experiment. 
 
 {% include imageGallery2.html folder="assets/images/NIRSRoom" %}
 
 ### Eye-Tracking Testing Room
 
-The lab has an eye-tracker for conducting experiments that involve tracking the movement of the eyes during visual perception and cognitive processing. 
+The lab has an [eye-tracker](https://mcmaster-baby-lab.github.io/handbook/eyetracker) for conducting experiments that involve tracking the movement of the eyes during visual perception and cognitive processing. 
 Inside the room, there is a desk or table where the participant sits in front of a computer screen. The computer is adjustable to accommodate participants of different heights and ensure that the participant's eyes are at the correct distance from the eye tracker. The eye tracker consists of a camera that follows the eye movement of the participant and stores the data.
 
 

@@ -85,7 +85,6 @@ This is both a research opportunity and a job- please remember to treat it as bo
 - Respond to your personal email promptly. You should check your email at least once a day!
 
 
-
 ### Independent Study Students (2QQ3, 3QQ3, 4QQ3)
 - Participate in recruitment
 - Present an article in Journal Club (Refer to Journal Club under Lab Activities) 

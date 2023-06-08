@@ -21,6 +21,8 @@ permalink: labActivities
 
 The lab meeting schedule will be provided at the beginning of each semester. All lab members are expected to attend. 
 
+The spring/summer lab meeting schedule can be accessed here: [Spring/Summer Term Lab Meetings](https://docs.google.com/document/d/1sKimiWTpUe4PQL3tFgEDz_NydGFLITvv2hTn5xdvS1c/edit?usp=sharing)
+
 Please inform Dr. Xiao if the lab meeting time does not work for you. 
 
 You are expected to attend lab meetings but in the case that a conflict arises, please refer to the posted agenda found on Microsoft Teams to catch up on missed information.
@@ -56,6 +58,8 @@ Submit your article here so that it can be uploaded to our teams channel: [Journ
 The lab frequently offers students opportunities to work on mini tasks, such as literature review, learning to use new software, and programming. 
 
 Students are encouraged to take on tasks that align with their interests and career developmental goals, which may help them achieve their future career aspirations. 
+
+Mini tasks are posted in the *Mini Tasks* channel in Microsoft Teams. 
 
 **Tasks may include:**
 - Literature reviews: collecting and summarizing research on a topic
