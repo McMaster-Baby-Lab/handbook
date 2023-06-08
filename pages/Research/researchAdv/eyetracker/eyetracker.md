@@ -22,7 +22,8 @@ permalink: /eyetracker
 
 Eye tracker is a specialized camera system. It takes hundreds of pictures of participants eyes every second and translates these images into coordinates on the screen based on the the shape of the pupil and the position of reflection from the corneal.
 
-Here is a great explanation of modern eye tracking from SR-Research <a href="https://www.sr-research.com/about-eye-tracking/" target="_blank">About Eye Tracking</a>  
+{: .important }
+> Here is a great explanation of modern eye tracking from SR-Research <a href="https://www.sr-research.com/about-eye-tracking/" target="_blank">About Eye Tracking</a>  
 
 ## The most important things
 
@@ -116,7 +117,7 @@ When you're at the eye-tracker preparation screen (before experimental trials st
 ## Starting the Program 
 
 ### for PsychoPy studies on Windows system
-- Open VsCode (u can put like a symbol here)
+- Open ***VSCode*** (u can put like a symbol here)
 - Open up your project folder with **File -> Open Recent...** function. 
 - Then, look for your project folder name.
 - Then bring up Terminal in VSCode with **View -> Terminal function.** You will see a Terminal panel appears at the bottom.
@@ -142,23 +143,21 @@ When you're at the eye-tracker preparation screen (before experimental trials st
 ## Eye-Tracker Skills Checklist
 Please ensure that you are comfortable performing all of the following skills before running an experiement using the eye-tracker. 
 
-**Concept**
+### Concept
 
-// TODO: Can introduce eye-tracker to participants in general language
-// TODO: Can identify the 3 major factors affecting tracking quality: distance, siting position, & in-focus
+- [ ] Can introduce eye-tracker to participants in general language
+- [ ] Can identify the 3 major factors affecting tracking quality: distance, siting position, & in-focus
 
-**Operation**
+### Operation
 
-// TODO: Can adjust viewing distance, head position (within tracking area), camera focus, image thresholds.
+- [ ] Can adjust viewing distance, head position (within tracking area), camera focus, image thresholds.
+- [ ] Can perform calibration, validation, and drift-correction
+- [ ] Can interpret the results of calibration, validation, and drift-correction, and decide if a retry is necessary
 
-// TODO: Can perform calibration, validation, and drift-correction
-
-// TODO: Can interpret the results of calibration, validation, and drift-correction, and decide if a retry is necessary
-
-**Troubleshooting**
-// TODO: Can identify issues based on the tracking data (viewing distance, eye image quality, etc) and do adjustments accordingly
-// TODO: Can handle software crashes
-// TODO: Can handle scenarios, in which infant participants become inattentive or fussy
+### Troubleshooting
+- [ ] Can identify issues based on the tracking data (viewing distance, eye image quality, etc) and do adjustments accordingly
+- [ ] Can handle software crashes
+- [ ] Can handle scenarios, in which infant participants become inattentive or fussy
 
 
 
@@ -168,3 +167,8 @@ Please ensure that you are comfortable performing all of the following skills be
 
 
 Please refer to the [EYELINK MANUAL](https://mcmasteru365.sharepoint.com/:b:/r/sites/labtest/Shared%20Documents/Resources/EyeTracking/EyeLink%20documents/EyeLink%20User%20Manuals/EyeLink%201000%20User%20Manual.pdf?csf=1&web=1&e=kj4Q1g) for more details. 
+
+
+## FAQs
+
+[FAQs](/eyetracking/FAQs).

@@ -27,12 +27,8 @@ permalink: /nirs/manual
 
  
 
-*Laser switch needs warm-up for at least 30-mins before any measure starts.*
 
  
-**How to turn off the machine (see Manual 3-2)** 
-1. Turn off Laser switch in the front 
-2. Turn off Power switch in the front 
-3. Turn off Main switch at the back
+
 
 

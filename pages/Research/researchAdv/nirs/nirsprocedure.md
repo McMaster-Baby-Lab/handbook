@@ -19,7 +19,6 @@ permalink: /nirs/nirsprocedure
 ---
 ## DO NOT
 - BREAK FOLD OR TANGLE THE WIRES (THEY ARE OPTIC FIBRES)
-
 - LOOK DIRECTLY AT THE INFRARED LASER
 
 
@@ -121,6 +120,8 @@ Stop the study if infants become fussy, crying, or constantly lose attention to 
 **E1:** 
 - Put the NIRS cap on the participant 
 - Make sure the cap is on the right spot and fasten the cap 
+
+### communication with parents
 
 ### Testing
 
