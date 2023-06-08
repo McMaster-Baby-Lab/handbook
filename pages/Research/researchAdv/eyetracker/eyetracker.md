@@ -139,6 +139,29 @@ When you're at the eye-tracker preparation screen (before experimental trials st
 - ***Return*** for confirming looking during calibration, validation & drift-correction.
 - ***O*** for starting experimental trials
 
+## Eye-Tracker Skills Checklist
+Please ensure that you are comfortable performing all of the following skills before running an experiement using the eye-tracker. 
+
+**Concept**
+
+// TODO: Can introduce eye-tracker to participants in general language
+// TODO: Can identify the 3 major factors affecting tracking quality: distance, siting position, & in-focus
+
+**Operation**
+
+// TODO: Can adjust viewing distance, head position (within tracking area), camera focus, image thresholds.
+
+// TODO: Can perform calibration, validation, and drift-correction
+
+// TODO: Can interpret the results of calibration, validation, and drift-correction, and decide if a retry is necessary
+
+**Troubleshooting**
+// TODO: Can identify issues based on the tracking data (viewing distance, eye image quality, etc) and do adjustments accordingly
+// TODO: Can handle software crashes
+// TODO: Can handle scenarios, in which infant participants become inattentive or fussy
+
+
+
 ## Tutorials
 
 - <a href="https://mcmasteru365.sharepoint.com/:f:/r/sites/labtest/Shared%20Documents/Resources/EyeTracking/EyeLink%201000%20Plus%20Intro%20videos?csf=1&web=1&e=fiarbn" target="_blank">EyeLink Intro Videos</a>
