@@ -22,6 +22,8 @@ permalink: /eyetracker
 
 Eye tracker is a specialized camera system. It takes hundreds of pictures of participants eyes every second and translates these images into coordinates on the screen based on the the shape of the pupil and the position of reflection from the corneal.
 
+Here is a great explanation of modern eye tracking from SR-Research <a href="https://www.sr-research.com/about-eye-tracking/" target="_blank">About Eye Tracking</a>  
+
 ## The most important things
 
 To achieve high-quality eye tracking, it requries high-quality eye images. Just like every camera system (e.g., the ones in your phone), having camera lens in focus is the most important thing. However, eye tracking system does NOT (and should not) have auto-focus functions that we are used to on our phones, keeping participants' eyes in focus depends on a few factors:
@@ -132,7 +134,6 @@ When you're at the eye-tracker preparation screen (before experimental trials st
 ## Tutorials
 
 - <a href="https://mcmasteru365.sharepoint.com/:f:/r/sites/labtest/Shared%20Documents/Resources/EyeTracking/EyeLink%201000%20Plus%20Intro%20videos?csf=1&web=1&e=fiarbn" target="_blank">EyeLink Intro Videos</a>
-
 
 
 Please refer to the [EYELINK MANUAL](https://mcmasteru365.sharepoint.com/:b:/r/sites/labtest/Shared%20Documents/Resources/EyeTracking/EyeLink%20documents/EyeLink%20User%20Manuals/EyeLink%201000%20User%20Manual.pdf?csf=1&web=1&e=kj4Q1g) for more details. 
