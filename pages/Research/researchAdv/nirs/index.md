@@ -19,9 +19,9 @@ permalink: /nirs
 ---
 
 {: .warning}
-> You are our tresure. The best way to hurt yourself is to continuously look **DIRECTLY** sensors (when they emit red lights). DON'T.
+> You are our treasure. The best way to hurt yourself is to continuously look **DIRECTLY** sensors (when they emit red lights). DON'T.
 >
-> Also, fNIRS machine is rediculously expensive. The one we are using costed **half a million**. The best ways to break the sensor cables (THEY ARE OPTIC FIBRES) are to FOLD or TANGLE them. DON'T.
+> Also, fNIRS machine is ridculously expensive. The one we are using costed **half a million**. The best ways to break the sensor cables (THEY ARE OPTIC FIBRES) are to FOLD or TANGLE them. DON'T.
 
 ## How does fNIRS measure brain activity?
 FNIRS (functional Near Infrared Spectroscopy) is a safe and non-invasive technique for measuring localized blood flow/volume in the human brain. FNIRS employs nearly identical methods to the pulse oximeter, which has been employed extensively for decades in clinical settings to monitor blood oxygen levels during surgery and for high-risk individuals during hospitalization (e.g., infants born prematurely). This technique has been widely used in our every life. Apple Watch or similar wearable health-tracking devices also use this technique to monitor blood flow changes.
