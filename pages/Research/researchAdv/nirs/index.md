@@ -80,7 +80,7 @@ The NIRS machine sometimes will reset its parameters to default setting, which w
     2. In the pop-up window **“Parameter”**, there is a dropped-down box at the top, named **“parameter Name”**
     3. In this drop-down box, select **“Infant VS preset”** and click Import button. 
 
-    {% include imageGallery2.html folder="assets/images/fNIRSprocedure/fNIRSprocedure1" %}
+{% include imageGallery2.html folder="assets/images/fNIRSprocedure/fNIRSprocedure1" %}
 
 ## Communicate with parents
 - What is fNIRS and how does it help us understand the neural foundation of our cognitive abilities
