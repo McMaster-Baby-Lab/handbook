@@ -22,6 +22,8 @@ permalink: /eyetracker
 
 Eye tracker is a specialized camera system. It takes hundreds of pictures of participants eyes every second and translates these images into coordinates on the screen based on the the shape of the pupil and the position of reflection from the corneal.
 
+Here is a great explanation of modern eye tracking from SR-Research <a href="https://www.sr-research.com/about-eye-tracking/" target="_blank">About Eye Tracking</a>  
+
 ## The most important things
 
 To achieve high-quality eye tracking, it requries high-quality eye images. Just like every camera system (e.g., the ones in your phone), having camera lens in focus is the most important thing. However, eye tracking system does NOT (and should not) have auto-focus functions that we are used to on our phones, keeping participants' eyes in focus depends on a few factors:
@@ -40,7 +42,7 @@ Luckily, you can read all of the information from the eye tracker screen.
 >
 > When it comes to infant / child studies, you need to communicate the key factors above to the parents who are holding their kids in front of the screen. ***Let parents help you to achieve good tracking quality is very very important!*** 
 
-## EyeLink quick tips 
+## Preparation tips
 
 ### Preparation 
 
@@ -49,13 +51,12 @@ Things to check before starting the program for a study.
 - Ensure participants are sitting comfortably in the chair  
 - Ensure their posture is straight 
 - Have them face the monitor
-
 - Check the distance, ideally between **500 to 700 mm**
 - Ensure there is a stable detection of the target sticker and both eyes (i.e., no flicking)  
 - The participant's head should be at the centre of the tracking area
 - Check the volumes on the speaker to ensure it is not too loud or quiet.
 
-### Adjust thresholds
+### Adjust eye image thresholds
 
 To prperly translate eye images into looking coordinates, eye tracker relies on a set of thresholds to detect pupil and corneal reflection.
 
@@ -66,6 +67,8 @@ When the Pupil is properly thresholded (i.e., fully filled in blue with no addit
 Once the illumination is adjusted, make sure the Corneal Reflection is properly thresholded (fully filled in light-blue with no additional thresholding in the sclera) without worrying too much about its threshold value, as long as it is below 255.
 
 {% include oneImg.html url="assets/images/eyetracking/Thresholds.JPG" caption = "" shortCap="" %} 
+
+## Setup eye tracker
 
 ### Calibration 
 
@@ -101,6 +104,15 @@ Monitoring the tracking accuracy **amid** a study
 - An accurate drift correction will allow the study to continue 
 - If the error is too large (i.e., long white lines), we need to redo calibration & validation 
 
+### Eye-tracker operation short-cuts
+
+When you're at the eye-tracker preparation screen (before experimental trials start).
+- ***C*** for Calibration
+- ***V*** for Validation
+- ***Return*** for confirming looking during calibration, validation & drift-correction.
+- ***O*** for starting experimental trials
+
+
 ## Starting the Program 
 
 ### for PsychoPy studies on Windows system
@@ -127,26 +139,9 @@ When you're at the eye-tracker preparation screen (before experimental trials st
 - ***Return*** for confirming looking during calibration, validation & drift-correction.
 - ***O*** for starting experimental trials
 
-## Eye-Tracker Checklist 
-Here is everything you need to make sure you are comfortable with before running a study with the eye-tracker. 
-
-**Introducing the Concept**
-
-// TODO: Can introduce eye-tracker to participants in general language
-can identify the 3 major factors affecting tracking quality: distance, siting position, & in-focus
-Operation
-can adjust viewing distance, head position (within tracking area), camera focus, image thresholds.
-can perform calibration, validation, and drift-correction
-can interpret the results of calibration, validation, and drift-correction, and decide if a retry is necessary
-Troubleshooting
-can identify issues based on the tracking data (viewing distance, eye image quality, etc) and do adjustments accordingly
-can handle software crashes
-can handle scenarios, in which infant participants become inattentive or fussy
-
 ## Tutorials
 
 - <a href="https://mcmasteru365.sharepoint.com/:f:/r/sites/labtest/Shared%20Documents/Resources/EyeTracking/EyeLink%201000%20Plus%20Intro%20videos?csf=1&web=1&e=fiarbn" target="_blank">EyeLink Intro Videos</a>
-
 
 
 Please refer to the [EYELINK MANUAL](https://mcmasteru365.sharepoint.com/:b:/r/sites/labtest/Shared%20Documents/Resources/EyeTracking/EyeLink%20documents/EyeLink%20User%20Manuals/EyeLink%201000%20User%20Manual.pdf?csf=1&web=1&e=kj4Q1g) for more details. 
