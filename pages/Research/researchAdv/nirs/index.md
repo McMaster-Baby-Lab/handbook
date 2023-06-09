@@ -80,7 +80,15 @@ The NIRS machine sometimes will reset its parameters to default setting, which w
     2. In the pop-up window **“Parameter”**, there is a dropped-down box at the top, named **“parameter Name”**
     3. In this drop-down box, select **“Infant VS preset”** and click Import button. 
 
-{% include imageGallery2.html folder="assets/images/fNIRSprocedure/fNIRSprocedure1" %}
+{% include imageGallery2.html folder="assets/images/fNIRSprocedure" %}
+
+### Starting the Program 
+
+- Open ***MATLAB*** from the Dock
+- In MATLAB, navigate to the program folder in the address bar
+- In the folder panel on the left-hand side, right-click the program file. Click ***Run*** in the pop-up menu to launch the program
+- Pay attention to the instructions in the ***Command Window*** at the bottom.
+
 
 ## Communicate with parents
 - What is fNIRS and how does it help us understand the neural foundation of our cognitive abilities
