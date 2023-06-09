@@ -19,7 +19,7 @@ permalink: /nirs
 ---
 
 {: .warning}
-> You are our treasure. The best way to hurt yourself is to continuously look **DIRECTLY** sensors (when they emit red lights). DON'T.
+> You are our treasure. But the easiest way to hurt yourself is to stare at the sensors (when they emit red lights). DON'T.
 >
 > Also, fNIRS machine is ridculously expensive. The one we are using costed **half a million**. The best ways to break the sensor cables (THEY ARE OPTIC FIBRES) are to FOLD or TANGLE them. DON'T.
 

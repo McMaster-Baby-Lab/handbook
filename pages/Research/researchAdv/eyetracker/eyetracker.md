@@ -171,4 +171,4 @@ Please refer to the [EYELINK MANUAL](https://mcmasteru365.sharepoint.com/:b:/r/s
 
 ## FAQs
 
-[FAQs](/eyetracking/FAQs).
+[FAQs](/handbook/eyetracking/FAQs).
