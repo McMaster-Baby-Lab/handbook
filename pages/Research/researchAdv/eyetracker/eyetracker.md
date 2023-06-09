@@ -43,6 +43,10 @@ Luckily, you can read all of the information from the eye tracker screen.
 >
 > When it comes to infant / child studies, you need to communicate the key factors above to the parents who are holding their kids in front of the screen. ***Let parents help you to achieve good tracking quality is very very important!*** 
 
+## Know the eye tracker computer
+
+{% include oneImg.html url="assets/images/Host PC UI explanation/Slide1.png" caption = "Main UI" shortCap="" %}
+
 ## Preparation tips
 
 ### Preparation 
@@ -69,6 +73,7 @@ Once the illumination is adjusted, make sure the Corneal Reflection is properly 
 
 {% include oneImg.html url="assets/images/eyetracking/Thresholds.JPG" caption = "" shortCap="" %} 
 
+
 ## Setup eye tracker
 
 ### Calibration 
@@ -79,9 +84,13 @@ Lets the machine knows how to translate eye images into gaze coordinates on the 
 2. When calibration starts, confirm fixation *IMMEDIATELY AFTER* the eyes move by pressing the Return key.  
 3. Valid key pressing during calibration will make the target appears in another location 
 4. Press again if a key pressing calibration is not valid 
-5. At the end of calibration, the looking pattern indicated by the green and blue crosses should match the layout of calibration target on the screen.  If not, restart the calibration.  
+5. At the end of calibration, the looking pattern indicated by the green and blue crosses should match the layout of calibration target on the screen.  If not, restart the calibration.
 
-{% include oneImg.html url="assets/images/eyetracking/Calib2.JPG" caption = "" shortCap="" %} 
+{% include oneImg.html url="assets/images/Host PC UI explanation/Slide2.png" caption = "Calibration UI" shortCap="" %}
+
+
+{% include oneImg.html url="assets/images/eyetracking/Calib2.JPG" caption = "" shortCap="" %}
+
 
 ### Validation
 
@@ -95,6 +104,8 @@ Verifies the accuracy of calibration
 - If not, either redo the calibration (when participants looked very attentively during validation) 
 - Or redo the validation, if participants move their bodies during the validation
 
+{% include oneImg.html url="assets/images/Host PC UI explanation/Slide3.png" caption = "Validation UI" shortCap="" %}
+
 
 ### Drift Correction 
 
@@ -105,7 +116,10 @@ Monitoring the tracking accuracy **amid** a study
 - An accurate drift correction will allow the study to continue 
 - If the error is too large (i.e., long white lines), we need to redo calibration & validation 
 
-### Eye-tracker operation short-cuts
+{% include oneImg.html url="assets/images/Host PC UI explanation/Slide4.png" caption = "Drift-correction UI" shortCap="" %}
+
+
+### Eye-tracker operation shortcuts
 
 When you're at the eye-tracker preparation screen (before experimental trials start).
 - ***C*** for Calibration
@@ -169,6 +183,4 @@ Please ensure that you are comfortable performing all of the following skills be
 Please refer to the [EYELINK MANUAL](https://mcmasteru365.sharepoint.com/:b:/r/sites/labtest/Shared%20Documents/Resources/EyeTracking/EyeLink%20documents/EyeLink%20User%20Manuals/EyeLink%201000%20User%20Manual.pdf?csf=1&web=1&e=kj4Q1g) for more details. 
 
 
-## FAQs
-
-[FAQs](/handbook/eyetracking/FAQs).
+## [FAQs](/handbook/eyetracking/FAQs)
