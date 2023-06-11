@@ -17,7 +17,7 @@ permalink: /researchEthics
 
 ---
 
-## Ethics application
+## Prerequisites
 1. Log in to the Splash Page - [MacREM Applications](https://macrem.mcmaster.ca/) with your MacID. This will automatically activate your account in the system.
 2. After you log in, Dr. Xiao will create an application form under our ethics protocol. And you will receive an email from MREB informing you as the member of this research project.
 3. Use the [templates](https://mcmasteru365.sharepoint.com/:f:/r/sites/labtest/Shared%20Documents/Research%20ethics%20documents/Templates?csf=1&web=1&e=xikbEd) and [examples](https://mcmasteru365.sharepoint.com/:f:/r/sites/labtest/Shared%20Documents/Research%20ethics%20documents/Examples?csf=1&web=1&e=sChwzM) in the Research ethics documents to prepare your application. 
@@ -32,7 +32,7 @@ permalink: /researchEthics
 	1. **Number and description of participants for this chapter project (e.g. children & parents)**
 		
 		Fill in based on study-specific information.
-		
+
 	2. **Specific recruitment plan (children & parents)**
 		
 		**Template**:
@@ -66,11 +66,11 @@ permalink: /researchEthics
 		
 		Individuals younger than 16 years of age will require consent from their legal guardians as substitute decision-makers. For online studies, parents or legal guardians will read the Letter of Information and consent form presented to them on an online platform (Zoom) at the time of the study appointment. They can click a button on the screen to indicate their consent to participate in the study. To withdraw from a study, the participants (or their parents) just need to inform the researchers via email, phone call, or in-person conversation, and we will immediately terminate the ongoing study. Participants can also request to withdraw their data from the study after their data has been submitted/collected. However, withdrawal from the study is not possible after the study is published. Withdrawal will not affect the incentive or reimbursement they are supposed to receive after participation.
 
-	6. Please make sure to go over the template and remove those parts which don't apply to your study.
+	6. **Please make sure to go over the template and remove those parts which don't apply to your study.**
 
 		For example, for an online study, you need to delete or revise references to signatures, sign-up sheets any other statements that do not apply to this individual study. (e.g., in the Confidential and Data storage section, it is not necessary to include ‘Participants or their legal guardian's names, signatures, and email addresses will be collected for informed consent purposes’. ‘We will also collect participants' or their legal guardians' names and signatures on a signup sheet to indicate that they received the participation incentives (compensation)’ )
 
-	7. Please also include a section to indicate certain requirements for the study. 
+	7. **Please also include a section to indicate certain requirements for the study. **
 		
 		For example, for an online study, you need to mention that a computer with a camera to allow for video recording is required.
 
