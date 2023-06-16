@@ -73,6 +73,13 @@ Once the illumination is adjusted, make sure the Corneal Reflection is properly 
 
 {% include oneImg.html url="assets/images/eyetracking/Thresholds.JPG" caption = "" shortCap="" %} 
 
+## Special tips for infant participants
+
+As you can see above, properly setup eye tracker takes some time. Because infants have relatively short attention span, they might not give you enough time to setup eye tracker properly. To address these challenges, here are some tips for you to achieve high quality of eye tracking with infant participants.
+
+- Calm down. It is absolutely normal for infants to get distracted.
+- Setup eye tracker during the initial cartoon section. In our programs, we always include a cartoon playing at the beginning. The function of this cartoon is to help infants focus on the screen without moving too much. This is the golden period for you to setup eye tracker.
+- Fast calibration / validation. Quit counterintuitively, you should confirm fixations during calibration, validation, and drift-correction as fast as you can. Confirm fixations should be done IMMEDIATELY you see their gaze shifted to the new location. This is because infants usually quickly lose interest to the target when it showing up at the same location. They are likely to focus when target shifts its location. Thus, their first gazes after the target lcoation shifts are likely the most accurate and ideal. For a reference, you need to finish a 5-point calibration within 5 seconds.
 
 ## Setup eye tracker
 
@@ -154,7 +161,7 @@ When you're at the eye-tracker preparation screen (before experimental trials st
 - ***Return*** for confirming looking during calibration, validation & drift-correction.
 - ***O*** for starting experimental trials
 
-## Eye-Tracker Skills Checklist
+## Eye-Tracker skills checklist
 Please ensure that you are comfortable performing all of the following skills before running an experiement using the eye-tracker. 
 
 ### Concept
