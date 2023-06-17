@@ -83,6 +83,14 @@ As you can see above, properly setup eye tracker takes some time. Because infant
 
 ## Setup eye tracker
 
+### Eye-tracker operation shortcuts
+
+When you're at the eye-tracker preparation screen (before experimental trials start).
+- ***C*** for Calibration
+- ***V*** for Validation
+- ***Return*** for confirming looking during calibration, validation & drift-correction.
+- ***O*** for starting experimental trials
+
 ### Calibration 
 
 Lets the machine knows how to translate eye images into gaze coordinates on the screen
@@ -126,15 +134,6 @@ Monitoring the tracking accuracy **amid** a study
 {% include oneImg.html url="assets/images/Host PC UI explanation/Slide4.png" caption = "Drift-correction UI" shortCap="" %}
 
 
-### Eye-tracker operation shortcuts
-
-When you're at the eye-tracker preparation screen (before experimental trials start).
-- ***C*** for Calibration
-- ***V*** for Validation
-- ***Return*** for confirming looking during calibration, validation & drift-correction.
-- ***O*** for starting experimental trials
-
-
 ## Starting the Program 
 
 ### for PsychoPy studies on Windows system
@@ -152,34 +151,8 @@ When you're at the eye-tracker preparation screen (before experimental trials st
 - In the folder panel on the left-hand side, right-click the program file. Click ***Run*** in the pop-up menu to launch the program
 - Pay attention to the instructions in the ***Command Window*** at the bottom.
 
-
-## Eye-tracker operation short-cuts
-
-When you're at the eye-tracker preparation screen (before experimental trials start).
-- ***C*** for Calibration
-- ***V*** for Validation
-- ***Return*** for confirming looking during calibration, validation & drift-correction.
-- ***O*** for starting experimental trials
-
-## Eye-Tracker skills checklist
-Please ensure that you are comfortable performing all of the following skills before running an experiement using the eye-tracker. 
-
-### Concept
-
-- [ ] Can introduce eye-tracker to participants in general language
-- [ ] Can identify the 3 major factors affecting tracking quality: distance, siting position, & in-focus
-
-### Operation
-
-- [ ] Can adjust viewing distance, head position (within tracking area), camera focus, image thresholds.
-- [ ] Can perform calibration, validation, and drift-correction
-- [ ] Can interpret the results of calibration, validation, and drift-correction, and decide if a retry is necessary
-
-### Troubleshooting
-- [ ] Can identify issues based on the tracking data (viewing distance, eye image quality, etc) and do adjustments accordingly
-- [ ] Can handle software crashes
-- [ ] Can handle scenarios, in which infant participants become inattentive or fussy
-
+## Eye-Tracking skill checklist
+Go to this [page](/eyetracker/checklist) to test your understanding of eye-tracking.
 
 
 ## Tutorials
