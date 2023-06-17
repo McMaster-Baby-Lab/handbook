@@ -49,16 +49,15 @@ Luckily, you can read all of the information from the eye tracker screen.
 
 ## Preparation tips
 
-### Preparation 
+### Initial setup 
 
 Things to check before starting the program for a study. 
 
-- Ensure participants are sitting comfortably in the chair  
-- Ensure their posture is straight 
-- Have them face the monitor
-- Check the distance, ideally between **500 to 700 mm**
-- Ensure there is a stable detection of the target sticker and both eyes (i.e., no flicking)  
-- The participant's head should be at the centre of the tracking area
+- Participants should sit **comfortably** in the chair  
+- Participants' posture should be **straight** 
+- Participants should face the monitor. Their head should be at the centre of the tracking area.
+- Check the distance, ideally between **500 to 700 mm**. [check here to learn where to find the distance on Host PC](/handbook/eyetracker#know-the-eye tracker-computer)
+- There should be a **stable** detection of the target sticker and both eyes (i.e., no flicking)  
 - Check the volumes on the speaker to ensure it is not too loud or quiet.
 
 ### Adjust eye image thresholds
@@ -75,17 +74,19 @@ Once the illumination is adjusted, make sure the Corneal Reflection is properly 
 
 ## Special tips for infant participants
 
-As you can see above, properly setup eye tracker takes some time. Because infants have relatively short attention span, they might not give you enough time to setup eye tracker properly. To address these challenges, here are some tips for you to achieve high quality of eye tracking with infant participants.
+As evident from the previous discussion, setting up the eye tracker correctly requires a considerable amount of time. However, due to the limited attention span of infants, they may not provide enough time for a thorough eye tracker setup. To overcome these challenges and ensure a high-quality eye tracking experience with infant participants, the following tips are recommended:
 
-- Calm down. It is absolutely normal for infants to get distracted.
-- Setup eye tracker during the initial cartoon section. In our programs, we always include a cartoon playing at the beginning. The function of this cartoon is to help infants focus on the screen without moving too much. This is the golden period for you to setup eye tracker.
-- Fast calibration / validation. Quit counterintuitively, you should confirm fixations during calibration, validation, and drift-correction as fast as you can. Confirm fixations should be done IMMEDIATELY you see their gaze shifted to the new location. This is because infants usually quickly lose interest to the target when it showing up at the same location. They are likely to focus when target shifts its location. Thus, their first gazes after the target lcoation shifts are likely the most accurate and ideal. For a reference, you need to finish a 5-point calibration within 5 seconds.
+- ***Calm down***. It is absolutely normal for infants to get distracted at any point of a study.
+- Setup eye tracker during the initial ***cartoon section***. In our programs, we consistently incorporate a cartoon that plays at the start. The purpose of this cartoon is to assist infants in maintaining focus on the screen while minimizing excessive movement. This particular phase serves as a crucial window of opportunity for setting up the eye tracker accurately.
+- ***Fast calibration / validation***. Surprisingly, it is advisable to promptly confirm fixations during calibration, validation, and drift-correction. **As soon as you observe a shift in their gaze** to a new location, the confirmation of fixations should occur **IMMEDIATELY**. This is particularly important because infants tend to rapidly lose interest in a target that repeatedly appears at the same location. However, they are more likely to focus when the target appears in a new location. Therefore, their initial gazes following the shift in target location are typically the most accurate and ideal for calibration purposes. As a benchmark, it is recommended to complete a 5-point calibration within a time frame of 5 seconds.
 
-## Setup eye tracker
+## Calibrate eye tracker
 
-### Eye-tracker operation shortcuts
+Everyone's eyes are unique, and so is the approach to predicting their gaze. In order to attain this objective, the eye tracker must be properly **calibrated** before accurate tracking can take place. Consequently, calibration, validation, and drift-correction stand as the most crucial procedures for ensuring the success of eye tracking studies.
 
-When you're at the eye-tracker preparation screen (before experimental trials start).
+### Eye tracker operation shortcuts
+
+When you're at the eye tracker preparation screen (before experimental trials start).
 - ***C*** for Calibration
 - ***V*** for Validation
 - ***Return*** for confirming looking during calibration, validation & drift-correction.
@@ -93,7 +94,7 @@ When you're at the eye-tracker preparation screen (before experimental trials st
 
 ### Calibration 
 
-Lets the machine knows how to translate eye images into gaze coordinates on the screen
+Let the machine knows how to translate eye images into gaze coordinates on the screen
 
 1. Both eyes should be tracked (i.e., there should be green and blue crosses on both eyes) 
 2. When calibration starts, confirm fixation *IMMEDIATELY AFTER* the eyes move by pressing the Return key.  
@@ -134,33 +135,15 @@ Monitoring the tracking accuracy **amid** a study
 {% include oneImg.html url="assets/images/Host PC UI explanation/Slide4.png" caption = "Drift-correction UI" shortCap="" %}
 
 
-## Starting the Program 
-
-### for PsychoPy studies on Windows system
-- Open ***VSCode*** (u can put like a symbol here)
-- Open up your project folder with **File -> Open Recent...** function. 
-- Then, look for your project folder name.
-- Then bring up Terminal in VSCode with **View -> Terminal function.** You will see a Terminal panel appears at the bottom.
-- Use Up Arrow key to navigate to the specific file. Once found the file, press Enter/Return key to run the program
-- Now you will see a Welcome window showing up. The window lists several key information, such as participant ID. Note the ID down!! 
-- Click OK to start the program.
-
-### for MATLAB studies on Linux system
-- Open ***MATLAB*** from the Dock
-- In MATLAB, navigate to the program folder in the address bar
-- In the folder panel on the left-hand side, right-click the program file. Click ***Run*** in the pop-up menu to launch the program
-- Pay attention to the instructions in the ***Command Window*** at the bottom.
-
 ## Eye-Tracking skill checklist
-Go to this [page](/eyetracker/checklist) to test your understanding of eye-tracking.
+Go to this [page](/handbook/eyetracker/checklist) to test your understanding of eye-tracking.
 
 
-## Tutorials
+## Documents & Tutorials
 
-- <a href="https://mcmasteru365.sharepoint.com/:f:/r/sites/labtest/Shared%20Documents/Resources/EyeTracking/EyeLink%201000%20Plus%20Intro%20videos?csf=1&web=1&e=fiarbn" target="_blank">EyeLink Intro Videos</a>
-
-
-Please refer to the [EYELINK MANUAL](https://mcmasteru365.sharepoint.com/:b:/r/sites/labtest/Shared%20Documents/Resources/EyeTracking/EyeLink%20documents/EyeLink%20User%20Manuals/EyeLink%201000%20User%20Manual.pdf?csf=1&web=1&e=kj4Q1g) for more details. 
-
+- [EyeLink Manual](https://mcmasteru365.sharepoint.com/:b:/r/sites/labtest/Shared%20Documents/Resources/EyeTracking/EyeLink%20documents/EyeLink%20User%20Manuals/EyeLink%201000%20User%20Manual.pdf?csf=1&web=1&e=kj4Q1g){:target="_blank"}
+- [EyeLink Intro Videos](https://mcmasteru365.sharepoint.com/:f:/r/sites/labtest/Shared%20Documents/Resources/EyeTracking/EyeLink%201000%20Plus%20Intro%20videos?csf=1&web=1&e=fiarbn){:target="_blank"}
+- [EyeLink Program Examples](/handbook/researchSoftware#psychopy)
+- [EyeLink Program Operations](/handbook/eyetracker/operations)
 
 ## [FAQs](/handbook/eyetracking/FAQs)
