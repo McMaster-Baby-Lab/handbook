@@ -56,7 +56,7 @@ Things to check before starting the program for a study.
 - Participants should sit **comfortably** in the chair  
 - Participants' posture should be **straight** 
 - Participants should face the monitor. Their head should be at the centre of the tracking area.
-- Check the distance, ideally between **500 to 700 mm**. [check here to learn where to find the distance on Host PC](/handbook/eyetracker#know-the-eye tracker-computer)
+- Check the distance, ideally between **500 to 700 mm**. [You can find the distance on the eye tracker screen](#know-the-eye-tracker-computer)
 - There should be a **stable** detection of the target sticker and both eyes (i.e., no flicking)  
 - Check the volumes on the speaker to ensure it is not too loud or quiet.
 
@@ -146,4 +146,6 @@ Go to this [page](/handbook/eyetracker/checklist) to test your understanding of 
 - [EyeLink Program Examples](/handbook/researchSoftware#psychopy)
 - [EyeLink Program Operations](/handbook/eyetracker/operations)
 
-## [FAQs](/handbook/eyetracking/FAQs)
+## FAQs
+
+Still have questions about eye tracker? Check [here](/handbook/eyetracking/FAQs) to learn more.
