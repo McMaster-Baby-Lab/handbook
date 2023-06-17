@@ -80,6 +80,15 @@ As evident from the previous discussion, setting up the eye tracker correctly re
 - Setup eye tracker during the initial ***cartoon section***. In our programs, we consistently incorporate a cartoon that plays at the start. The purpose of this cartoon is to assist infants in maintaining focus on the screen while minimizing excessive movement. This particular phase serves as a crucial window of opportunity for setting up the eye tracker accurately.
 - ***Fast calibration / validation***. Surprisingly, it is advisable to promptly confirm fixations during calibration, validation, and drift-correction. **As soon as you observe a shift in their gaze** to a new location, the confirmation of fixations should occur **IMMEDIATELY**. This is particularly important because infants tend to rapidly lose interest in a target that repeatedly appears at the same location. However, they are more likely to focus when the target appears in a new location. Therefore, their initial gazes following the shift in target location are typically the most accurate and ideal for calibration purposes. As a benchmark, it is recommended to complete a 5-point calibration within a time frame of 5 seconds.
 
+{: .important }
+> Infants are unlikely to maintain their body position throughout the study. You, as an experimenter, should continuously monitor tracking status in your study. Specifically, you need to check the following items on the eye tracker screen ([check the **Preview area** in the screenshot here](#calibration)):
+> - if they are facing the monitor
+> - if their eyes can be stably tracked
+> - if their heads are at the center of tracking area
+> - if the viewing distance stays with in **500 to 700 mm**. If their viewing distance deviates much from the original distance, their eyes are likely become blurry.
+>
+> If any of the situations occures, you can either ask the parents to adjust baby's position (e.g., hold their baby) or adjust the monitor position accordingly. Again, calm down.
+
 ## Calibrate eye tracker
 
 Everyone's eyes are unique, and so is the approach to predicting their gaze. In order to attain this objective, the eye tracker must be properly **calibrated** before accurate tracking can take place. Consequently, calibration, validation, and drift-correction stand as the most crucial procedures for ensuring the success of eye tracking studies.
@@ -135,7 +144,7 @@ Monitoring the tracking accuracy **amid** a study
 {% include oneImg.html url="assets/images/Host PC UI explanation/Slide4.png" caption = "Drift-correction UI" shortCap="" %}
 
 
-## Eye-Tracking skill checklist
+## Eye-tracking skill checklist
 Go to this [page](/handbook/eyetracker/checklist) to test your understanding of eye-tracking.
 
 

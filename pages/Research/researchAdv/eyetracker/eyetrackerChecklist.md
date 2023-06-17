@@ -1,13 +1,13 @@
 ---
 layout: default
-title:  Eye-Tracking skill checklist
+title:  Eye-tracking skill checklist
 parent: Eye Tracker
 grand_parent: Device Specific Info
 nav_order: 1
 permalink: /eyetracker/checklist
 ---
 
-# Eye-Tracking skill checklist
+# Eye-tracking skill checklist
 {: .no_toc }
 
 ## Table of contents
