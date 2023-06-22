@@ -26,6 +26,10 @@ Our research relies heavily on computers. To a large extend, the ability to use 
 ## Learn and practice by yourself
 Though computer skills are so important in scientific research, it's nearly impossible to master them by taking classes or reading textbooks. After learning basic syntax, you should start practice with code examples. There are tons of them available online. Then, you can write your own scripts by using existing ones as templates. Learning computer languages is much easier than learning a natural language. In coding practices, you will receive instant feedback, which can be addictive.
 
+{: .important }
+> Like reading papers, reading other's program offers excellent opportunties to learn how to program. To enhance the learning process, it is recommended to question yourself about the purpose of each line or section of code. When encountering code that proves challenging to comprehend, it indicates an opportunity for further learning.
+> 
+> Don't copy others' script without asking why. You are responsible for the code under your name.
 
 ## Question driven approach
 The functions of any computer language are overwhelming. It is not possible or necessary to learn them all. Since our work is never about computer sciences, we should focus computer skills on addressing specific questions. This often require us to analyze our questions by breaking a big complex question into several operational steps. With these questions and possible solutions in mind, you will seek how to **translate** these question and solutions into computer scripts.
