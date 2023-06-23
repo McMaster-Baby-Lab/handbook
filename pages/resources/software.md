@@ -29,7 +29,6 @@ For Psychtoolbox templates to work with EyeLink eye tracker, here are some resou
 - [Psychtoolbox templates from SR-Research](https://mcmasteru365.sharepoint.com/:f:/r/sites/labtest/Shared%20Documents/Resources/EyeTracking/EyeLink%20Experiment%20Demos?csf=1&web=1&e=uhTCoC){:target="_blank"}
 - [Psychtoolbox templates from us](https://github.com/McMaster-Baby-Lab/reinstatedNarrowingbyEmotionalSounds){:target="_blank"}
 
-
 ### use Psychtoolbox with GUI
 - [opticka]('https://github.com/iandol/opticka')
 
