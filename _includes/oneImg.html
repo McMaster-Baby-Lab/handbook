@@ -1,6 +1,11 @@
 <figure>
-    <img class="babyImg" src="{{ include.url | relative_url }}"
-        alt="{{ include.shortCap }}" align="center">
+    <a class="lightbox-image gallery" href="{{ include.url | relative_url }}" title="{{ include.shortCap }}">
+        <img class="babyImg"
+            src="{{ include.url | relative_url }}" alt="{{ include.shortCap }}" title="{{ include.shortCap }}" align="center">
+        
+        </a>
+        <!-- <img class="babyImg" src="{{ include.url | relative_url }}"
+        alt="{{ include.shortCap }}" align="center"> -->
     <figcaption>{{ include.caption }}</figcaption>
 </figure>
 
@@ -13,7 +18,7 @@
 
 <style>
     .babyImg {
-        height: "480";
+        /* height: "480"; */
         padding: 5%
     }
 </style>

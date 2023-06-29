@@ -19,15 +19,15 @@ permalink: /OnLine
 ---
 
 ## Online studies
-1) Have AVAYA running (AVAYA IX (softphone)) to call parents/answer calls
+1. Have AVAYA running (AVAYA IX (softphone)) to call parents/answer calls
 
-2) Have Lab Calendar and email open to respond if the caregiver messages
+2. Have Lab Calendar and email open to respond if the caregiver messages
 
-3) Have the DRDB system open to reschedule if necessary
+3. Have the DRDB system open to reschedule if necessary
 
-4) If the parent does not enter the room in 5 min, call to check if they have problems accessing the link using AVAYA
+4. If the parent does not enter the room in 5 min, call to check if they have problems accessing the link using AVAYA
 
-5) Plan to set up the testing at least 10-15 minutes before the testing begins. This will provide enough time to:
+5. Plan to set up the testing at least 10-15 minutes before the testing begins. This will provide enough time to:
    * Ensure the program is running 
    * Verify your internet connection and battery
    * Locate the study weblink
@@ -37,9 +37,9 @@ permalink: /OnLine
    * Log into password-protected Zoom room
    * Check that your settings allow multiple people to share their screen in Zoom
  
-6) Open zoom and admit participants to the call
+6. Open zoom and admit participants to the call
 
-7) After admitting participants, welcome and greet them! 
+7. After admitting participants, welcome and greet them! 
 
 
 
@@ -102,7 +102,7 @@ Please do not request approval through Sona, just send an email with the forms.
 
 
 
-1.  Set up your study on SONA
+1. Set up your study on SONA
 
     - Please refer to the SONA guidelines to fill out the information.
     To get the correct link for your study, refer to this page to complete the setup: [Sona System](https://www.sona-systems.com/help/psychopy/)

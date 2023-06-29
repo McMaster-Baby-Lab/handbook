@@ -19,7 +19,7 @@ permalink: /nirs
 ---
 
 {: .warning}
-> You are our treasure. The best way to hurt yourself is to continuously look **DIRECTLY** sensors (when they emit red lights). DON'T.
+> You are our treasure. But the easiest way to hurt yourself is to stare at the sensors (when they emit red lights). DON'T.
 >
 > Also, fNIRS machine is ridculously expensive. The one we are using costed **half a million**. The best ways to break the sensor cables (THEY ARE OPTIC FIBRES) are to FOLD or TANGLE them. DON'T.
 
@@ -50,21 +50,20 @@ Here are a few strategies mitigating the impact of motion from infant participan
 ### Prepare the machine
 
 {: .important }
-> Laser switch needs warm-up for at least ***30-mins before any measure starts***.
+> The ***Laser*** switch needs warm-up for at least ***30-mins before any measure starts***.
+
 
 1. Turn on NIRS machine (see section 3-1 in <a href="https://mcmasteru365.sharepoint.com/:b:/r/sites/labtest/Shared%20Documents/Resources/fNIRS/HITACHI%20ETG4000/ETG4000_manual.pdf?csf=1&web=1&e=0CUxdf" target="_blank">ETG-4000 Operation Manual</a>)
     1. Make sure Power switch and Laser switch are set to OFF 
     2. Turn on Main switch at the back 
     3. Turn on Power switch in the front 
     4. Turn on Laser switch in the front 
-2. input participant information (ID, name, age, gender)
-    1. Check the NIRS cap 
-    2. Fibers should not be tangled 
-    3. Sensors are placed in the right holders 
-    4. Turn on the NIRS monitor camera (make sure dial is on camera mode and press the red button to start recording)
-3.	Test study program 
-    1. Run the study program to see if everything works well 
-    2. Adjust the volume, if necessary
+2. Prepare the recording cap
+    1. Check the sensor placement with the probe layout showing on the machine
+    2. Fibers should not be tangled
+3. Input participant information (ID, name, age, gender)
+4. Check camera
+    1. if the tap has been rewinded to the beginning
 
 ### NIRS machine parameters examination
 
@@ -80,13 +79,32 @@ The NIRS machine sometimes will reset its parameters to default setting, which w
     2. In the pop-up window **“Parameter”**, there is a dropped-down box at the top, named **“parameter Name”**
     3. In this drop-down box, select **“Infant VS preset”** and click Import button. 
 
-{% include imageGallery2.html folder="assets/images/fNIRSprocedure/fNIRSprocedure1" %}
+{% include imageGallery.html folder="assets/images/fNIRSprocedure" %}
 
-## Communicate with parents
+### Starting study program on the experiment computer
+- Open ***MATLAB*** from the Dock
+- In MATLAB, navigate to the program folder in the address bar
+- In the folder panel on the left-hand side, right-click the program file. Click ***Run*** in the pop-up menu to launch the program
+- Pay attention to the instructions in the ***Command Window*** at the bottom.
+
+## Typical procedures for NIRS study with infants
+### Placing the cap on the participant
+
+**E2:** 
+- Use a toy to distract the participant’s attention 
+- Bring the cap over the parent's shoulder
+- Collect the NIRS cap cables with the velcro on the cable belt 
+
+**E1:** 
+- Put the NIRS cap on the participant 
+- Make sure the cap is on the right spot and fasten the cap 
+
+
+### Communicate with parents
 - What is fNIRS and how does it help us understand the neural foundation of our cognitive abilities
 - What will they and their children (i.e., participants) experience during a study
 
-### Remind the parents
+### Remind the parents of the following items
 - Sit comfortably in the couch 
 - Do not speak to infants and remain silent in the study 
 - Do not shake their legs or tap infants in the study
@@ -96,9 +114,17 @@ The NIRS machine sometimes will reset its parameters to default setting, which w
 
 
 ## fNIRS training materials
-
 https://mcmasteru365.sharepoint.com/:f:/r/sites/labtest/Shared%20Documents/Resources/fNIRS?csf=1&web=1&e=gXydeW
 
+
+## Contents needed
+
+- [] screenshots to explain UIs
+- [] importance of checking the sensor placement before each studay starts
+- [] what is AutoGain?
+- [] how to accomendate different head sizes? Focus on the key channels. Identify the key channels in each study.
+- [] troubleshooting, camera failure, program crash etc.
+- [] setup camera
 <!-- [a link](/nirs/manual).
 
 [a link](/nirs/cameraprocedure).

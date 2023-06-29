@@ -43,18 +43,21 @@ Luckily, you can read all of the information from the eye tracker screen.
 >
 > When it comes to infant / child studies, you need to communicate the key factors above to the parents who are holding their kids in front of the screen. ***Let parents help you to achieve good tracking quality is very very important!*** 
 
+## Know the eye tracker computer
+
+{% include oneImg.html url="assets/images/Host PC UI explanation/Slide1.png" caption = "Main UI" shortCap="" %}
+
 ## Preparation tips
 
-### Preparation 
+### Initial setup 
 
 Things to check before starting the program for a study. 
 
-- Ensure participants are sitting comfortably in the chair  
-- Ensure their posture is straight 
-- Have them face the monitor
-- Check the distance, ideally between **500 to 700 mm**
-- Ensure there is a stable detection of the target sticker and both eyes (i.e., no flicking)  
-- The participant's head should be at the centre of the tracking area
+- Participants should sit **comfortably** in the chair  
+- Participants' posture should be **straight** 
+- Participants should face the monitor. Their head should be at the centre of the tracking area.
+- Check the distance, ideally between **500 to 700 mm**. [You can find the distance on the eye tracker screen](#know-the-eye-tracker-computer)
+- There should be a **stable** detection of the target sticker and both eyes (i.e., no flicking)  
 - Check the volumes on the speaker to ensure it is not too loud or quiet.
 
 ### Adjust eye image thresholds
@@ -69,19 +72,50 @@ Once the illumination is adjusted, make sure the Corneal Reflection is properly 
 
 {% include oneImg.html url="assets/images/eyetracking/Thresholds.JPG" caption = "" shortCap="" %} 
 
-## Setup eye tracker
+## Special tips for infant participants
+
+As evident from the previous discussion, setting up the eye tracker correctly requires a considerable amount of time. However, due to the limited attention span of infants, they may not provide enough time for a thorough eye tracker setup. To overcome these challenges and ensure a high-quality eye tracking experience with infant participants, the following tips are recommended:
+
+- ***Calm down***. It is absolutely normal for infants to get distracted at any point of a study.
+- Setup eye tracker during the initial ***cartoon section***. In our programs, we consistently incorporate a cartoon that plays at the start. The purpose of this cartoon is to assist infants in maintaining focus on the screen while minimizing excessive movement. This particular phase serves as a crucial window of opportunity for setting up the eye tracker accurately.
+- ***Fast calibration / validation***. Surprisingly, it is advisable to promptly confirm fixations during calibration, validation, and drift-correction. **As soon as you observe a shift in their gaze** to a new location, the confirmation of fixations should occur **IMMEDIATELY**. This is particularly important because infants tend to rapidly lose interest in a target that repeatedly appears at the same location. However, they are more likely to focus when the target appears in a new location. Therefore, their initial gazes following the shift in target location are typically the most accurate and ideal for calibration purposes. As a benchmark, it is recommended to complete a 5-point calibration within a time frame of 5 seconds.
+
+{: .important }
+> Infants are unlikely to maintain their body position throughout the study. You, as an experimenter, should continuously monitor tracking status in your study. Specifically, you need to check the following items on the eye tracker screen ([check the **Preview area** in the screenshot here](#calibration)):
+> - if they are facing the monitor
+> - if their eyes can be stably tracked
+> - if their heads are at the center of tracking area
+> - if the viewing distance stays with in **500 to 700 mm**. If their viewing distance deviates much from the original distance, their eyes are likely become blurry.
+>
+> If any of the situations occures, you can either ask the parents to adjust baby's position (e.g., hold their baby) or adjust the monitor position accordingly. Again, calm down.
+
+## Calibrate eye tracker
+
+Everyone's eyes are unique, and so is the approach to predicting their gaze. In order to attain this objective, the eye tracker must be properly **calibrated** before accurate tracking can take place. Consequently, calibration, validation, and drift-correction stand as the most crucial procedures for ensuring the success of eye tracking studies.
+
+### Eye tracker operation shortcuts
+
+When you're at the eye tracker preparation screen (before experimental trials start).
+- ***C*** for Calibration
+- ***V*** for Validation
+- ***Return*** for confirming looking during calibration, validation & drift-correction.
+- ***O*** for starting experimental trials
 
 ### Calibration 
 
-Lets the machine knows how to translate eye images into gaze coordinates on the screen
+Let the machine knows how to translate eye images into gaze coordinates on the screen
 
 1. Both eyes should be tracked (i.e., there should be green and blue crosses on both eyes) 
 2. When calibration starts, confirm fixation *IMMEDIATELY AFTER* the eyes move by pressing the Return key.  
 3. Valid key pressing during calibration will make the target appears in another location 
 4. Press again if a key pressing calibration is not valid 
-5. At the end of calibration, the looking pattern indicated by the green and blue crosses should match the layout of calibration target on the screen.  If not, restart the calibration.  
+5. At the end of calibration, the looking pattern indicated by the green and blue crosses should match the layout of calibration target on the screen.  If not, restart the calibration.
 
-{% include oneImg.html url="assets/images/eyetracking/Calib2.JPG" caption = "" shortCap="" %} 
+{% include oneImg.html url="assets/images/Host PC UI explanation/Slide2.png" caption = "Calibration UI" shortCap="" %}
+
+
+{% include oneImg.html url="assets/images/eyetracking/Calib2.JPG" caption = "" shortCap="" %}
+
 
 ### Validation
 
@@ -95,6 +129,8 @@ Verifies the accuracy of calibration
 - If not, either redo the calibration (when participants looked very attentively during validation) 
 - Or redo the validation, if participants move their bodies during the validation
 
+{% include oneImg.html url="assets/images/Host PC UI explanation/Slide3.png" caption = "Validation UI" shortCap="" %}
+
 
 ### Drift Correction 
 
@@ -105,70 +141,20 @@ Monitoring the tracking accuracy **amid** a study
 - An accurate drift correction will allow the study to continue 
 - If the error is too large (i.e., long white lines), we need to redo calibration & validation 
 
-### Eye-tracker operation short-cuts
-
-When you're at the eye-tracker preparation screen (before experimental trials start).
-- ***C*** for Calibration
-- ***V*** for Validation
-- ***Return*** for confirming looking during calibration, validation & drift-correction.
-- ***O*** for starting experimental trials
+{% include oneImg.html url="assets/images/Host PC UI explanation/Slide4.png" caption = "Drift-correction UI" shortCap="" %}
 
 
-## Starting the Program 
-
-### for PsychoPy studies on Windows system
-- Open ***VSCode*** (u can put like a symbol here)
-- Open up your project folder with **File -> Open Recent...** function. 
-- Then, look for your project folder name.
-- Then bring up Terminal in VSCode with **View -> Terminal function.** You will see a Terminal panel appears at the bottom.
-- Use Up Arrow key to navigate to the specific file. Once found the file, press Enter/Return key to run the program
-- Now you will see a Welcome window showing up. The window lists several key information, such as participant ID. Note the ID down!! 
-- Click OK to start the program.
-
-### for MATLAB studies on Linux system
-- Open ***MATLAB*** from the Dock
-- In MATLAB, navigate to the program folder in the address bar
-- In the folder panel on the left-hand side, right-click the program file. Click ***Run*** in the pop-up menu to launch the program
-- Pay attention to the instructions in the ***Command Window*** at the bottom.
+## Eye-tracking skill checklist
+Go to this [page](/handbook/eyetracker/checklist) to test your understanding of eye-tracking.
 
 
-## Eye-tracker operation short-cuts
+## Documents & Tutorials
 
-When you're at the eye-tracker preparation screen (before experimental trials start).
-- ***C*** for Calibration
-- ***V*** for Validation
-- ***Return*** for confirming looking during calibration, validation & drift-correction.
-- ***O*** for starting experimental trials
-
-## Eye-Tracker Skills Checklist
-Please ensure that you are comfortable performing all of the following skills before running an experiement using the eye-tracker. 
-
-### Concept
-
-- [ ] Can introduce eye-tracker to participants in general language
-- [ ] Can identify the 3 major factors affecting tracking quality: distance, siting position, & in-focus
-
-### Operation
-
-- [ ] Can adjust viewing distance, head position (within tracking area), camera focus, image thresholds.
-- [ ] Can perform calibration, validation, and drift-correction
-- [ ] Can interpret the results of calibration, validation, and drift-correction, and decide if a retry is necessary
-
-### Troubleshooting
-- [ ] Can identify issues based on the tracking data (viewing distance, eye image quality, etc) and do adjustments accordingly
-- [ ] Can handle software crashes
-- [ ] Can handle scenarios, in which infant participants become inattentive or fussy
-
-
-
-## Tutorials
-
-- <a href="https://mcmasteru365.sharepoint.com/:f:/r/sites/labtest/Shared%20Documents/Resources/EyeTracking/EyeLink%201000%20Plus%20Intro%20videos?csf=1&web=1&e=fiarbn" target="_blank">EyeLink Intro Videos</a>
-
-
-Please refer to the [EYELINK MANUAL](https://mcmasteru365.sharepoint.com/:b:/r/sites/labtest/Shared%20Documents/Resources/EyeTracking/EyeLink%20documents/EyeLink%20User%20Manuals/EyeLink%201000%20User%20Manual.pdf?csf=1&web=1&e=kj4Q1g) for more details. 
-
+- [EyeLink Manual](https://mcmasteru365.sharepoint.com/:b:/r/sites/labtest/Shared%20Documents/Resources/EyeTracking/EyeLink%20documents/EyeLink%20User%20Manuals/EyeLink%201000%20User%20Manual.pdf?csf=1&web=1&e=kj4Q1g){:target="_blank"}
+- [EyeLink Intro Videos](https://mcmasteru365.sharepoint.com/:f:/r/sites/labtest/Shared%20Documents/Resources/EyeTracking/EyeLink%201000%20Plus%20Intro%20videos?csf=1&web=1&e=fiarbn){:target="_blank"}
+- [EyeLink Program Examples](/handbook/researchSoftware#psychopy)
+- [EyeLink Program Operations](/handbook/eyetracker/operations)
 
 ## FAQs
 
-[FAQs](/eyetracking/FAQs).
+Still have questions about eye tracker? Check [here](/handbook/eyetracking/FAQs) to learn more.

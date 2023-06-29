@@ -19,11 +19,17 @@ permalink: /researchSoftware
 
 ## Stimuli presentation / control software
 ### PsychoPy
-For PsychoPy templates to work with EyeLink eye tracker, here are some resources: [PsychoPy templates from us](https://github.com/McMaster-Baby-Lab/PsychoPy_EyeLink_Templates){:target="_blank"} & [PsychoPy templates from SR-Research](https://www.sr-research.com/support/thread-7525.html){:target="_blank"}
+For PsychoPy templates to work with EyeLink eye tracker, here are some resources: 
+- [PsychoPy templates from us](https://github.com/McMaster-Baby-Lab/PsychoPy_EyeLink_Templates){:target="_blank"}
+- [PsychoPy templates from SR-Research](https://www.sr-research.com/support/thread-7525.html){:target="_blank"}
 
 ### Psychotoolbox with MATLAB
+For Psychtoolbox templates to work with EyeLink eye tracker, here are some resources
+- [Psychtoolbox demos by Scarfe Lab](https://peterscarfe.com/ptbtutorials.html){:target="_blank"}
+- [Psychtoolbox templates from SR-Research](https://mcmasteru365.sharepoint.com/:f:/r/sites/labtest/Shared%20Documents/Resources/EyeTracking/EyeLink%20Experiment%20Demos?csf=1&web=1&e=uhTCoC){:target="_blank"}
+- [Psychtoolbox templates from us](https://github.com/McMaster-Baby-Lab/reinstatedNarrowingbyEmotionalSounds){:target="_blank"}
 
-#### use Psychtoolbox with GUI
+### use Psychtoolbox with GUI
 - [opticka]('https://github.com/iandol/opticka')
 
 
