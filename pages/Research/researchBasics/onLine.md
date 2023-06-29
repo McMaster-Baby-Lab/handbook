@@ -132,17 +132,6 @@ Please do not request approval through Sona, just send an email with the forms.
 
 - Next, verify that their device is charging during the study. 
 
-### **Other Important Things to Mention**
-
-**Screen Sharing**
-- Ensure that when the parent shares their screen you also request that they **share sound**. 
-- Guide the parent through hiding the video panel and hiding the floating meeting controls. 
-
-**Positioning the Baby**
-- Tell the parent to try to centre the baby's face on the screen 
-- The parent should be sitting behind the baby, when the parent sits beside it is often a distraction for the baby during the study. 
-- Inform the parent that if the baby moves or loses attention they can reposition the baby but ask them to please avoid pointing at the screen as it directs the baby's attention to a specific side and interferes with what they would look at naturally. 
-- We just want to see how the baby reacts, parents are not required to do anything or guide the baby during the session. 
 
 ### **Post-Testing**
 
@@ -185,6 +174,18 @@ Please do not request approval through Sona, just send an email with the forms.
 - Next, verify that their device is charging during the study. 
 
 - Ask them to create a distraction-free environment: Since we are studying baby’s visual attention to faces. We want to create a distraction-free environment. So please move all toys or attractive objects that might divert the Baby's attention on your table, on the computer screen etc. Such as  stickers, or toys. Please minimize pets and other people walking into and out of the room if possible. 
+
+### **Other Important Things to Mention**
+
+**Screen Sharing**
+- Ensure that when the parent shares their screen you also request that they **share sound**. 
+- Guide the parent through hiding the video panel and hiding the floating meeting controls. 
+
+**Positioning the Baby**
+- Tell the parent to try to centre the baby's face on the screen 
+- The parent should be sitting behind the baby, when the parent sits beside it is often a distraction for the baby during the study. 
+- Inform the parent that if the baby moves or loses attention they can reposition the baby but ask them to please avoid pointing at the screen as it directs the baby's attention to a specific side and interferes with what they would look at naturally. 
+- We just want to see how the baby reacts, parents are not required to do anything or guide the baby during the session. 
 
 
 ### **Post-Testing**
