@@ -39,5 +39,14 @@ Screen(‘CloseAll’);
 - Screen refresh rate: 144 Hz
 
 ### Sounds
-- Set all sound files with the same sample rate and number of channels
+- Set all sound files with the same sample rate (e.g., 48k) and number of channels (2)
 - [sound device matters](https://psychtoolbox.discourse.group/t/psychportaudio-only-lets-me-use-sampling-frequency-48000/4464/2?u=dbneg){:target="_blank"}
+
+### When sound video stimuli are included in the experiment
+- save the videos in silent video (.mp4) and sound (.wav) files
+- choose **MPEG-4** as video codec
+- choose **48000Hz** as audio sample rate
+- write code to play the video and audio together
+- this approach has two advantages:
+    - freely manipulate the temperal congruency between audio and visual signals
+    - avoid interference between sound play and movie play in Psychtoolbox (2023.07). [check here for more details](https://psychtoolbox.discourse.group/t/audio-device-disappeared-after-movie-playback/5005/4){:target="_blank"}
