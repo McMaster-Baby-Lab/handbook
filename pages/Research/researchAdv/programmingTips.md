@@ -30,22 +30,42 @@ Screen('OpenWindow', screenNumber, gray, [0, 0, scrWidth/2, scrHeight/2);
 
 ## Quit and Close a Psychtoolbox program
 ```matlab
-Screen(‘CloseAll’);
+Screen('CloseAll');
+```
+
+## Stimuli preparation
+### Images
+- Set a reasonable size of images presented in a study (e.g., 600px height).
+- Choose `.png` format for images with transparent areas. Otherwise, `.jpg` is good enough.
+
+
+### Audio files
+- Set all sound files with the same sample rate (e.g., 48k) and number of channels (2)
+- Choose **48000Hz** as audio sample rate
+
+### Videos
+- Set a reasonable size of video stimuli (e.g., 600px height).
+- Choose the right video codec. Currently, the reliable option is **MPEG-4**
+- Keep a reasonable large bitrate (> 2M).
+- Frame rate should be 60Hz or 120Hz.
+- Prepare video stimuli with **ffmpeg**. Here is a sample code (running it in Terminal):
+
+```shell
+for FILE in *mp4;
+    do ffmpeg -i $FILE -vf fps=120, scale=600:-1 -c:v mpeg4 -b:v 3M -an "${FILE/.mp4/"_resized.mp4"}";
+done
 ```
 
 ## Stimuli presentation
 
 ### Visual
-- Screen refresh rate: 144 Hz
+- Screen refresh rate: 144 Hz or the frame rate matches that of video stimuli
 
 ### Sounds
-- Set all sound files with the same sample rate (e.g., 48k) and number of channels (2)
 - [sound device matters](https://psychtoolbox.discourse.group/t/psychportaudio-only-lets-me-use-sampling-frequency-48000/4464/2?u=dbneg){:target="_blank"}
 
 ### When sound video stimuli are included in the experiment
 - save the videos in silent video (.mp4) and sound (.wav) files
-- choose **MPEG-4** as video codec
-- choose **48000Hz** as audio sample rate
 - write code to play the video and audio together
 - this approach has two advantages:
     - freely manipulate the temperal congruency between audio and visual signals
