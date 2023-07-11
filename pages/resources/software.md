@@ -30,7 +30,7 @@ For Psychtoolbox templates to work with EyeLink eye tracker, here are some resou
 - [Psychtoolbox templates from us](https://github.com/McMaster-Baby-Lab/reinstatedNarrowingbyEmotionalSounds){:target="_blank"}
 
 ### use Psychtoolbox with GUI
-- [opticka]('https://github.com/iandol/opticka')
+- [opticka]('https://github.com/iandol/opticka'){:target="_blank"}
 
 
 ## Data analyses software
@@ -38,6 +38,9 @@ For Psychtoolbox templates to work with EyeLink eye tracker, here are some resou
 ### HOMER3
 ### iTemplate
 ### R
+
+[A list of R learning resources by APS](https://www.psychologicalscience.org/observer/learning-to-work-with-r){:target="_blank"}
+
 
 ## Other research software
 ### ADOBE Creative Cloud

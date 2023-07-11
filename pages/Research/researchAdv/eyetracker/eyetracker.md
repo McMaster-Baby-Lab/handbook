@@ -155,6 +155,10 @@ Go to this [page](/handbook/eyetracker/checklist) to test your understanding of 
 - [EyeLink Program Examples](/handbook/researchSoftware#psychopy)
 - [EyeLink Program Operations](/handbook/eyetracker/operations)
 
+### A short video tutorial
+<!-- {% include video.html url="assets/videos/EyeLinkwInfant.mp4" %} -->
+{% include youtube.html id="WfWngxpOEQg" %}
+
 ## FAQs
 
 Still have questions about eye tracker? Check [here](/handbook/eyetracking/FAQs) to learn more.
