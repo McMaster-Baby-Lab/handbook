@@ -69,7 +69,7 @@ Lab members can only edit their own info. Only Admin and Lab Manager roles can m
 
 **Demo**
 
-<img src="assets/videos/updateinfo.gif" alt="updateinfo">
+<img src="../../../assets/videos/updateinfo.gif" alt="updateinfo">
 
 ## View Lab Members/See assigned studies
 
