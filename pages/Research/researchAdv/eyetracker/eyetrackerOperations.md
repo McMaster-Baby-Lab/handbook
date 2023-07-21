@@ -36,7 +36,7 @@ octave faceDetection_Octave.m
 ```
 ### a video demo
 
-<img src="assets/videos/octaveDemo.gif" alt="octaveDemo">
+<img src="{{ site.baseurl }}/assets/videos/octaveDemo.gif" alt="octaveDemo">
 
 
 ## Eye-tracker operation shortcuts
