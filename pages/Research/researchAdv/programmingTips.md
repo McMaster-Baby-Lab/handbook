@@ -61,6 +61,46 @@ done
 ### Visual
 - Screen refresh rate: 144 Hz or the frame rate matches that of video stimuli
 
+### Movie
+Our movie stimuli usually have much slower frame rate than monitor. When playing movies, psychtoolbox would hold the current frame until the next movie frame is available. In other words, the screen refresh rate would be much slower during movie presentation. It would cause unstable and slower frame rate, which are crucial for time sensitive manipulations, such as gaze-contingent design.
+
+To solve this issue, we just need to update the code allowing flip frame regardless of the availability of a new movie frame. This method is described in detail [here](https://psychtoolbox.discourse.group/t/simultaneous-movie-and-image-presentation/4313/2?u=dbneg).
+
+And here is an example we use:
+```matlab
+    buffertex=[];
+    while KeyCode(nextKey)==0
+        [KeyIsDown, KeyTime, KeyCode]=KbCheck;
+
+        % Wait for next movie frame, retrieve texture handle to it
+        tex = Screen('GetMovieImage', w, movieRest);
+
+        % Valid texture returned? A negative value means end of movie reached:
+        if tex > 0
+            if ~isempty(buffertex) && ...
+                buffertex > 0 && ...
+                buffertex ~= tex && Screen(buffertex, 'WindowKind') == -1
+
+                try Screen('Close', buffertex); end
+                buffertex=[]; 
+
+            end
+            
+            % Draw the new texture immediately to screen:
+            Screen('DrawTexture', w, tex);
+            Screen('Close', tex);
+            buffertex = tex; %copy new texture to buffer
+
+        elseif buffertex > 0
+            Screen('DrawTexture', w, buffertex);
+            Screen('Close', buffertex);
+        end
+
+        Screen('Flip', w, [], 2, 2);
+
+    end
+```
+
 ### Sounds
 - We should open the audio device only **once** at the beginning of the program and use it as global variable through out the program. We only close it at the very end of the program.
 
