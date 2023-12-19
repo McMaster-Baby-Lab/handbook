@@ -1,0 +1,50 @@
+<html>
+
+<body>
+    <div id="vis3"></div>
+
+    <script type="text/javascript">
+        var yourVlSpec3 = {
+
+
+            "width": 400,
+            "height": 250,
+            "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+            "data": {
+                "url": "assets/scheduleStatus.csv"
+            },
+            "config": {
+                "title": {
+                    "fontSize": 16
+                },
+                "axis": {
+                    "domain": false,
+                    "labelFontSize": 12,
+                    "titleFontSize": 14
+                },
+                "headerFacet": {
+                    "titleFontSize": 14,
+                    "labelFontSize": 14
+                }
+            },
+            "title": "Recruitment status proportions",
+            "mark": { "type": "arc", "innerRadius": 50, "tooltip": true },
+            "encoding": {
+                "theta": { "field": "NumberOfParticipants", "type": "quantitative" },
+                "color": { "field": "Status", "type": "nominal", "scale": { "scheme": "tableau10" } },
+                "facet": {
+                    "field": "labName",
+                    "type": "nominal",
+                    "title": "Status",
+                    "sort": ['Confirmed', 'TBD', 'Rescheduling', 'No Show', 'Cancelled', 'Rejected'],
+                    "columns": 2
+                },
+            }
+        };
+
+        vegaEmbed('#vis3', yourVlSpec3);
+
+    </script>
+</body>
+
+</html>

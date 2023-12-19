@@ -24,3 +24,6 @@ The subsequent figures present a summarized overview of our infant and child stu
 
 ## Over the years, we are getting buiser
 {% include charts/monthYearWeekdayHeatMap.html %}
+
+## More to learn from other labs?
+{% include charts/scheduleStatusPie.html %}
