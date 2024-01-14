@@ -60,7 +60,7 @@ Everyone needs to share their availability with the lab calendar, so that others
 - After you have created events for all the times you are UNavailable to run studies, click on the three dots next to this calendar on the left 'My calendars' toolbar, and click 'Settings and sharing.' 
 - Under 'Share with specific people', share the calendar with babylab@mcmaster.ca, macbabylab@gmail.com or the primary researcher on your study.
 
-## Lab Calendar
+### Lab Calendar
 
 You will need access to the lab google calendar in order to see the most updated appointment schedule. While the Outlook calendar will show appointments there is a large time delay in the appointments appearing on the calendar. 
 
