@@ -1,0 +1,69 @@
+<html>
+
+<body>
+    <div id="vis"></div>
+
+    <script type="text/javascript">
+        var yourVlSpec = {
+
+            "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+            "data": {
+                "url": "assets/monthWeekN.csv"
+            },
+            "title": "Number of participants throughout the years",
+            "config": {
+                "view": {
+                    "strokeWidth": 0,
+                    "step": 40
+                },
+                "title": {
+                    "fontSize": 16
+                },
+                "axis": {
+                    "domain": false,
+                    "labelFontSize": 12,
+                    "titleFontSize": 14
+                }
+            },
+            "mark": {
+                "type": "rect",
+                "stroke": "#353535"
+            },
+            "encoding": {
+                "y": {
+                    "field": "month",
+                    "type": "ordinal",
+                    "title": "Month",
+                    "sort": ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'],
+                    "axis": {
+                        "labelAngle": 0,
+                    }
+                },
+                "x": {
+                    "field": "weekday",
+                    "type": "ordinal",
+                    "title": "Weekday",
+                    "sort": ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'],
+                    "axis": {
+                        "labelAngle": 0,
+                    }
+                },
+                "color": {
+                    "field": "NumberOfParticipants",
+                    "scale": { "scheme": "lighttealblue" },
+                    "aggregate": "max",
+                    "type": "quantitative",
+                    "legend": {
+                        "title": null
+                    },
+                }
+            }
+
+        };
+
+        vegaEmbed('#vis', yourVlSpec);
+
+    </script>
+</body>
+
+</html>

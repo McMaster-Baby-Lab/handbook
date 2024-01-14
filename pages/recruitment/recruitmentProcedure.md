@@ -66,7 +66,7 @@ There are several possible outcomes when calling a family. Follow the path for e
 
 **Demo**
 
-<img src="assets/videos/ScheduleStudy.gif" alt="Schedule Study">
+<img src="{{ site.baseurl }}/assets/videos/ScheduleStudy.gif" alt="Schedule Study">
 
 
 
@@ -95,7 +95,7 @@ There are several possible outcomes when calling a family. Follow the path for e
 
 **Demo**
 
-<img src="assets/videos/Interested.gif" alt="Interested">
+<img src="{{ site.baseurl }}/assets/videos/Interested.gif" alt="Interested">
 
 
 ### No answer on the phone
@@ -112,7 +112,7 @@ If the family does not answer your phone call, leave them a voicemail and send a
 
 **Demo**
 
-<img src="assets/videos/nocall.gif" alt="nocall">
+<img src="{{ site.baseurl }}/assets/videos/nocall.gif" alt="nocall">
 
 
 
@@ -128,7 +128,7 @@ If **uninterested** ask if they would like to be kept in the database and potent
 
 **Demo**
 
-<img src="assets/videos/saidno.gif" alt="saidno">
+<img src="{{ site.baseurl }}/assets/videos/saidno.gif" alt="saidno">
 
 
 

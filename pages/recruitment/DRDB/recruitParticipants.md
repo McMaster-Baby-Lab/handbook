@@ -130,7 +130,7 @@ Researchers can check all study appointments through the *Study Apppointments* p
 
 **Demo**
 
-<img src="assets/videos/studyappt.gif" alt="studyappt">
+<img src="{{ site.baseurl }}/assets/videos/studyappt.gif" alt="studyappt">
 
 
 ## Update existing schedule/appointment

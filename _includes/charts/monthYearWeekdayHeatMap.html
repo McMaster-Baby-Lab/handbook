@@ -1,0 +1,79 @@
+<html>
+
+<body>
+    <div id="vis2"></div>
+
+    <script type="text/javascript">
+        var yourVlSpec2 = {
+
+            "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+            "data": {
+                "url": "assets/monthYearWeekN.csv"
+            },
+            "title": "Number of participants throughout the years",
+            "config": {
+                "view": {
+                    "strokeWidth": 0,
+                    "step": 30
+                },
+                "title": {
+                    "fontSize": 16
+                },
+                "axis": {
+                    "domain": false,
+                    "labelFontSize": 12,
+                    "titleFontSize": 14
+                },
+                "headerFacet": {
+                    "titleFontSize": 14,
+                    "labelFontSize": 14
+                }
+            },
+            "mark": {
+                "type": "rect",
+                "stroke": "#353535"
+            },
+            "encoding": {
+                "y": {
+                    "field": "month",
+                    "type": "ordinal",
+                    "title": "Month",
+                    "sort": ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'],
+                    "axis": {
+                        "labelAngle": 0,
+                    }
+                },
+                "x": {
+                    "field": "weekday",
+                    "type": "ordinal",
+                    "title": "Weekday",
+                    "sort": ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'],
+                    "axis": {
+                        "labelAngle": 0,
+                    }
+                },
+                "facet": {
+                    "field": "year",
+                    "columns": 4,
+                    "type": "ordinal",
+                    "title": "Year"
+                },
+                "color": {
+                    "field": "NumberOfParticipants",
+                    "scale": { "scheme": "lighttealblue" },
+                    "aggregate": "max",
+                    "type": "quantitative",
+                    "legend": {
+                        "title": null
+                    }
+                }
+
+            }
+        };
+
+        vegaEmbed('#vis2', yourVlSpec2);
+
+    </script>
+</body>
+
+</html>

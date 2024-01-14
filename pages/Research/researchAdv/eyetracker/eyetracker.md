@@ -147,13 +147,18 @@ Monitoring the tracking accuracy **amid** a study
 ## Eye-tracking skill checklist
 Go to this [page](/handbook/eyetracker/checklist) to test your understanding of eye-tracking.
 
+## How to run an eye-tracking study
+- Go to this [page](/handbook/eyetracker/operations) to learn a step-by-step guide.
 
 ## Documents & Tutorials
 
 - [EyeLink Manual](https://mcmasteru365.sharepoint.com/:b:/r/sites/labtest/Shared%20Documents/Resources/EyeTracking/EyeLink%20documents/EyeLink%20User%20Manuals/EyeLink%201000%20User%20Manual.pdf?csf=1&web=1&e=kj4Q1g){:target="_blank"}
 - [EyeLink Intro Videos](https://mcmasteru365.sharepoint.com/:f:/r/sites/labtest/Shared%20Documents/Resources/EyeTracking/EyeLink%201000%20Plus%20Intro%20videos?csf=1&web=1&e=fiarbn){:target="_blank"}
 - [EyeLink Program Examples](/handbook/researchSoftware#psychopy)
-- [EyeLink Program Operations](/handbook/eyetracker/operations)
+
+### A short video tutorial
+<!-- {% include video.html url="assets/videos/EyeLinkwInfant.mp4" %} -->
+{% include youtube.html id="WfWngxpOEQg" %}
 
 ## FAQs
 

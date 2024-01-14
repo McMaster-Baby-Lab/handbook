@@ -1,0 +1,78 @@
+<html>
+
+<body>
+    <div id="vis2"></div>
+
+    <script type="text/javascript">
+        var yourVlSpec2 = {
+
+            "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+            "data": {
+                "url": "assets/monthDayHourN.csv"
+            },
+            "title": "Number of infant/child participants by hour in 2023",
+            "config": {
+                "view": {
+                    "strokeWidth": 0,
+                    "step": 30
+                },
+                "title": {
+                    "fontSize": 16
+                },
+                "axis": {
+                    "domain": false,
+                    "labelFontSize": 12,
+                    "titleFontSize": 14
+                },
+                "headerFacet": {
+                    "titleFontSize": 14,
+                    "labelFontSize": 14
+                }
+            },
+            "mark": {
+                "type": "rect",
+                "stroke": "#353535"
+            },
+            "encoding": {
+                "facet": {
+                    "field": "month",
+                    "type": "ordinal",
+                    "title": "Month",
+                    "sort": ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'],
+                    "columns": 4
+
+                },
+                "x": {
+                    "field": "weekday",
+                    "type": "ordinal",
+                    "title": "Weekday",
+                    "sort": ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'],
+                    "axis": {
+                        "labelAngle": 0,
+                    }
+                },
+                "y": {
+                    "field": "hour",
+                    "type": "ordinal",
+                    "title": "Hour",
+                    "sort": ['9','10','11','12','13','14','15','16','17','18','19','20','21'],
+                },
+                "color": {
+                    "field": "numberOfVisit",
+                    "scale": { "scheme": "lighttealblue" },
+                    "aggregate": "mean",
+                    "type": "quantitative",
+                    "legend": {
+                        "title": null
+                    }
+                }
+
+            }
+        };
+
+        vegaEmbed('#vis2', yourVlSpec2);
+
+    </script>
+</body>
+
+</html>

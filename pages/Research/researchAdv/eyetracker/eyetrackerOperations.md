@@ -17,7 +17,7 @@ permalink: /eyetracker/operations
 {:toc}
 
 ## for PsychoPy studies on Windows system
-- Open ***VSCode*** (u can put like a symbol here)
+- Open ***Visual Studio Code*** (u can put like a symbol here)
 - Open up your project folder with **File -> Open Recent...** function. 
 - Then, look for your project folder name.
 - Then bring up Terminal in VSCode with **View -> Terminal function.** You will see a Terminal panel appears at the bottom.
@@ -25,11 +25,19 @@ permalink: /eyetracker/operations
 - Now you will see a Welcome window showing up. The window lists several key information, such as participant ID. Note the ID down!! 
 - Click OK to start the program.
 
-## for MATLAB studies on Linux system
-- Open ***MATLAB*** from the Dock
-- In MATLAB, navigate to the program folder in the address bar
-- In the folder panel on the left-hand side, right-click the program file. Click ***Run*** in the pop-up menu to launch the program
-- Pay attention to the instructions in the ***Command Window*** at the bottom.
+## for Psychtoolbox studies on Linux system
+- Open ***Visual Studio Code*** from the Dock
+- Open up your project folder with **File -> Open Recent...** function. Look for your project folder name.
+- Right click the program file (e.g., ***_Octave.m), and choose ***Open in Integrated Terminal*** in the pop-up menu.
+- In the Terminal window, type `octave` followed by your program file name (e.g., ***_Octave.m), then press return.
+
+```bash
+octave faceDetection_Octave.m
+```
+### a video demo
+
+<img src="{{ site.baseurl }}/assets/videos/octaveDemo.gif" alt="octaveDemo">
+
 
 ## Eye-tracker operation shortcuts
 
