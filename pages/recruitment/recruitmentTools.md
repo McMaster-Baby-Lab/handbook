@@ -49,20 +49,28 @@ For numbers from other areas (e.g., 647):
 - Reply to messages relevant to your study
 	 - Important to check this frequently and consistently because families are busy with school and other activities but might be interested in participating so it's important to get back to them
 
-### Lab Email & Calendar
+### Lab Email
 
     Account: babylab@mcmaster.ca
 
 Everyone needs to share their availability with the lab calendar, so that others will know when a researcher is available to run studies.
 
-If you are new to the lab, please create a Google Calendar with your McMaster email address, and create events in the calendar for the typical times during the week that you are NOT available to run studies.
 - To create a new calendar, go to Outlook Calendar, click the + next to 'Other calendars' on the left side of the screen, and create a calendar.
 - Rename this calendar with your own name. 
-- After you have created events for all the times you are unavailable to run studies, click on the three dots next to this calendar on the left 'My calendars' toolbar, and click 'Settings and sharing.' 
+- After you have created events for all the times you are UNavailable to run studies, click on the three dots next to this calendar on the left 'My calendars' toolbar, and click 'Settings and sharing.' 
 - Under 'Share with specific people', share the calendar with babylab@mcmaster.ca, macbabylab@gmail.com or the primary researcher on your study.
+
+## Lab Calendar
+
+You will need access to the lab google calendar in order to see the most updated appointment schedule. While the Outlook calendar will show appointments there is a large time delay in the appointments appearing on the calendar. 
+
+To gain access to the lab google calendar, email Emma at resendee@mcmaster.ca with the subject line Baby Lab Google Calendar Access. 
+
+This calendar will show all appointments and available times to schedule participants. 
 
 **Booking Test Slots**
 - Typical week: each project should create no more than 8 tentative slots in the lab calendar (not your shared calendar)
+	Anytime you offer an appointment time to a family, you need to block off this time in the lab calendar so no one else schedules an appointment during that time while you are waiting for the family to respond. 
 	name the event: TENTATIVE + the study name
 	i.e. TENTATIVE + Face Detection and include the technology used in the notes
 - Input tentative slots into the lab calendar a week in advance

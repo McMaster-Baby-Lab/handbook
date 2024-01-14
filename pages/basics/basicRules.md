@@ -28,12 +28,12 @@ permalink: /rules
 
 - Lab passcodes can be accessed here: [Lab Passcodes](https://mcmasteru365.sharepoint.com/:w:/r/sites/labtest/Shared%20Documents/Document.docx?d=wc837cf74eba147a0bfd67fba5c507f4e&csf=1&web=1&e=evf5Cc). Please do not share these passwords with anyone. 
 
-## In-Person Research & Lab Shifts
+## In-Person Research 
 
-- It is expected that you are **on time for your shifts** - please feel free to come 15-20 minutes early if you need time to set up before meeting a family.
+- It is expected that you are **on time for your study appointments** - please feel free to come 15-20 minutes early if you need time to set up before meeting a family.
 
-- Familiarize yourself with your schedule and what dates/times you are expected to be in the lab. Our current lab schedule can be found here: Lab Schedule (Shifts)
-   - If you are unable to attend your shift, please reach out to others working at the same time as you to coordinate them covering for you. This is especially important if you are planning to meet a family during your scheduled shift.
+- Familiarize yourself with your schedule and the dates/times you are expected to be in the lab. 
+   - If you are unable to attend your shift, please reach out to others on your study team to coordinate coverage for the study. 
 
 - Frequently check the lab calendar to ensure that you are aware of all scheduled appointments. 
 

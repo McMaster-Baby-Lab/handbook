@@ -28,8 +28,6 @@ permalink: /undergrads
     - Data analysis: pre-processing and statistical analyses
     - Software development: develop modules for the research management system
 
-### Lab Shift Expectations
-
 **Check emails, voicemails**
 - Respond to emails and voicemails 
 - If it's not possible for you to respond (e.g., a difficult parent question), find someone who can
@@ -56,8 +54,6 @@ permalink: /undergrads
 **Schedule families for studies**
 - Check where your scheduling team has left off in their scheduling. 
 - Schedule for your team’s studies using the scheduling scripts, DRDB, calling and checking the calendar
-
-
 
 **Prepare for the next day**
 

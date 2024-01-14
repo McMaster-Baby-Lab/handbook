@@ -17,33 +17,29 @@ permalink: labActivities
 
 ---
 
-## Lab meetings
+## Office Hours
 
-The lab meeting schedule will be provided at the beginning of each semester. All lab members are expected to attend. 
+Schedule coming soon...
 
-The spring/summer lab meeting schedule can be accessed here: [Spring/Summer Term Lab Meetings](https://docs.google.com/document/d/1sKimiWTpUe4PQL3tFgEDz_NydGFLITvv2hTn5xdvS1c/edit?usp=sharing)
+Office hours are times where students can drop-in and talk to Dr. Xiao about the progress on their study, any challenges they may be having, share successes, or discuss career and research!
 
-Please inform Dr. Xiao if the lab meeting time does not work for you. 
-
-You are expected to attend lab meetings but in the case that a conflict arises, please refer to the posted agenda found on Microsoft Teams to catch up on missed information.
-
+Office hours are in place of lab meetings. There will be multiple times available to accommodate student schedules. Office hours will be available in the last week of each month with several drop-in times available. 
 ## Journal Club
 
-Journal club is an opportunity for the lab to discuss recent papers published in the field during lab meetings. During journal club, students will present and critically analyze a research paper. 
+Journal club is an opportunity for the lab to discuss recent papers published in the field with your study lead (graduate student/post-doc). During journal club, students will present and critically analyze a research paper. 
 
-- Each independent study/thesis student will present 1 paper during a lab meeting. 
-- The journal will be assigned to the student and the student will then select a paper from the journal they are assigned to. 
-- The student will then briefly present the paper at the lab meeting. 
+- Each independent study/thesis student will present 1 paper to their study lead. 
+- The paper will be assigned to the student. 
+- The student will then briefly present the paper to their study lead at a time decided by the study lead. 
   - PowerPoint slides are not permitted, students only need to describe the paper verbally in a 3-minute maximum presentation. 
-- After the presentation, lab members will have an opportunity to ask the student questions about the paper and engage in discussion. 
+- After the presentation, the study lead and other team members will have an opportunity to ask the student questions about the paper and engage in discussion. 
 
 **Article requirements:**
 -	Empirical research articles or review papers. Commentary articles, reports, or correspondence articles do NOT qualify.
 -	Articles published in the past 3 years.
--	Articles never presented at our lab meeting before (check Journal club channel on Teams for past presented papers).
-- Articles that lab members did NOT participate in.
+-	Articles never presented at our  before (check Journal club channel on Teams for past presented papers).
+- Articles that lab members did NOT contribute to.
 
-Submit your article here so that it can be uploaded to our teams channel: [Journal Club Paper Upload](https://forms.office.com/r/9pDG7gw244)
 
 **Here are some tips for your reading and presentation:**
 - Make sure you understand the research question the paper is attempting to answer.
@@ -71,20 +67,9 @@ Mini tasks are posted in the *Mini Tasks* channel in Microsoft Teams.
 ## Project meetings
 You will work alongside a group of other students on a project - please ensure that you are following up with them regularly to complete all tasks.
 
-In the case that you are unable to complete a specific task or require more time, please communicate clearly with the rest of your team members. 
+In the case that you are unable to complete a specific task or require more time, please communicate clearly with the rest of your team. 
 
-## Lab shifts
-
-Lab shifts are an opportunity to work on tasks for your assigned study and also assist with other in-person studies. Lab shifts allow students to gain hands-on experience and develop skills while assisting with in-person research using the eyetracker and fNIRS technology. 
-
-Lab shifts also allow students to build relationships with other lab members and learn from other students in the lab. Students can work together to discuss challenges and prepare for the next stages of their projects. 
-
-Each student will be required to have several hours of lab shifts each week. 
-
-During lab shifts, students should be working on assisting with recruitment, in-person studies, mini-tasks or other project-specific tasks. 
-
-
-## Training
+# Training
 
 We are lucky to have access to these expensive devices that allow us to progress our research. 
 
