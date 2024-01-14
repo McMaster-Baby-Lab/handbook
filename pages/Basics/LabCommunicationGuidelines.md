@@ -16,13 +16,6 @@ permalink: /communicationGuidelines
 {:toc}
 
 ---
-
-## Microsoft Teams
-   - Here you can find recaps from our lab meetings, important training files/documents, as well as other “mini tasks” that you have the option to help complete.
-
-     - **Professionalism:** Maintain a professional and respectful tone when communicating through Microsoft Teams. Adhere to the lab's code of conduct. 
-     - **Updates**: Check Microsoft Teams frequently to be aware of any updates in the lab or changes to lab meetings/scheduling. 
-     - **Confidentiality:** Respect the privacy and confidentiality of the lab's discussions and shared files within Microsoft Teams. Do not share sensitive information or confidential data with people who are not in the lab. 
   
 ## Lab Email
    - The lab email is the primary form of communication used between lab members and participants. 
@@ -52,3 +45,11 @@ See the Lab Calendar section under *Resources > Training* for more information.
    - **Project updates:** Share updates on projects and collaboratively discuss potential ways to troubleshoot challenges. 
    
 
+## Microsoft Teams
+
+Please note that Teams is not currently being used as a regular communication method. Currently, most communication is via email. 
+   - Here you can find recaps from our lab meetings, important training files/documents, as well as other “mini tasks” that you have the option to help complete.
+
+     - **Professionalism:** Maintain a professional and respectful tone when communicating through Microsoft Teams. Adhere to the lab's code of conduct. 
+     - **Updates**: Check Microsoft Teams frequently to be aware of any updates in the lab or changes to lab meetings/scheduling. 
+     - **Confidentiality:** Respect the privacy and confidentiality of the lab's discussions and shared files within Microsoft Teams. Do not share sensitive information or confidential data with people who are not in the lab. 
