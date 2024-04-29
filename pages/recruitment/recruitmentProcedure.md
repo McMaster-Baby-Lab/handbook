@@ -97,7 +97,8 @@ There are several possible outcomes when calling a family. Follow the path for e
 
 **Demo**
 
-<img src="{{ site.baseurl }}/assets/videos/Interested.gif" alt="Interested">
+![family showed interest, appointment time not decided](https://github.com/McMaster-Baby-Lab/handbook/assets/168472505/eb55e753-8121-4b2f-8e4c-564f936bb861)
+
 
 
 ### No answer on the phone
