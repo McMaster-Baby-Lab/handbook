@@ -7,6 +7,8 @@ permalink: /gradsPostDocs
 has_children: true
 ---
 
+If you care about the world, you would poke it.
+
 Doing science is essentially a form of communication. Unlike other professions that deliver emotions and (mis)information, we communicate evidence-based knowledge. The knowledge in our minds is the most valuable thing, and our work should be guided by what we believe.
 
 In this section, you will find discussions on various academic activities such as writing, presentation, programming, and networking. We hope these discussions will be helpful for your scientific explorations.
