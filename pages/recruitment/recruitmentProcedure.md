@@ -66,7 +66,9 @@ There are several possible outcomes when calling a family. Follow the path for e
 
 **Demo**
 
-<img src="{{ site.baseurl }}/assets/videos/ScheduleStudy.gif" alt="Schedule Study">
+![family agrees, appointment time decided](https://github.com/McMaster-Baby-Lab/handbook/assets/168472505/c54ebfee-d2d0-4bab-9e0a-16c0aa5a49b0)
+
+
 
 
 
