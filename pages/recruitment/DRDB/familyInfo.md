@@ -38,7 +38,8 @@ Most often you will search for a family or a child when you are updating their i
 
 **Demo**
 
-![3](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/fdb6652d-34a9-452d-9568-8a15f5ceaf3d)
+![search a family or child](https://github.com/McMaster-Baby-Lab/handbook/assets/168472505/a8e0ad7f-dcc4-4aad-87ef-295db1d25e08)
+
 
 ## Create a family
 
@@ -56,8 +57,9 @@ Most often you will search for a family or a child when you are updating their i
 4. Use the white + to add their children individually
 
 **Demo**
+![add a new family to the system](https://github.com/McMaster-Baby-Lab/handbook/assets/168472505/69a33995-3c89-4bc3-b6dd-26ff4cef5910)
 
-![1](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/932275dc-ad6f-4de5-8067-1b483af0167c)
+
 
 ### How to add a child to a family
 
@@ -74,7 +76,8 @@ Once the family is created and the parent and guardian's contact information is 
 
 **Demo**
 
-![2](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/ba7cf877-e067-4b93-9619-37c63bd5f9d7)
+![how to add a child to a family](https://github.com/McMaster-Baby-Lab/handbook/assets/168472505/b09625f4-2cd6-4e01-80ac-f61ea31ade63)
+
 
 
 ## Edit information
@@ -94,7 +97,8 @@ Before scheduling a study with a family, it is important to verify the family's 
 
 **Demo**
 
-![4](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/89c24206-c3b5-4115-96f0-f79e7164ad8d)
+![how to edit the child's information](https://github.com/McMaster-Baby-Lab/handbook/assets/168472505/bfe5f8d1-af00-4165-b9e1-8eba45d53d2c)
+
 
 ### How to edit the guardian’s information
 
@@ -107,7 +111,8 @@ Before scheduling a study with a family, it is important to verify the family's 
 
 **Demo**
 
-![5](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/078324bf-3e2e-4725-a0d7-31201862c529)
+![how to edit the guardian's information](https://github.com/McMaster-Baby-Lab/handbook/assets/168472505/aee7b623-9ea5-4a04-8be8-8e30a519bc01)
+
 
 ## Add a note to a family
 
@@ -136,8 +141,8 @@ When families are contacted, a record of what was discussed can be added using t
 3. Use the CONV tab – type in the box and select the arrow to complete documenting the conversation
 
 **Demo**
+![note down a conversation](https://github.com/McMaster-Baby-Lab/handbook/assets/168472505/b4fc186c-063b-42fd-b3e2-913c3ae44310)
 
-![6](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/679c96b7-f0e9-4f7f-9c09-15b8d6cb19d4)
 
 ## Remove a family from the system
 
@@ -153,7 +158,8 @@ Sometimes when families are contacted they state that they are not interested in
 
 **Demo**
 
-![9](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/02a8f5cd-3bd8-4941-80a8-7b265e0b0846)
+![remove a family from the system](https://github.com/McMaster-Baby-Lab/handbook/assets/168472505/d71bbc12-a46a-49b6-8284-9a2e2ab7eb6d)
+
 
 ## Batch import family information
  
