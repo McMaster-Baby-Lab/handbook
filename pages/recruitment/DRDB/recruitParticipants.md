@@ -44,8 +44,6 @@ Schedule studies from the *Study Schedule* page when you are looking to recruit 
 **Demo**
 
 ![10](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/ac0090d4-57ea-4beb-9247-ffee86b3a0c2)
-![nocall](https://github.com/McMaster-Baby-Lab/handbook/assets/10648723/17140e1e-2bfc-4d7b-9d9d-f96cb9569da8)
-
 
 ### Schedule from Family Information page
 
