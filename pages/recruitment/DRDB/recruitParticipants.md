@@ -43,7 +43,8 @@ Schedule studies from the *Study Schedule* page when you are looking to recruit 
 
 **Demo**
 
-![10](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/ac0090d4-57ea-4beb-9247-ffee86b3a0c2)
+![schedule from study schedule page](https://github.com/McMaster-Baby-Lab/handbook/assets/168472505/2b289f3b-c3dd-4dc1-a4a6-a6464e9e8bf9)
+
 
 ### Schedule from Family Information page
 
@@ -60,6 +61,11 @@ Schedule studies from the *Family Information* page when you are looking to sche
 6. Once all information is added select schedule, proofread the generated email and set a reminder for the next contact time.
 7. Select _complete_ to finish scheduling.
 
+**Demo**
+
+![schedule from family information page](https://github.com/McMaster-Baby-Lab/handbook/assets/168472505/c0a9ecb3-b33d-4c27-b59c-0aae081d387f)
+
+
 ### Participate in multiple studies per visit
 
 **Typical Scenario**
@@ -73,7 +79,8 @@ Before scheduling a participant for a study, it is important to check if they ar
 
 **Demo**
 
-![12](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/92fe46fe-3930-4f77-991d-8093b6331949)
+![participate in multiple studies per visit](https://github.com/McMaster-Baby-Lab/handbook/assets/168472505/d99fda9c-2d4e-40c2-9e72-b4262ccbe182)
+
 
 
 ### Participate with siblings, who are also eligible for a study
@@ -91,7 +98,8 @@ Before scheduling a participant for a study, it is also important to check if th
 
 **Demo**
 
-![13](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/6d8c37d3-59dd-4d50-8eeb-dbff99c5c0c9)
+![participate with siblings who are also eligible for a study](https://github.com/McMaster-Baby-Lab/handbook/assets/168472505/6f697377-5948-47dd-baa4-6781f064ec28)
+
 
 
 ## Follow up with previously contacted families
