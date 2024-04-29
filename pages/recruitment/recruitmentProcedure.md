@@ -106,7 +106,7 @@ There are several possible outcomes when calling a family. Follow the path for e
 If the family does not answer your phone call, leave them a voicemail and send an “interested” email from DRDB so you can give them the information and they can always contact back to participate if they would like to.
 
 **How-to**
-1. Select _leave a message_
+1. Select _left a message_
 2. Click on the mail icon to _confirm a tentative appointment_
 3. Review and send the follow-up email
 4. Set the reminder for the next contact date
@@ -115,7 +115,8 @@ If the family does not answer your phone call, leave them a voicemail and send a
 
 **Demo**
 
-<img src="{{ site.baseurl }}/assets/videos/nocall.gif" alt="nocall">
+![no answer on the phone](https://github.com/McMaster-Baby-Lab/handbook/assets/168472505/5f5397b7-6496-4d3f-b3cc-b917999cd56d)
+
 
 
 
@@ -131,7 +132,9 @@ If **uninterested** ask if they would like to be kept in the database and potent
 
 **Demo**
 
-<img src="{{ site.baseurl }}/assets/videos/saidno.gif" alt="saidno">
+![said no on the phone](https://github.com/McMaster-Baby-Lab/handbook/assets/168472505/e2870729-1e1d-41cd-b8e4-6b5946b03851)
+
+
 
 
 
