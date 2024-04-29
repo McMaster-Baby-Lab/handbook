@@ -136,8 +136,9 @@ Researchers can check all study appointments through the *Study Apppointments* p
 - You can futher filter by participant or study.
 
 **Demo**
+![search study schedules on the study appointments page](https://github.com/McMaster-Baby-Lab/handbook/assets/168472505/4e7e854a-f4aa-4cb4-b216-d7ee91b4e92a)
 
-<img src="{{ site.baseurl }}/assets/videos/studyappt.gif" alt="studyappt">
+
 
 
 ## Update existing schedule/appointment
@@ -158,7 +159,8 @@ Researchers will need to change the status of an appointment in DRDB if a family
 
 **Demo**
 
-![18](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/edd9eca3-a41f-486e-9b51-8fdbec947270)
+![change the status of an appointment](https://github.com/McMaster-Baby-Lab/handbook/assets/168472505/56d6adeb-b26b-40a7-9e19-4705d6b9c3b8)
+
 
 ### Add more studies to existing schedule
 
@@ -175,7 +177,8 @@ After scheduling a participant, if you noticed that they are elligible for other
 
 **Demo**
 
-![17](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/9a206ce7-04f1-4340-a3b4-dc9112a68d21)
+![add more studies to existing schedule](https://github.com/McMaster-Baby-Lab/handbook/assets/168472505/fa1794df-ae85-4296-8696-d94cb301498a)
+
 
 
 ### Remove studies from an existing schedule
@@ -195,7 +198,8 @@ Sometimes participants do not show up to their scheduled appointment time. In th
 
 **Demo**
 
-![19](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/701750cf-a83f-49fa-92ca-4dac233b40f9)
+![if a participant does not come to their appointment](https://github.com/McMaster-Baby-Lab/handbook/assets/168472505/a1814016-3d8d-4a03-816f-78e1bf41da84)
+
 
 #### If a participant who initially said they were interested no longer wishes to participate…
 
@@ -212,7 +216,8 @@ Sometimes after considering participating families choose not to participate. Fo
 
 **Demo**
 
-![20](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/cad80db4-4aff-4a44-8803-8c2b8ba58815)
+![if a participant who initially said they were interested no longer wishes to participate](https://github.com/McMaster-Baby-Lab/handbook/assets/168472505/01d72877-b9c6-47be-a35e-62277ebf8448)
+
 
 
 ### Mark the completion of a study appointment
@@ -229,4 +234,4 @@ After a family has participated in the study, mark that appointment as completed
 
 **Demo**
 
-![21](https://github.com/McMaster-Baby-Lab/handbook/assets/132396918/ad7d6b39-cd2d-4f1e-91ed-25c84b5536ae)
+![mark the completion of a study appointment](https://github.com/McMaster-Baby-Lab/handbook/assets/168472505/fbbe39d0-461e-41f8-b1af-76171fe89c1b)
