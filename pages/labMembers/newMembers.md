@@ -68,7 +68,7 @@ Communication (between lab members, Lab Manager, grad students, postdocs) is ess
 
 ## Checklist for new members
 
-- [ ] Email Maya for the access card application at resendee@mcmaster.ca
+- [ ] Email Maya for the access card application at mammonm@mcmaster.ca
 - [ ] Fill out [this form](https://forms.office.com/r/DyyjwnPBXj) to have your bio added to our website. For the uploaded photos, make sure to crop them in 500 * 500 pixels.
 - [ ] Download the [McMaster VPN](https://uts.mcmaster.ca/services/computers-printers-and-software/virtual-private-networking/) to access [DRDB](https://mcmaster-baby-lab.github.io/handbook/DRDB)
 - [ ] Ensure you are able to gain access to [DRDB](https://mcmaster-baby-lab.github.io/handbook/DRDB) (you will receive an email invite, email Maya at mammonm@mcmaster.ca if you did not receive an email invite)
