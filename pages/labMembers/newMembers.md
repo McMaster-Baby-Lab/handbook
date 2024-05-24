@@ -68,11 +68,11 @@ Communication (between lab members, Lab Manager, grad students, postdocs) is ess
 
 ## Checklist for new members
 
-- [ ] Email Emma for the access card application at resendee@mcmaster.ca
+- [ ] Email Maya for the access card application at resendee@mcmaster.ca
 - [ ] Fill out [this form](https://forms.office.com/r/DyyjwnPBXj) to have your bio added to our website. For the uploaded photos, make sure to crop them in 500 * 500 pixels.
 - [ ] Download the [McMaster VPN](https://uts.mcmaster.ca/services/computers-printers-and-software/virtual-private-networking/) to access [DRDB](https://mcmaster-baby-lab.github.io/handbook/DRDB)
-- [ ] Ensure you are able to gain access to [DRDB](https://mcmaster-baby-lab.github.io/handbook/DRDB) (you will receive an email invite, email Emma at resendee@mcmaster.ca if you did not receive an email invite)
-- [ ] Email Emma to request access to the Lab Google Calendar at resendee@mcmaster.ca if you will be assisting with recruitment.
+- [ ] Ensure you are able to gain access to [DRDB](https://mcmaster-baby-lab.github.io/handbook/DRDB) (you will receive an email invite, email Maya at mammonm@mcmaster.ca if you did not receive an email invite)
+- [ ] Email Maya to request access to the Lab Google Calendar at mammonm@mcmaster.ca if you will be assisting with recruitment.
 - [ ] Familiarize yourself with the expectations based on your role in the lab. 
 - [ ] Familiarize yourself will all protocols and procedures for conducting studies
 - [ ] Review all training materials for recruitment and [DRDB](https://mcmaster-baby-lab.github.io/handbook/DRDB)
