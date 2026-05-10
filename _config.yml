@@ -1,6 +1,6 @@
 title: Baby Lab Handbook
 description: A place for the guides and rules of McMaster Baby Lab ;)
-theme: just-the-docs
+# theme: just-the-docs (moved to plugins below)
 
 url: https://mcmaster-baby-lab.github.io/handbook
 
@@ -86,7 +86,9 @@ callouts:
     color: red
 
 plugins:
+  - jekyll-include-cache
   - jekyll-last-modified-at
+  - just-the-docs
 
 # Optional. The default date format, used if none is specified in the tag.
 last-modified-at:
